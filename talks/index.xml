@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on Daniel Rodriguez</title>
+    <title>Charlas on Daniel Rodriguez</title>
     <link>https://el-nasa.github.io/blog/talks/</link>
-    <description>Recent content in Talks on Daniel Rodriguez</description>
+    <description>Recent content in Charlas on Daniel Rodriguez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://el-nasa.github.io/blog/talks/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <lastBuildDate>Fri, 03 Dec 2021 19:42:02 -0500</lastBuildDate><atom:link href="https://el-nasa.github.io/blog/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conferencia en el JOVEN EMBDATA 2021</title>
       <link>https://el-nasa.github.io/blog/talks/jovenesembdata2021/</link>
       <pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
       
       <guid>https://el-nasa.github.io/blog/talks/jovenesembdata2021/</guid>
-      <description>Tuve el honor de ser invitado para realizar una conferencia en el JOVEN EMBDATA 2021, el la cual realicé la charla *&amp;ldquo;Avances en tecnología aeroespacial del grupo LIDER&amp;rdquo;. El evento EMB Data es uno de los mas importantes en la región.</description>
+      <description>Tuve el honor de ser invitado para realizar una conferencia en el JOVEN EMBDATA 2021, el la cual realicé la charla *&amp;ldquo;Avances en tecnología aeroespacial del grupo LIDER&amp;rdquo;. El evento EMB Data es uno de los mas importantes en la región.
+ </description>
     </item>
     
     <item>
@@ -78,6 +79,17 @@ Se espera que el artículo envíado aparezca publicado en el libro de mememorias
       <pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
       
       <guid>https://el-nasa.github.io/blog/talks/redcolsi2019/</guid>
+      <description>Original name &amp;ldquo;Aplicación Práctica de Ingeniería Aeroespacial a Través de la construcción de un prototipo CanSat y Cohetes Modelo para la medición de factores armosféricos&amp;rdquo;.
+This was the first talk i&amp;rsquo;ve done to general public, i presented the first version of the model rocket POA at the Autonomous University of Colombia (Universidad Autonoma de Colombia). I presented this poster
+ </description>
+    </item>
+    
+    <item>
+      <title>Red Colsi 2019</title>
+      <link>https://el-nasa.github.io/blog/talks/redcolsi2019.en/</link>
+      <pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
+      
+      <guid>https://el-nasa.github.io/blog/talks/redcolsi2019.en/</guid>
       <description>Original name &amp;ldquo;Aplicación Práctica de Ingeniería Aeroespacial a Través de la construcción de un prototipo CanSat y Cohetes Modelo para la medición de factores armosféricos&amp;rdquo;.
 This was the first talk i&amp;rsquo;ve done to general public, i presented the first version of the model rocket POA at the Autonomous University of Colombia (Universidad Autonoma de Colombia). I presented this poster
  </description>
