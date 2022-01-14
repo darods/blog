@@ -2,91 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Daniel Rodriguez</title>
-    <link>https://el-nasa.github.io/blog-2/</link>
+    <link>https://el-nasa.github.io/blog/</link>
     <description>Recent content in Data Science Portfolio on Daniel Rodriguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 19:42:02 -0500</lastBuildDate><atom:link href="https://el-nasa.github.io/blog-2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 19:42:02 -0500</lastBuildDate><atom:link href="https://el-nasa.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conferencia en el JOVEN EMBDATA 2021</title>
-      <link>https://el-nasa.github.io/blog-2/talks/jovenesembdata2021/</link>
+      <link>https://el-nasa.github.io/blog/talks/jovenesembdata2021/</link>
       <pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/talks/jovenesembdata2021/</guid>
+      <guid>https://el-nasa.github.io/blog/talks/jovenesembdata2021/</guid>
       <description>Tuve el honor de ser invitado para realizar una conferencia en el JOVEN EMBDATA 2021, el la cual realicé la charla *&amp;ldquo;Avances en tecnología aeroespacial del grupo LIDER&amp;rdquo;. El evento EMB Data es uno de los mas importantes en la región.</description>
     </item>
     
     <item>
       <title>Ponencia en el FLISOL Ecuador 2021</title>
-      <link>https://el-nasa.github.io/blog-2/talks/gludxvii2021/</link>
+      <link>https://el-nasa.github.io/blog/talks/gludxvii2021/</link>
       <pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/talks/gludxvii2021/</guid>
+      <guid>https://el-nasa.github.io/blog/talks/gludxvii2021/</guid>
       <description>Participé como ponente con la presentación titulada &amp;ldquo;Uso de satélites con radios definidas por software&amp;rdquo; en la Semana Linux UD XVIII del grupo GNU Linux de la Universidad Distrital. link</description>
     </item>
     
     <item>
       <title>Exposición en el FLISOL Ecuador 2021</title>
-      <link>https://el-nasa.github.io/blog-2/talks/flislolec2021/</link>
+      <link>https://el-nasa.github.io/blog/talks/flislolec2021/</link>
       <pubDate>Sat, 15 May 2021 19:42:02 -0500</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/talks/flislolec2021/</guid>
+      <guid>https://el-nasa.github.io/blog/talks/flislolec2021/</guid>
       <description>Realicé la exposición &amp;ldquo;Radios Definidas por Software: Historia y demostración de su uso&amp;rdquo; en el 17° Festival Latinoamericano De Instalación De Software Libre, el cual se puede ver en el siguiente enlace.</description>
     </item>
     
     <item>
       <title>Ponencia en el VIII Encuentro de Investigación</title>
-      <link>https://el-nasa.github.io/blog-2/talks/encuentrofce2020/</link>
+      <link>https://el-nasa.github.io/blog/talks/encuentrofce2020/</link>
       <pubDate>Tue, 27 Oct 2020 19:42:02 -0500</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/talks/encuentrofce2020/</guid>
+      <guid>https://el-nasa.github.io/blog/talks/encuentrofce2020/</guid>
       <description>Presenté la ponencia &amp;ldquo;Desarrollo de picosatélites tipo CanSat para la eseñanza dy aplicación de fundamentos de física&amp;rdquo; en el VII Encuentro de Investigación de la Facultad de Ciencias y Educación de la Universidad Distrital Francisco José de Caldas.
 Se espera que el artículo envíado aparezca publicado en el libro de mememorias del evento.</description>
     </item>
     
     <item>
       <title>Exposición en el Software Freedom Day Ecuador 2020</title>
-      <link>https://el-nasa.github.io/blog-2/talks/softwarefreedomdayec2020/</link>
+      <link>https://el-nasa.github.io/blog/talks/softwarefreedomdayec2020/</link>
       <pubDate>Tue, 29 Sep 2020 19:42:02 -0500</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/talks/softwarefreedomdayec2020/</guid>
+      <guid>https://el-nasa.github.io/blog/talks/softwarefreedomdayec2020/</guid>
       <description>Realicé la exposición &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en el &amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Ponencia en la semana Linux UD XVII</title>
-      <link>https://el-nasa.github.io/blog-2/talks/gludxvii2020/</link>
+      <link>https://el-nasa.github.io/blog/talks/gludxvii2020/</link>
       <pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/talks/gludxvii2020/</guid>
+      <guid>https://el-nasa.github.io/blog/talks/gludxvii2020/</guid>
       <description>Participé como ponente con dos presentaciones, la primera titulada &amp;ldquo;Interfaz de monitoreo en tiempo real para picosatelites y cohetes modelo&amp;rdquo; y la segunda &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en la Semana Linux UD XVII del grupo GNU Linux de la Universidad Distrital.</description>
     </item>
     
     <item>
       <title>Ponencia en el V Encuentro Internacional ReLaCa ESPACIO</title>
-      <link>https://el-nasa.github.io/blog-2/talks/relaca2020/</link>
+      <link>https://el-nasa.github.io/blog/talks/relaca2020/</link>
       <pubDate>Fri, 22 May 2020 19:00:49 -0500</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/talks/relaca2020/</guid>
+      <guid>https://el-nasa.github.io/blog/talks/relaca2020/</guid>
       <description>Se realizó una ponencia de forma virtual en el V Encuentro Internacional de la Red Latinoamericana y del Caribe del Espacio - ReLaCa ESPACIO, en la que se explicó el software de visualización de datos en tiempo real para picosatelites tipo CanSat y cohetes modelo.
  </description>
     </item>
     
     <item>
       <title>Project 1: Data Science Salary Estimator</title>
-      <link>https://el-nasa.github.io/blog-2/post/project-1/</link>
+      <link>https://el-nasa.github.io/blog/post/project-1/</link>
       <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/post/project-1/</guid>
+      <guid>https://el-nasa.github.io/blog/post/project-1/</guid>
       <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
     </item>
     
     <item>
       <title>Ponencia en el encuentro Red Colsi Nodo Bogotá 2019</title>
-      <link>https://el-nasa.github.io/blog-2/talks/redcolsi2019/</link>
+      <link>https://el-nasa.github.io/blog/talks/redcolsi2019/</link>
       <pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/talks/redcolsi2019/</guid>
+      <guid>https://el-nasa.github.io/blog/talks/redcolsi2019/</guid>
       <description>Original name &amp;ldquo;Aplicación Práctica de Ingeniería Aeroespacial a Través de la construcción de un prototipo CanSat y Cohetes Modelo para la medición de factores armosféricos&amp;rdquo;.
 This was the first talk i&amp;rsquo;ve done to general public, i presented the first version of the model rocket POA at the Autonomous University of Colombia (Universidad Autonoma de Colombia). I presented this poster
  </description>
@@ -94,20 +94,20 @@ This was the first talk i&amp;rsquo;ve done to general public, i presented the f
     
     <item>
       <title>Project 2: Ball Image Classifier</title>
-      <link>https://el-nasa.github.io/blog-2/post/project-2/</link>
+      <link>https://el-nasa.github.io/blog/post/project-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/post/project-2/</guid>
+      <guid>https://el-nasa.github.io/blog/post/project-2/</guid>
       <description>For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://el-nasa.github.io/blog-2/contact/</link>
+      <link>https://el-nasa.github.io/blog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://el-nasa.github.io/blog-2/contact/</guid>
+      <guid>https://el-nasa.github.io/blog/contact/</guid>
       <description>Follow me on these social media platforms.
    Platform URL     YouTube: https://www.youtube.com/c/kenjee1?sub_confirmation=1   Website: https://www.playingnumbers.com, https://kennethjee.com/   Twitter: https://twitter.com/KenJee_DS   LinkedIn: https://www.linkedin.com/in/kenjee/   Medium: https://medium.com/@kenneth.b.jee   GitHub: https://github.com/PlayingNumbers    </description>
     </item>
