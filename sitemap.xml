@@ -47,17 +47,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://el-nasa.github.io/blog/post/project-1/</loc>
-    <lastmod>2020-05-09T10:58:08-04:00</lastmod>
+    <loc>https://el-nasa.github.io/blog/post/gui-cansat-rockets/</loc>
+    <lastmod>2020-03-08T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://el-nasa.github.io/blog/talks/redcolsi2019/</loc>
-    <lastmod>2019-05-09T19:00:49-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://el-nasa.github.io/blog/talks/redcolsi2019.en/</loc>
     <lastmod>2019-05-09T19:00:49-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

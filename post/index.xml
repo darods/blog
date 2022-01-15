@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Daniel Rodriguez</title>
+    <title>Proyectos on Daniel Rodriguez</title>
     <link>https://el-nasa.github.io/blog/post/</link>
-    <description>Recent content in Projects on Daniel Rodriguez</description>
+    <description>Recent content in Proyectos on Daniel Rodriguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://el-nasa.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1: Data Science Salary Estimator</title>
-      <link>https://el-nasa.github.io/blog/post/project-1/</link>
-      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      <title>GUI visualización de datos en tiempo real para cohetes y picosatelites</title>
+      <link>https://el-nasa.github.io/blog/post/gui-cansat-rockets/</link>
+      <pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://el-nasa.github.io/blog/post/project-1/</guid>
-      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+      <guid>https://el-nasa.github.io/blog/post/gui-cansat-rockets/</guid>
+      <description>Haz clic aquí para ver el repositorio
+GUI Estación terrestre para CanSat u OBC&amp;rsquo;s Código de una GUI para una estación terrestre para CanSats y/o OBCs donde se muestran los datos de diferentes sensores en tiempo real. No se necesitan sensores para probarlo.
+Tabla de contenidos  Apoyo Información general Liberias Configuración Linux Configuración Windows ¿Cómo funciona? Fuentes Licencia   Apoyo Si usaste este proyecto o aprendiste algo, por favor compartelo o dale una estrella en github para seguir haciendo proyectos de código abierto.</description>
     </item>
     
     <item>
