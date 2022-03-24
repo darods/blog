@@ -6,24 +6,14 @@
     <description>Recent content on Daniel Rodriguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 12 Dec 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://el-nasa.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Graficador de arboles KD</title>
-      <link>https://el-nasa.github.io/blog/post/graficador-arbol-kd/</link>
-      <pubDate>Sun, 12 Dec 2021 11:00:59 -0400</pubDate>
-      
-      <guid>https://el-nasa.github.io/blog/post/graficador-arbol-kd/</guid>
-      <description>Es un pequeño Script de python que grafica un arbol KD (técnica de IA) a partir de un conjunto de datos númericos.
-Esto es basatne util porque la graficación manual de un conjunto de datos mediano puede llegar a ser muy demorado, y practicamente imposible si es un gran conjunto.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 03 Dec 2021 19:42:02 -0500</lastBuildDate><atom:link href="https://el-nasa.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conferencia en el JOVEN EMBDATA 2021</title>
       <link>https://el-nasa.github.io/blog/talks/jovenesembdata2021/</link>
       <pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
       
       <guid>https://el-nasa.github.io/blog/talks/jovenesembdata2021/</guid>
-      <description>Tuve el honor de ser invitado para realizar una conferencia en el JOVEN EMBDATA 2021, el la cual realicé la charla *&amp;ldquo;Avances en tecnología aeroespacial del grupo LIDER&amp;rdquo;. El evento EMB Data es uno de los mas importantes en la región.
+      <description>Tuve el honor de ser invitado para realizar una conferencia en el JOVEN EMBDATA 2021, el la cual realicé la charla *&amp;ldquo;Avances en tecnología aeroespacial del grupo LIDER&amp;rdquo;. El evento EMB Data es uno de los más importantes en la región.
 Mira aquí el vídeo promocional
  </description>
     </item>
@@ -34,9 +24,11 @@ Mira aquí el vídeo promocional
       <pubDate>Wed, 20 Oct 2021 11:00:59 -0400</pubDate>
       
       <guid>https://el-nasa.github.io/blog/post/contador-rayos/</guid>
-      <description>Haz clic aquí para ir al repositorio
-Contador de rayos Cuenta cuantos rayos hay en imágenes de tormentas eléctricas usando dos tipos de algoritmos, redes neuronales convoluciones y un algoritmo de lógica difusa optimizado con una técnica de algoritmos genéticos.
-¿Para que sirve? Las tormentas eléctricas son uno de los fenómenos naturales mas devastadores que existen, cada año se pieden millones de dolares en reparar los daños que causan los rayos en las zonas donde caen, ya sea por perdida de equipos, infraestructura o mismos daños a la naturaleza que se requieren mitigar, como es el caso de los incendios forestales.</description>
+      <description>Contador de rayos Cuenta cuántos rayos hay en imágenes de tormentas eléctricas usando dos tipos de algoritmos, redes neuronales convolucionales y un algoritmo de lógica difusa optimizado con una técnica de algoritmos genéticos.
+Haz clic aquí para ir al repositorio
+Haz clic aquí para ver el articulo cientifico
+Haz clic aquí para ver el poster
+¿Para qué sirve? Las tormentas eléctricas son uno de los fenómenos naturales más devastadores que existen, cada año se pierden millones de dólares en reparar los daños que causan los rayos en las zonas donde caen, ya sea por pérdida de equipos, infraestructura o mismos daños a la naturaleza que se requieren mitigar, como es el caso de los incendios forestales.</description>
     </item>
     
     <item>
@@ -56,16 +48,8 @@ Haz clic aquí para ver la conferencia.
       <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
       
       <guid>https://el-nasa.github.io/blog/post/claraboya-calidad-agua/</guid>
-      <description>Este robot es una propuesta que hicimos para la hackathon de IBM en el año 2021, su proposito es medir la calidad del agua en zonas rurales.</description>
-    </item>
-    
-    <item>
-      <title>CanSat v3</title>
-      <link>https://el-nasa.github.io/blog/post/cansat-esp32/</link>
-      <pubDate>Mon, 28 Jun 2021 11:00:59 -0400</pubDate>
-      
-      <guid>https://el-nasa.github.io/blog/post/cansat-esp32/</guid>
-      <description>Esta es la tercera versión del proyecto de CanSat, que tiene como mejoras respecto a la versión 2 (CanSaT UNAM) que tiene dos ESP32, el primero que se encarga de la gestión del monitoro de los diferentes sensores, telecominicaciones y generación de alertas, y el segundo es un ESP32-CAM que se comunica con el primero para tomar fotografías y vídeo, también monitorea el estado de dos sensores de calidad del aire.</description>
+      <description>Este robot es una propuesta que hicimos para la hackathon de IBM en el año 2021, su propósito es medir la calidad del agua en zonas rurales.
+Diseño electrónico   Diseño mecánico  </description>
     </item>
     
     <item>
@@ -74,9 +58,9 @@ Haz clic aquí para ver la conferencia.
       <pubDate>Wed, 16 Jun 2021 11:00:59 -0400</pubDate>
       
       <guid>https://el-nasa.github.io/blog/post/app-hackathon-taxis-libres/</guid>
-      <description>Este proyecto surge como propuesta para la hackathon de la empresa Taxis Libres en el año 2020 en el que se buscaba mejorar la aplicación utilizada por los usuarios para que fuera mas atractiva.
-La solución que propuso mi equipo fue la integración de la inteligencia artificial de IBM para hacer traducción de las conversasiones que tienen los pasajeros y conductores en el caso de que hablen distintos idiomas.
-Para la solución se utilizó la flutter para el desarrollo de una aplicación que recibe audio, junto con la herramienta node-red como el &amp;ldquo;back end&amp;rdquo; de la aplicación que recibe este audio y lo procesa para convertirlo en texto (speech to text), lo traduce y la inteligencia artificial reproduce un audio con el texto traducido (text to speech).</description>
+      <description>Haz clic aquí para ver la demostración
+Este proyecto surge como propuesta para la hackathon de la empresa Taxis Libres en el año 2021 en el que se buscaba mejorar la aplicación utilizada por los usuarios para que fuera más atractiva.
+La solución que propuso mi equipo fue la integración de la inteligencia artificial de IBM para hacer traducción de las conversaciones que tienen los pasajeros y conductores en el caso de que hablen distintos idiomas.</description>
     </item>
     
     <item>
@@ -85,16 +69,9 @@ Para la solución se utilizó la flutter para el desarrollo de una aplicación q
       <pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
       
       <guid>https://el-nasa.github.io/blog/post/cohete-poa/</guid>
-      <description>El cohete modelo Pillar of Autumn (POA) es el primer proyecto desarrollado por el semillero de investigación, y aún sigue en desarrollo.</description>
-    </item>
-    
-    <item>
-      <title>Computadora de vuelo (v3) POA</title>
-      <link>https://el-nasa.github.io/blog/post/poa-obc-v3/</link>
-      <pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
-      
-      <guid>https://el-nasa.github.io/blog/post/poa-obc-v3/</guid>
-      <description>tercera versión de la computadora de vuelo para el cohete moedelo POA, es un prototipo que tiene como mejoras la comunicación por medio de Xbees intercambiables, sistemas de alertas visuales por leds, capacidad para tener diferentes fuentes de alimentación y ser reprogramable.</description>
+      <description>El cohete modelo Pillar of Autumn (POA) es el primer proyecto desarrollado por el semillero de investigación, y aún sigue en desarrollo.
+¿De qué va el proyecto? Realizar un cohete modelo que vuele 100 metros el cual nos permita probar
+ Electrónica: Probar sistema electrónico para la transmisión de información en tiempo real Software: Software de visualización de datos recibidos Paracaídas: Probar sistema de detección de caída libre y accionar paracaídas Motor: Probar funcionamiento de motor y validarlo respecto a pruebas estáticas  Vista general del cohete  Computadora de vuelo Aquí podrá encontrar más información sobre el código de la computadora de vuelo  Simulaciones   Pruebas con motores Vídeo de pruebas estaticas  Software Este software fue hecho para la toma y análisis de datos de serie de tiempo para determinar la curva de empuje del cohete.</description>
     </item>
     
     <item>
@@ -108,33 +85,13 @@ Para la solución se utilizó la flutter para el desarrollo de una aplicación q
     </item>
     
     <item>
-      <title>decodificación satelite NOAA</title>
-      <link>https://el-nasa.github.io/blog/post/decodificacion-noaa/</link>
-      <pubDate>Fri, 16 Apr 2021 11:00:59 -0400</pubDate>
-      
-      <guid>https://el-nasa.github.io/blog/post/decodificacion-noaa/</guid>
-      <description>Este proyecto consiste en la recepción de la señal de un satelite del clima NOAA utilizando radios definidas por software, para su poesterior decodiciación y conversión en una imagen del mapa la tierra.</description>
-    </item>
-    
-    <item>
-      <title>Computadora de vuelo cohete V2</title>
-      <link>https://el-nasa.github.io/blog/post/poa-obc/</link>
-      <pubDate>Fri, 19 Mar 2021 11:00:59 -0400</pubDate>
-      
-      <guid>https://el-nasa.github.io/blog/post/poa-obc/</guid>
-      <description>Computadora de vuelo (OBC) Pillar of Autumn (POA) V2 El proposito de este proyecto es proveer el conocimiento y el código de la construcción de una computadora de vuelo (OBC) para un cohete modelo amateur con fines de invetigación cientifica.
-El código de arduino se encuentra en el directorio OBC, y está dividido en subarchivos para cada caso de uso. Para usarlo tienes que compilar el archivo OBC.ino.
-¿Qué es lo que hace?</description>
-    </item>
-    
-    <item>
       <title>Ponencia en el VIII Encuentro de Investigación</title>
       <link>https://el-nasa.github.io/blog/talks/encuentrofce2020/</link>
       <pubDate>Tue, 27 Oct 2020 19:42:02 -0500</pubDate>
       
       <guid>https://el-nasa.github.io/blog/talks/encuentrofce2020/</guid>
-      <description>Presenté la ponencia &amp;ldquo;Desarrollo de picosatélites tipo CanSat para la eseñanza dy aplicación de fundamentos de física&amp;rdquo; en el VII Encuentro de Investigación de la Facultad de Ciencias y Educación de la Universidad Distrital Francisco José de Caldas.
-Se espera que el artículo envíado aparezca publicado en el libro de mememorias del evento.
+      <description>Presenté la ponencia &amp;ldquo;Desarrollo de picosatélites tipo CanSat para la enseñanza dy aplicación de fundamentos de física&amp;rdquo; en el VII Encuentro de Investigación de la Facultad de Ciencias y Educación de la Universidad Distrital Francisco José de Caldas.
+Se espera que el artículo envíado aparezca publicado en el libro de memorias del evento.
  </description>
     </item>
     
@@ -150,12 +107,14 @@ Haz clic aquí para ver la coferencia
     </item>
     
     <item>
-      <title>Hongo - machine</title>
+      <title>Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala</title>
       <link>https://el-nasa.github.io/blog/post/hongo-machine/</link>
-      <pubDate>Sun, 27 Sep 2020 11:00:59 -0400</pubDate>
+      <pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate>
       
       <guid>https://el-nasa.github.io/blog/post/hongo-machine/</guid>
-      <description>La hongo machine es una propuesta on la que ganamos en el reto de innovación dek UN Robot 2020. Cosiste en una maquina semi automatica para el cultivo de hongos pensada para personas que viven en zonas de guerra.</description>
+      <description>Vídeo
+El &amp;ldquo;Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala&amp;rdquo; (A.K.A: hongo-machine) es una propuesta con la que ganamos el reto de innovación del UN Robot 2020. Consiste en una máquina semiautomática para el cultivo de hongos pensada para personas que viven en zonas de guerra.
+Planteamiento del problema Los problemas de desnutrición a nivel mundial son una de las mayores problemáticas de la humanidad, muchas veces causada por limitaciones que tienen los individuos para obtener alimentos que les sean nutritivos y de bajo costo en condiciones adversas como conflicto armado, clima, pobreza, entre otras cosas.</description>
     </item>
     
     <item>
@@ -164,27 +123,8 @@ Haz clic aquí para ver la coferencia
       <pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate>
       
       <guid>https://el-nasa.github.io/blog/talks/gludxvii2020/</guid>
-      <description>Participé como ponente con dos presentaciones, la primera titulada &amp;ldquo;Interfaz de monitoreo en tiempo real para picosatelites y cohetes modelo&amp;rdquo; y la segunda &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en la Semana Linux UD XVII del grupo GNU Linux de la Universidad Distrital.
-Haz clic aquí para ver la conferencia
+      <description>Participé como ponente con dos presentaciones, la primera titulada &amp;ldquo;Interfaz de monitoreo en tiempo real para picosatélites y cohetes modelo&amp;rdquo; y la segunda &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en la Semana Linux UD XVII del grupo GNU Linux de la Universidad Distrital. Haz clic aquí para ver la conferencia
  </description>
-    </item>
-    
-    <item>
-      <title>PID viga y bola</title>
-      <link>https://el-nasa.github.io/blog/post/viga-bola/</link>
-      <pubDate>Thu, 20 Aug 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://el-nasa.github.io/blog/post/viga-bola/</guid>
-      <description>Proyecto realizado para la asignatura de cibernetica II, es el control PID del problema de viga y bola.</description>
-    </item>
-    
-    <item>
-      <title>My little Sniffer</title>
-      <link>https://el-nasa.github.io/blog/post/my-little-sniffer/</link>
-      <pubDate>Wed, 03 Jun 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://el-nasa.github.io/blog/post/my-little-sniffer/</guid>
-      <description>Proyecto de la asignatura redes de comunicaciones I, en el que se utilizan las capacidades de la librería Scapy en conjunto con una interfaz hecha en Tk. Puede graficar las diferentes capas del modelo OSI que contiene cada paquete.</description>
     </item>
     
     <item>
@@ -193,7 +133,7 @@ Haz clic aquí para ver la conferencia
       <pubDate>Fri, 22 May 2020 19:00:49 -0500</pubDate>
       
       <guid>https://el-nasa.github.io/blog/talks/relaca2020/</guid>
-      <description>Se realizó una ponencia de forma virtual en el V Encuentro Internacional de la Red Latinoamericana y del Caribe del Espacio - ReLaCa ESPACIO, en la que se explicó el software de visualización de datos en tiempo real para picosatelites tipo CanSat y cohetes modelo.
+      <description>Se realizó una ponencia de forma virtual en el V Encuentro Internacional de la Red Latinoamericana y del Caribe del Espacio - ReLaCa ESPACIO, en la que se explicó el software de visualización de datos en tiempo real para picosatélites tipo CanSat y cohetes modelo.
 Haz clic aquí para ver la conferencia
  </description>
     </item>
@@ -204,27 +144,8 @@ Haz clic aquí para ver la conferencia
       <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
       
       <guid>https://el-nasa.github.io/blog/post/cansat-unam/</guid>
-      <description>Este es el picosatelite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (casi 200 equipos iniciales).</description>
-    </item>
-    
-    <item>
-      <title>Base de datos de feligreses</title>
-      <link>https://el-nasa.github.io/blog/post/base-datos-feligreses/</link>
-      <pubDate>Mon, 30 Mar 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://el-nasa.github.io/blog/post/base-datos-feligreses/</guid>
-      <description>Este proyecto fue el asignado como final de la asignatura &amp;ldquo;Ciencias de la computación I&amp;rdquo; en la Universidad Distrital FJC.
-El proyecto consiste en realizar una base de datos desde cero utilizando alguna de las estructuras de datos vistas en clase (en nuestro caso fue una multilista) en el lenguaje C++.
-La base de datos es de un cluto de feligreses que quiere gestionar la información de sus iglesias, pastores y visitantes.</description>
-    </item>
-    
-    <item>
-      <title>Banco de pruebas estaticas para motores de cohetes</title>
-      <link>https://el-nasa.github.io/blog/post/banco-pruebas-estaticas/</link>
-      <pubDate>Sat, 14 Mar 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://el-nasa.github.io/blog/post/banco-pruebas-estaticas/</guid>
-      <description>añadir info</description>
+      <description>Este es el picosatélite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (cerca de 200 equipos iniciales).
+¿De que trata? El objetivo es el diseño de un picosatélite que cumpla con los requerimientos planteados en la competencia iberoamericana de satélites enlatados de la UNAM. La idea es que este satélite se eleve en un dron a 400 metros sobre el nivel del suelo para luego ser liberado.</description>
     </item>
     
     <item>
@@ -244,8 +165,8 @@ Tabla de contenidos  Apoyo Información general Liberias Configuración Linux Co
       <pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
       
       <guid>https://el-nasa.github.io/blog/talks/redcolsi2019/</guid>
-      <description>Original name &amp;ldquo;Aplicación Práctica de Ingeniería Aeroespacial a Través de la construcción de un prototipo CanSat y Cohetes Modelo para la medición de factores armosféricos&amp;rdquo;.
-This was the first talk i&amp;rsquo;ve done to general public, i presented the first version of the model rocket POA at the Autonomous University of Colombia (Universidad Autonoma de Colombia). I presented this poster
+      <description>Nombre original &amp;ldquo;Aplicación Práctica de Ingeniería Aeroespacial a Través de la construcción de un prototipo CanSat y Cohetes Modelo para la medición de factores atmosféricos&amp;rdquo;.
+Descripción Esta fue la primera charla que dí al público general, en el que presenté la primera versión del cohete modelo POA en la Universidad Autonoma de Colombia. En esa ocasión presenté el siguiente poster.
 (La imagen tarda un poco en cargar)
  </description>
     </item>
