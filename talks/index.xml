@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Charlas on Daniel Rodriguez</title>
+    <title>Charlas on Daniel Rodríguez</title>
     <link>https://darods.github.io/blog/talks/</link>
-    <description>Recent content in Charlas on Daniel Rodriguez</description>
+    <description>Recent content in Charlas on Daniel Rodríguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Fri, 03 Dec 2021 19:42:02 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/talks/index.xml" rel="self" type="application/rss+xml" />
