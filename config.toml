@@ -1,5 +1,5 @@
 title = "Daniel Rodriguez"
-baseURL = "https://darods.github.io/blogt/"
+baseURL = "https://darods.github.io/blog/"
 languageCode = "es"
 theme = "ananke"
 #themesDir = "../.."
