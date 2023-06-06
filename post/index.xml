@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proyectos on Daniel Rodriguez</title>
-    <link>https://darods.github.io/blogt/post/</link>
+    <link>https://darods.github.io/blog/post/</link>
     <description>Recent content in Proyectos on Daniel Rodriguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blogt/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graficador de arboles KD</title>
-      <link>https://darods.github.io/blogt/post/graficador-arbol-kd/</link>
+      <link>https://darods.github.io/blog/post/graficador-arbol-kd/</link>
       <pubDate>Sun, 12 Dec 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/graficador-arbol-kd/</guid>
+      <guid>https://darods.github.io/blog/post/graficador-arbol-kd/</guid>
       <description>Es un pequeño Script de python que grafica un arbol KD (técnica de IA) a partir de un conjunto de datos númericos.
 Esto es basatne util porque la graficación manual de un conjunto de datos mediano puede llegar a ser muy demorado, y practicamente imposible si es un gran conjunto.</description>
     </item>
     
     <item>
       <title>Contador de rayos en imágenes</title>
-      <link>https://darods.github.io/blogt/post/contador-rayos/</link>
+      <link>https://darods.github.io/blog/post/contador-rayos/</link>
       <pubDate>Wed, 20 Oct 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/contador-rayos/</guid>
+      <guid>https://darods.github.io/blog/post/contador-rayos/</guid>
       <description>Haz clic aquí para ir al repositorio
 Contador de rayos Cuenta cuantos rayos hay en imágenes de tormentas eléctricas usando dos tipos de algoritmos, redes neuronales convoluciones y un algoritmo de lógica difusa optimizado con una técnica de algoritmos genéticos.
 ¿Para que sirve? Las tormentas eléctricas son uno de los fenómenos naturales mas devastadores que existen, cada año se pieden millones de dolares en reparar los daños que causan los rayos en las zonas donde caen, ya sea por perdida de equipos, infraestructura o mismos daños a la naturaleza que se requieren mitigar, como es el caso de los incendios forestales.</description>
@@ -30,28 +30,28 @@ Contador de rayos Cuenta cuantos rayos hay en imágenes de tormentas eléctricas
     
     <item>
       <title>Robot de monitoreo de la calidad del gua</title>
-      <link>https://darods.github.io/blogt/post/claraboya-calidad-agua/</link>
+      <link>https://darods.github.io/blog/post/claraboya-calidad-agua/</link>
       <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/claraboya-calidad-agua/</guid>
+      <guid>https://darods.github.io/blog/post/claraboya-calidad-agua/</guid>
       <description>Este robot es una propuesta que hicimos para la hackathon de IBM en el año 2021, su proposito es medir la calidad del agua en zonas rurales.</description>
     </item>
     
     <item>
       <title>CanSat v3</title>
-      <link>https://darods.github.io/blogt/post/cansat-esp32/</link>
+      <link>https://darods.github.io/blog/post/cansat-esp32/</link>
       <pubDate>Mon, 28 Jun 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/cansat-esp32/</guid>
+      <guid>https://darods.github.io/blog/post/cansat-esp32/</guid>
       <description>Esta es la tercera versión del proyecto de CanSat, que tiene como mejoras respecto a la versión 2 (CanSaT UNAM) que tiene dos ESP32, el primero que se encarga de la gestión del monitoro de los diferentes sensores, telecominicaciones y generación de alertas, y el segundo es un ESP32-CAM que se comunica con el primero para tomar fotografías y vídeo, también monitorea el estado de dos sensores de calidad del aire.</description>
     </item>
     
     <item>
       <title>Traductor de idiomas con IA</title>
-      <link>https://darods.github.io/blogt/post/app-hackathon-taxis-libres/</link>
+      <link>https://darods.github.io/blog/post/app-hackathon-taxis-libres/</link>
       <pubDate>Wed, 16 Jun 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/app-hackathon-taxis-libres/</guid>
+      <guid>https://darods.github.io/blog/post/app-hackathon-taxis-libres/</guid>
       <description>Este proyecto surge como propuesta para la hackathon de la empresa Taxis Libres en el año 2020 en el que se buscaba mejorar la aplicación utilizada por los usuarios para que fuera mas atractiva.
 La solución que propuso mi equipo fue la integración de la inteligencia artificial de IBM para hacer traducción de las conversasiones que tienen los pasajeros y conductores en el caso de que hablen distintos idiomas.
 Para la solución se utilizó la flutter para el desarrollo de una aplicación que recibe audio, junto con la herramienta node-red como el &amp;ldquo;back end&amp;rdquo; de la aplicación que recibe este audio y lo procesa para convertirlo en texto (speech to text), lo traduce y la inteligencia artificial reproduce un audio con el texto traducido (text to speech).</description>
@@ -59,37 +59,37 @@ Para la solución se utilizó la flutter para el desarrollo de una aplicación q
     
     <item>
       <title>Cohete modelo POA</title>
-      <link>https://darods.github.io/blogt/post/cohete-poa/</link>
+      <link>https://darods.github.io/blog/post/cohete-poa/</link>
       <pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/cohete-poa/</guid>
+      <guid>https://darods.github.io/blog/post/cohete-poa/</guid>
       <description>El cohete modelo Pillar of Autumn (POA) es el primer proyecto desarrollado por el semillero de investigación, y aún sigue en desarrollo.</description>
     </item>
     
     <item>
       <title>Computadora de vuelo (v3) POA</title>
-      <link>https://darods.github.io/blogt/post/poa-obc-v3/</link>
+      <link>https://darods.github.io/blog/post/poa-obc-v3/</link>
       <pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/poa-obc-v3/</guid>
+      <guid>https://darods.github.io/blog/post/poa-obc-v3/</guid>
       <description>tercera versión de la computadora de vuelo para el cohete moedelo POA, es un prototipo que tiene como mejoras la comunicación por medio de Xbees intercambiables, sistemas de alertas visuales por leds, capacidad para tener diferentes fuentes de alimentación y ser reprogramable.</description>
     </item>
     
     <item>
       <title>decodificación satelite NOAA</title>
-      <link>https://darods.github.io/blogt/post/decodificacion-noaa/</link>
+      <link>https://darods.github.io/blog/post/decodificacion-noaa/</link>
       <pubDate>Fri, 16 Apr 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/decodificacion-noaa/</guid>
+      <guid>https://darods.github.io/blog/post/decodificacion-noaa/</guid>
       <description>Este proyecto consiste en la recepción de la señal de un satelite del clima NOAA utilizando radios definidas por software, para su poesterior decodiciación y conversión en una imagen del mapa la tierra.</description>
     </item>
     
     <item>
       <title>Computadora de vuelo cohete V2</title>
-      <link>https://darods.github.io/blogt/post/poa-obc/</link>
+      <link>https://darods.github.io/blog/post/poa-obc/</link>
       <pubDate>Fri, 19 Mar 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/poa-obc/</guid>
+      <guid>https://darods.github.io/blog/post/poa-obc/</guid>
       <description>Computadora de vuelo (OBC) Pillar of Autumn (POA) V2 El proposito de este proyecto es proveer el conocimiento y el código de la construcción de una computadora de vuelo (OBC) para un cohete modelo amateur con fines de invetigación cientifica.
 El código de arduino se encuentra en el directorio OBC, y está dividido en subarchivos para cada caso de uso. Para usarlo tienes que compilar el archivo OBC.ino.
 ¿Qué es lo que hace?</description>
@@ -97,46 +97,46 @@ El código de arduino se encuentra en el directorio OBC, y está dividido en sub
     
     <item>
       <title>Hongo - machine</title>
-      <link>https://darods.github.io/blogt/post/hongo-machine/</link>
+      <link>https://darods.github.io/blog/post/hongo-machine/</link>
       <pubDate>Sun, 27 Sep 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/hongo-machine/</guid>
+      <guid>https://darods.github.io/blog/post/hongo-machine/</guid>
       <description>La hongo machine es una propuesta on la que ganamos en el reto de innovación dek UN Robot 2020. Cosiste en una maquina semi automatica para el cultivo de hongos pensada para personas que viven en zonas de guerra.</description>
     </item>
     
     <item>
       <title>PID viga y bola</title>
-      <link>https://darods.github.io/blogt/post/viga-bola/</link>
+      <link>https://darods.github.io/blog/post/viga-bola/</link>
       <pubDate>Thu, 20 Aug 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/viga-bola/</guid>
+      <guid>https://darods.github.io/blog/post/viga-bola/</guid>
       <description>Proyecto realizado para la asignatura de cibernetica II, es el control PID del problema de viga y bola.</description>
     </item>
     
     <item>
       <title>My little Sniffer</title>
-      <link>https://darods.github.io/blogt/post/my-little-sniffer/</link>
+      <link>https://darods.github.io/blog/post/my-little-sniffer/</link>
       <pubDate>Wed, 03 Jun 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/my-little-sniffer/</guid>
+      <guid>https://darods.github.io/blog/post/my-little-sniffer/</guid>
       <description>Proyecto de la asignatura redes de comunicaciones I, en el que se utilizan las capacidades de la librería Scapy en conjunto con una interfaz hecha en Tk. Puede graficar las diferentes capas del modelo OSI que contiene cada paquete.</description>
     </item>
     
     <item>
       <title>CanSat UNAM</title>
-      <link>https://darods.github.io/blogt/post/cansat-unam/</link>
+      <link>https://darods.github.io/blog/post/cansat-unam/</link>
       <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/cansat-unam/</guid>
+      <guid>https://darods.github.io/blog/post/cansat-unam/</guid>
       <description>Este es el picosatelite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (casi 200 equipos iniciales).</description>
     </item>
     
     <item>
       <title>Base de datos de feligreses</title>
-      <link>https://darods.github.io/blogt/post/base-datos-feligreses/</link>
+      <link>https://darods.github.io/blog/post/base-datos-feligreses/</link>
       <pubDate>Mon, 30 Mar 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/base-datos-feligreses/</guid>
+      <guid>https://darods.github.io/blog/post/base-datos-feligreses/</guid>
       <description>Este proyecto fue el asignado como final de la asignatura &amp;ldquo;Ciencias de la computación I&amp;rdquo; en la Universidad Distrital FJC.
 El proyecto consiste en realizar una base de datos desde cero utilizando alguna de las estructuras de datos vistas en clase (en nuestro caso fue una multilista) en el lenguaje C++.
 La base de datos es de un cluto de feligreses que quiere gestionar la información de sus iglesias, pastores y visitantes.</description>
@@ -144,19 +144,19 @@ La base de datos es de un cluto de feligreses que quiere gestionar la informaci�
     
     <item>
       <title>Banco de pruebas estaticas para motores de cohetes</title>
-      <link>https://darods.github.io/blogt/post/banco-pruebas-estaticas/</link>
+      <link>https://darods.github.io/blog/post/banco-pruebas-estaticas/</link>
       <pubDate>Sat, 14 Mar 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/banco-pruebas-estaticas/</guid>
+      <guid>https://darods.github.io/blog/post/banco-pruebas-estaticas/</guid>
       <description>añadir info</description>
     </item>
     
     <item>
       <title>GUI visualización de datos en tiempo real para cohetes y picosatelites</title>
-      <link>https://darods.github.io/blogt/post/gui-cansat-rockets/</link>
+      <link>https://darods.github.io/blog/post/gui-cansat-rockets/</link>
       <pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://darods.github.io/blogt/post/gui-cansat-rockets/</guid>
+      <guid>https://darods.github.io/blog/post/gui-cansat-rockets/</guid>
       <description>Haz clic aquí para ver el repositorio
 GUI Estación terrestre para CanSat u OBC&amp;rsquo;s Código de una GUI para una estación terrestre para CanSats y/o OBCs donde se muestran los datos de diferentes sensores en tiempo real. No se necesitan sensores para probarlo.
 Tabla de contenidos Apoyo Información general Liberias Configuración Linux Configuración Windows ¿Cómo funciona? Fuentes Licencia Apoyo Si usaste este proyecto o aprendiste algo, por favor compartelo o dale una estrella en github para seguir haciendo proyectos de código abierto.</description>
