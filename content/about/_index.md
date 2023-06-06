@@ -1,34 +1,30 @@
 ---
 title: "Sobre mí"
-description: "Hola mi nombre es Daniel Rodriguez. Ingenierio de sistemas en formación."
-featured_image: '/images/cyberpunk_futuristic-v2.jpg'
+description: "Daniel Rodríguez, ingenierio de sistemas."
+featured_image: '/images/background.jpg'
 ---
-{{< figure src="/images/daniel_arod.jpg"  >}}
+{{< figure src="/images/darod-2022.png"  >}}
 
 ---------------------------
-Hola mi nombre es Daniel Rodriguez A.K.A "el nasa", soy estudiante de ingeniería de sistemas 
-(similar a pregado en ciencias de la computación) en la *Universidad Distrital Francisco José de Caldas* en Bogotá, Colombia.
+Soy un ingeniero de sistemas que aporta un espíritu aventurero a mi trabajo en ingeniería de software, infraestructura (Docker, Nginx, Linux, microservicios), IA y análisis. 
 
+Siempre estoy empujando los límites y buscando soluciones innovadoras a problemas complejos. 
 
-Soy miembro del grupo de investigación LIDER y del capítulo estudiantil ACM UD.   
+Con una fuerte ética de trabajo y una mentalidad colaborativa, estoy emocionado de contribuir con mis habilidades y experiencia para ayudar a las organizaciones a alcanzar sus objetivos comerciales e impulsar el crecimiento y la innovación. 
+
+¡Conectémonos y exploremos cómo podemos tener un impacto positivo juntos!
 
 
 ### Itereses
+* Infraestructura
+* Ingeniería de software 
 * Robótica 
-* Ciencias de la Computación
-* Ingeniería Aerospacial
-* Hacking (relacionado al DIY, nada de sombreros)
+* Hacking
 
 ### Habilidades técnicas
-* Progrmación en Python, C++, Java, y Matlab
-* Hacer exelentes diagrmas de clases, secuencia y casos de uso
-* Bases de datos relacionales en MySQL, PostgreSQL, Oracle and SQLServer 
-* NoSQL con MongoDB y DynamoDB
-* Virtualización de máquinas con Virt-manager y VirtualBox
-* Modelado 3D en Fusion 360
-* Diseño de PCB y esquematicos en Eagle
-* Otras: Linux, IBM Cloud, Git, Zabbix, Wireshark, node-red, HUGO
-
-### Hobbis
-* Trotar
-* Motar bicicleta
+* Lenguajes: Python, Javascript, C++, Java, Go.
+* Bases de datos: Postgresql, Oracle, Mysql, MongoDB.
+* Frameworks: FastAPI, Django.
+* Infrastructura: Docker, Nginx, Linux, AWS.
+* Gestores de versiones: Git, Github, Gitlab.
+* Otras: Fusion 360, Eagle, SDR, Web3.
