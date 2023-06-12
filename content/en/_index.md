@@ -1,5 +1,5 @@
 ---
 title: "Daniel Rodríguez"
 featured_image: './images/background.jpg'
-description: "Ingeniero de sistemas"
+description: "Software engineer"
 ---

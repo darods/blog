@@ -5,12 +5,22 @@ theme = "ananke"
 #themesDir = "../.."
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "es"
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 canonifyURLs = true
+
+[languages]
+  [languages.es]
+    title="Daniel Rodríguez"
+    weight = 2
+    contentDir = "content/es"
+  [languages.en]
+    title="Daniel Rodríguez"
+    weight = 1
+    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"
