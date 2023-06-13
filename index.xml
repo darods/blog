@@ -6,140 +6,152 @@
     <description>Recent content on Daniel Rodríguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Jun 2022 11:10:00 -0400</lastBuildDate><atom:link href="https://darods.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 18:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Web-app predicción de ingreso a la Universidad</title>
+      <title>UxTIC 2023</title>
+      <link>https://darods.github.io/blog/talks/uxtic2023/</link>
+      <pubDate>Thu, 08 Jun 2023 18:00:00 -0500</pubDate>
+      
+      <guid>https://darods.github.io/blog/talks/uxtic2023/</guid>
+      <description>I partitcipated in the debate &amp;ldquo;Crypto assets, anonymous cryptocurrencies and digital finance&amp;rdquo; within the the Blockchain and Cryptoactives 2023s1 course organized by CoinEx and UxTIC in collaboration with the Francisco José de Caldas District University, the Tres Culturas University, the Minuto de Dios University Corporation and the Javeriana University of Cali. Click here to see the video </description>
+    </item>
+    
+    <item>
+      <title>Web-app prediction of admission to the University</title>
       <link>https://darods.github.io/blog/post/ingreso-ud/</link>
       <pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/ingreso-ud/</guid>
-      <description>Predecir ingreso a la Universidad Distrital Esta aplicación cuenta con diferentes modelos de machine learning para predecir los chances que tiene un estudiante para entrar a la Universidad Dsitrital FJC basado en su resultado de las pruebas ICFES.
-La aplicación es capaz de predecir las probabilidades para 5 carreras de la facultad de ingeniería, y lo logra por medio de la machine learning que es entrenada a partir de los datos historicos de admisión.</description>
+      <description>Predict admission to the District University This application has different machine learning models to predict the chances that a student has to enter the University Dsitrital FJC based on your ICFES test result.
+The application is capable of predicting the probabilities for 5 engineering college majors, and it achieves this through machine learning that is trained from historical admissions data.
+Click here to go to the application
+The application has managed to have an excellent reception by the student community on social networks, achieving more than 1000 reactions the idea publication post.</description>
     </item>
     
     <item>
-      <title>Conferencia en el JOVEN EMBDATA 2021</title>
+      <title>YOUNG EMBDATA 2021</title>
       <link>https://darods.github.io/blog/talks/jovenesembdata2021/</link>
       <pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/jovenesembdata2021/</guid>
-      <description>Tuve el honor de ser invitado para realizar una conferencia en el JOVEN EMBDATA 2021, el la cual realicé la charla *&amp;ldquo;Avances en tecnología aeroespacial del grupo LIDER&amp;rdquo;. El evento EMB Data es uno de los mas importantes en la región.
-Mira aquí el vídeo promocional</description>
+      <description>I had the honor of being invited to give a conference in the YOUNG EMBDATA 2021, in which I gave the talk *&amp;ldquo;Advances in aerospace technology of the LIDER group&amp;rdquo;. The EMB Data event is one of the most important in the region.
+Watch the promotional video here</description>
     </item>
     
     <item>
-      <title>Contador de rayos en imágenes</title>
+      <title>Lightning counter in images</title>
       <link>https://darods.github.io/blog/post/contador-rayos/</link>
       <pubDate>Wed, 20 Oct 2021 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/contador-rayos/</guid>
-      <description>Contador de rayos Cuenta cuántos rayos hay en imágenes de tormentas eléctricas usando dos tipos de algoritmos, redes neuronales convolucionales y un algoritmo de lógica difusa optimizado con una técnica de algoritmos genéticos.
-Haz clic aquí para ir al repositorio
-Haz clic aquí para ver el articulo cientifico
-Haz clic aquí para ver el poster
-¿Para qué sirve? Las tormentas eléctricas son uno de los fenómenos naturales más devastadores que existen, cada año se pierden millones de dólares en reparar los daños que causan los rayos en las zonas donde caen, ya sea por pérdida de equipos, infraestructura o mismos daños a la naturaleza que se requieren mitigar, como es el caso de los incendios forestales.</description>
+      <description>lightning counter It counts how many lightning strikes there are in thunderstorm images using two types of algorithms, convolutional neural networks and a fuzzy logic algorithm optimized with a genetic algorithm technique.
+Click here to go to the repository
+Click here to see the scientific article
+Click here to see the poster
+What is it for? Electrical storms are one of the most devastating natural phenomena that exist, every year millions of dollars are lost in repairing the damage caused by lightning in the areas where it strikes, either due to loss of equipment, infrastructure or the same damage to nature that are required to be mitigated, as is the case of forest fires.</description>
     </item>
     
     <item>
-      <title>Ponencia en la semana Linux UD XVII</title>
+      <title>XVIII Linux Week UD</title>
       <link>https://darods.github.io/blog/talks/gludxvii2021/</link>
       <pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/gludxvii2021/</guid>
-      <description>Participé como ponente con la presentación titulada &amp;ldquo;Uso de satélites con radios definidas por software&amp;rdquo; en la Semana Linux UD XVIII del grupo GNU Linux de la Universidad Distrital.
-Haz clic aquí para ver la conferencia.</description>
+      <description>I participated as a speaker with the presentation titled &amp;ldquo;Using satellites with software-defined radios&amp;rdquo; in the Linux Week UD XVIII of the GNU Linux group of the District University.
+Click here to watch the conference.</description>
     </item>
     
     <item>
-      <title>Robot de monitoreo de la calidad del gua</title>
+      <title>Water quality monitoring robot</title>
       <link>https://darods.github.io/blog/post/claraboya-calidad-agua/</link>
       <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/claraboya-calidad-agua/</guid>
-      <description>Este robot es una propuesta que hicimos para la hackathon de IBM en el año 2021, su propósito es medir la calidad del agua en zonas rurales.
-Diseño electrónico Diseño mecánico </description>
+      <description>This robot is a proposal we made for the IBM hackathon in 2021, its purpose is to measure water quality in rural areas.
+Electronic design Mechanical design </description>
     </item>
     
     <item>
-      <title>Traductor de idiomas con IA</title>
+      <title>AI Language Translator</title>
       <link>https://darods.github.io/blog/post/app-hackathon-taxis-libres/</link>
       <pubDate>Wed, 16 Jun 2021 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/app-hackathon-taxis-libres/</guid>
-      <description>Haz clic aquí para ver la demostración
-Este proyecto surge como propuesta para la hackathon de la empresa Taxis Libres en el año 2021 en el que se buscaba mejorar la aplicación utilizada por los usuarios para que fuera más atractiva.
-La solución que propuso mi equipo fue la integración de la inteligencia artificial de IBM para hacer traducción de las conversaciones que tienen los pasajeros y conductores en el caso de que hablen distintos idiomas.</description>
+      <description>Click here for demo
+This project arises as a proposal for the hackathon of the company Taxis Libres in the year 2021 in which it was sought to improve the application used by users to make it more attractive.
+The solution my team proposed was the integration of IBM artificial intelligence to translate the conversations that passengers and drivers have in the event that they speak different languages.
+Used Techonologies Flutter: developing an application that receives audio Huawei Mobile Sevices: Use of Huawei APIs to program mobile applications (maps) Node-red: &amp;ldquo;back end&amp;rdquo; of the application that receives audio from the application and processes it with the IBM Cloud API IBM Cloud: Passes audio to text (speech to text), translates it and artificial intelligence plays audio with the translated text (text to speech).</description>
     </item>
     
     <item>
-      <title>Cohete modelo POA</title>
+      <title>POA model rocket</title>
       <link>https://darods.github.io/blog/post/cohete-poa/</link>
       <pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/cohete-poa/</guid>
-      <description>El cohete modelo Pillar of Autumn (POA) es el primer proyecto desarrollado por el semillero de investigación, y aún sigue en desarrollo.
-¿De qué va el proyecto? Realizar un cohete modelo que vuele 100 metros el cual nos permita probar
-Electrónica: Probar sistema electrónico para la transmisión de información en tiempo real Software: Software de visualización de datos recibidos Paracaídas: Probar sistema de detección de caída libre y accionar paracaídas Motor: Probar funcionamiento de motor y validarlo respecto a pruebas estáticas Vista general del cohete Computadora de vuelo Aquí podrá encontrar más información sobre el código de la computadora de vuelo Simulaciones Pruebas con motores Vídeo de pruebas estaticas Software Este software fue hecho para la toma y análisis de datos de serie de tiempo para determinar la curva de empuje del cohete.</description>
+      <description>The Pillar of Autumn (POA) model rocket is the first project developed by the research hotbed, and is still in development.
+What is the project about? Make a model rocket that flies 100 meters which allows us to test
+Electronics: Test electronic system for the transmission of information in real time Software: Received data display software Parachute: Test free fall detection system and activate parachute Engine: Test engine operation and validate it with respect to static tests Overview of the rocket Flight computer More information about the flight computer code can be found here Simulations Engine tests Video of static tests Software This software was made for taking and analyzing time series data to determine the thrust curve of the rocket.</description>
     </item>
     
     <item>
-      <title>Exposición en el FLISOL Ecuador 2021</title>
+      <title>FLISOL Ecuador 2021</title>
       <link>https://darods.github.io/blog/talks/flislolec2021/</link>
       <pubDate>Sat, 15 May 2021 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/flislolec2021/</guid>
-      <description>Realicé la exposición &amp;ldquo;Radios Definidas por Software: Historia y demostración de su uso&amp;rdquo; en el 17° Festival Latinoamericano De Instalación De Software Libre, el cual se puede ver en el siguiente enlace.</description>
+      <description>I made the exhibition &amp;ldquo;Software Defined Radios: History and demonstration of its uso&amp;rdquo; at the 17th Latin American Festival of Free Software Installation, which can be seen at the following link.</description>
     </item>
     
     <item>
-      <title>Ponencia en el VIII Encuentro de Investigación</title>
+      <title>VIII Research Meeting - UDistrital</title>
       <link>https://darods.github.io/blog/talks/encuentrofce2020/</link>
       <pubDate>Tue, 27 Oct 2020 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/encuentrofce2020/</guid>
-      <description>Presenté la ponencia &amp;ldquo;Desarrollo de picosatélites tipo CanSat para la eseñanza dy aplicación de fundamentos de física&amp;rdquo; en el VII Encuentro de Investigación de la Facultad de Ciencias y Educación de la Universidad Distrital Francisco José de Caldas.
-Se espera que el artículo envíado aparezca publicado en el libro de mememorias del evento.</description>
+      <description>I presented the paper &amp;ldquo;Development of CanSat-type picosatellites for teaching dy application of fundamentals of physics&amp;rdquo; at the VII Research Meeting of the Faculty of Sciences and Education of the Francisco José de Caldas.
+It is expected that the submitted article will appear published in the memory book of the event.</description>
     </item>
     
     <item>
-      <title>Exposición en el Software Freedom Day Ecuador 2020</title>
+      <title>Software Freedom Day Ecuador 2020</title>
       <link>https://darods.github.io/blog/talks/softwarefreedomdayec2020/</link>
       <pubDate>Tue, 29 Sep 2020 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/softwarefreedomdayec2020/</guid>
-      <description>Realicé la exposición &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en el &amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;
-Haz clic aquí para ver la coferencia</description>
+      <description>I made the exhibition &amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo; at &amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;
+Click here to see the conference</description>
     </item>
     
     <item>
-      <title>Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala</title>
+      <title>Compact mushroom growing system with built-in irrigation on a small scale</title>
       <link>https://darods.github.io/blog/post/hongo-machine/</link>
       <pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/hongo-machine/</guid>
-      <description>Vídeo
-El &amp;ldquo;Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala&amp;rdquo; (A.K.A: hongo-machine) es una propuesta con la que ganamos el reto de innovación del UN Robot 2020. Consiste en una máquina semiautomática para el cultivo de hongos pensada para personas que viven en zonas de guerra.
-Planteamiento del problema Los problemas de desnutrición a nivel mundial son una de las mayores problemáticas de la humanidad, muchas veces causada por limitaciones que tienen los individuos para obtener alimentos que les sean nutritivos y de bajo costo en condiciones adversas como conflicto armado, clima, pobreza, entre otras cosas.</description>
+      <description>Video
+The &amp;ldquo;Small-scale compact mushroom cultivation system with built-in irrigation&amp;rdquo; (A.K.A: mushroom-machine) is a proposal with which we won the UN Robot 2020 innovation challenge. It consists of a semi-automatic mushroom cultivation machine designed for People living in war zones.
+Problem Statement Malnutrition problems worldwide are one of the biggest problems of humanity, many times caused by limitations that individuals have to obtain nutritious and low-cost food in adverse conditions such as armed conflict, climate, poverty, among other things.</description>
     </item>
     
     <item>
-      <title>Ponencia en la semana Linux UD XVII</title>
+      <title>XVII Linux Week UD</title>
       <link>https://darods.github.io/blog/talks/gludxvii2020/</link>
       <pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/gludxvii2020/</guid>
-      <description>Participé como ponente con dos presentaciones, la primera titulada &amp;ldquo;Interfaz de monitoreo en tiempo real para picosatelites y cohetes modelo&amp;rdquo; y la segunda &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en la Semana Linux UD XVII del grupo GNU Linux de la Universidad Distrital.
-Haz clic aquí para ver la conferencia</description>
+      <description>I participated as a speaker with two presentations, the first titled *&amp;ldquo;Real-time monitoring interface for picosatellites and model rockets&amp;rdquo;*and the second &amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo; in the XVII Linux Week UD of the GNU Linux group of the District University.
+Click here to watch the conference</description>
     </item>
     
     <item>
-      <title>Ponencia en el V Encuentro Internacional ReLaCa ESPACIO</title>
+      <title>V International Meeting ReLaCa ESPACIO</title>
       <link>https://darods.github.io/blog/talks/relaca2020/</link>
       <pubDate>Fri, 22 May 2020 19:00:49 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/relaca2020/</guid>
-      <description>Se realizó una ponencia de forma virtual en el V Encuentro Internacional de la Red Latinoamericana y del Caribe del Espacio - ReLaCa ESPACIO, en la que se explicó el software de visualización de datos en tiempo real para picosatelites tipo CanSat y cohetes modelo.
-Haz clic aquí para ver la conferencia</description>
+      <description>A presentation was made virtually at the V International Meeting of the Network Latin American and Caribbean Space - ReLaCa ESPACIO, in which the real-time data visualization software for picosatellites CanSat type and model rockets.
+Click here to watch the conference</description>
     </item>
     
     <item>
@@ -148,39 +160,39 @@ Haz clic aquí para ver la conferencia</description>
       <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/cansat-unam/</guid>
-      <description>Este es el picosatélite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (cerca de 200 equipos iniciales).
-¿De que trata? El objetivo es el diseño de un picosatélite que cumpla con los requerimientos planteados en la competencia iberoamericana de satélites enlatados de la UNAM. La idea es que este satélite se eleve en un dron a 400 metros sobre el nivel del suelo para luego ser liberado.</description>
+      <description>This is the &amp;ldquo;CanSat&amp;rdquo; picosatellite presented by my ATL seedbed team, with which we obtained position #14 in the competition (close to 200 initial teams).
+What is it about? The objective is the design of a picosatellite that meets the requirements set forth in the Ibero-American competition of canned satellites of the UNAM. The idea is that this satellite is raised in a drone to 400 meters above ground level and then released.</description>
     </item>
     
     <item>
-      <title>GUI visualización de datos en tiempo real para cohetes y picosatelites</title>
+      <title>Graphical interface for viewing data sent in real time by picosatellite flight computers or model rockets.</title>
       <link>https://darods.github.io/blog/post/gui-cansat-rockets/</link>
       <pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/gui-cansat-rockets/</guid>
-      <description>Haz clic aquí para ver el repositorio
-GUI Estación terrestre para CanSat u OBC&amp;rsquo;s Código de una GUI para una estación terrestre para CanSats y/o OBCs donde se muestran los datos de diferentes sensores en tiempo real. No se necesitan sensores para probarlo.
-Tabla de contenidos Apoyo Información general Liberias Configuración Linux Configuración Windows ¿Cómo funciona? Fuentes Licencia Apoyo Si usaste este proyecto o aprendiste algo, por favor compartelo o dale una estrella en github para seguir haciendo proyectos de código abierto.</description>
+      <description>Click here to see the repository
+GUI Ground station for CanSat or OBC&amp;rsquo;s GUI code for a ground station for CanSats and/or OBCs where data from different sensors is displayed in real time. No sensors are needed to test it.
+Table of Contents Support General information Liberias Linux Configuration Windows Settings How does it work? Sources License Support If you used this project or learned something, please share it or give it a star on github to continue making open source projects.</description>
     </item>
     
     <item>
-      <title>Ponencia en el encuentro Red Colsi Nodo Bogotá 2019</title>
+      <title>Red Colsi Node Bogotá 2019</title>
       <link>https://darods.github.io/blog/talks/redcolsi2019/</link>
       <pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/redcolsi2019/</guid>
-      <description>Original name &amp;ldquo;Aplicación Práctica de Ingeniería Aeroespacial a Través de la construcción de un prototipo CanSat y Cohetes Modelo para la medición de factores armosféricos&amp;rdquo;.
-This was the first talk i&amp;rsquo;ve done to general public, i presented the first version of the model rocket POA at the Autonomous University of Colombia (Universidad Autonoma de Colombia). I presented this poster
-(La imagen tarda un poco en cargar)</description>
+      <description>Original name &amp;ldquo;Practical Application of Aerospace Engineering through the construction of a CanSat prototype and Model Rockets for the measurement of atmospheric factors&amp;rdquo;.
+This was the first talk I&amp;rsquo;ve done to the general public, I presented the first version of the model rocket POA at the Autonomous University of Colombia (Autonomous University of Colombia). I presented this poster
+(The image takes a while to load)</description>
     </item>
     
     <item>
-      <title>Contacto</title>
+      <title>Contact</title>
       <link>https://darods.github.io/blog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://darods.github.io/blog/contact/</guid>
-      <description> Tu nombre Dirección de correo electrónico Se requiere una dirección de correo electrónico. Mensaje </description>
+      <description> Your Name Email Address An email address is required. Message </description>
     </item>
     
   </channel>

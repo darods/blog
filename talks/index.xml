@@ -1,90 +1,99 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Charlas on Daniel Rodríguez</title>
+    <title>Talks on Daniel Rodríguez</title>
     <link>https://darods.github.io/blog/talks/</link>
-    <description>Recent content in Charlas on Daniel Rodríguez</description>
+    <description>Recent content in Talks on Daniel Rodríguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Dec 2021 19:42:02 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 18:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Conferencia en el JOVEN EMBDATA 2021</title>
+      <title>UxTIC 2023</title>
+      <link>https://darods.github.io/blog/talks/uxtic2023/</link>
+      <pubDate>Thu, 08 Jun 2023 18:00:00 -0500</pubDate>
+      
+      <guid>https://darods.github.io/blog/talks/uxtic2023/</guid>
+      <description>I partitcipated in the debate &amp;ldquo;Crypto assets, anonymous cryptocurrencies and digital finance&amp;rdquo; within the the Blockchain and Cryptoactives 2023s1 course organized by CoinEx and UxTIC in collaboration with the Francisco José de Caldas District University, the Tres Culturas University, the Minuto de Dios University Corporation and the Javeriana University of Cali. Click here to see the video </description>
+    </item>
+    
+    <item>
+      <title>YOUNG EMBDATA 2021</title>
       <link>https://darods.github.io/blog/talks/jovenesembdata2021/</link>
       <pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/jovenesembdata2021/</guid>
-      <description>Tuve el honor de ser invitado para realizar una conferencia en el JOVEN EMBDATA 2021, el la cual realicé la charla *&amp;ldquo;Avances en tecnología aeroespacial del grupo LIDER&amp;rdquo;. El evento EMB Data es uno de los mas importantes en la región.
-Mira aquí el vídeo promocional</description>
+      <description>I had the honor of being invited to give a conference in the YOUNG EMBDATA 2021, in which I gave the talk *&amp;ldquo;Advances in aerospace technology of the LIDER group&amp;rdquo;. The EMB Data event is one of the most important in the region.
+Watch the promotional video here</description>
     </item>
     
     <item>
-      <title>Ponencia en la semana Linux UD XVII</title>
+      <title>XVIII Linux Week UD</title>
       <link>https://darods.github.io/blog/talks/gludxvii2021/</link>
       <pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/gludxvii2021/</guid>
-      <description>Participé como ponente con la presentación titulada &amp;ldquo;Uso de satélites con radios definidas por software&amp;rdquo; en la Semana Linux UD XVIII del grupo GNU Linux de la Universidad Distrital.
-Haz clic aquí para ver la conferencia.</description>
+      <description>I participated as a speaker with the presentation titled &amp;ldquo;Using satellites with software-defined radios&amp;rdquo; in the Linux Week UD XVIII of the GNU Linux group of the District University.
+Click here to watch the conference.</description>
     </item>
     
     <item>
-      <title>Exposición en el FLISOL Ecuador 2021</title>
+      <title>FLISOL Ecuador 2021</title>
       <link>https://darods.github.io/blog/talks/flislolec2021/</link>
       <pubDate>Sat, 15 May 2021 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/flislolec2021/</guid>
-      <description>Realicé la exposición &amp;ldquo;Radios Definidas por Software: Historia y demostración de su uso&amp;rdquo; en el 17° Festival Latinoamericano De Instalación De Software Libre, el cual se puede ver en el siguiente enlace.</description>
+      <description>I made the exhibition &amp;ldquo;Software Defined Radios: History and demonstration of its uso&amp;rdquo; at the 17th Latin American Festival of Free Software Installation, which can be seen at the following link.</description>
     </item>
     
     <item>
-      <title>Ponencia en el VIII Encuentro de Investigación</title>
+      <title>VIII Research Meeting - UDistrital</title>
       <link>https://darods.github.io/blog/talks/encuentrofce2020/</link>
       <pubDate>Tue, 27 Oct 2020 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/encuentrofce2020/</guid>
-      <description>Presenté la ponencia &amp;ldquo;Desarrollo de picosatélites tipo CanSat para la eseñanza dy aplicación de fundamentos de física&amp;rdquo; en el VII Encuentro de Investigación de la Facultad de Ciencias y Educación de la Universidad Distrital Francisco José de Caldas.
-Se espera que el artículo envíado aparezca publicado en el libro de mememorias del evento.</description>
+      <description>I presented the paper &amp;ldquo;Development of CanSat-type picosatellites for teaching dy application of fundamentals of physics&amp;rdquo; at the VII Research Meeting of the Faculty of Sciences and Education of the Francisco José de Caldas.
+It is expected that the submitted article will appear published in the memory book of the event.</description>
     </item>
     
     <item>
-      <title>Exposición en el Software Freedom Day Ecuador 2020</title>
+      <title>Software Freedom Day Ecuador 2020</title>
       <link>https://darods.github.io/blog/talks/softwarefreedomdayec2020/</link>
       <pubDate>Tue, 29 Sep 2020 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/softwarefreedomdayec2020/</guid>
-      <description>Realicé la exposición &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en el &amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;
-Haz clic aquí para ver la coferencia</description>
+      <description>I made the exhibition &amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo; at &amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;
+Click here to see the conference</description>
     </item>
     
     <item>
-      <title>Ponencia en la semana Linux UD XVII</title>
+      <title>XVII Linux Week UD</title>
       <link>https://darods.github.io/blog/talks/gludxvii2020/</link>
       <pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/gludxvii2020/</guid>
-      <description>Participé como ponente con dos presentaciones, la primera titulada &amp;ldquo;Interfaz de monitoreo en tiempo real para picosatelites y cohetes modelo&amp;rdquo; y la segunda &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en la Semana Linux UD XVII del grupo GNU Linux de la Universidad Distrital.
-Haz clic aquí para ver la conferencia</description>
+      <description>I participated as a speaker with two presentations, the first titled *&amp;ldquo;Real-time monitoring interface for picosatellites and model rockets&amp;rdquo;*and the second &amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo; in the XVII Linux Week UD of the GNU Linux group of the District University.
+Click here to watch the conference</description>
     </item>
     
     <item>
-      <title>Ponencia en el V Encuentro Internacional ReLaCa ESPACIO</title>
+      <title>V International Meeting ReLaCa ESPACIO</title>
       <link>https://darods.github.io/blog/talks/relaca2020/</link>
       <pubDate>Fri, 22 May 2020 19:00:49 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/relaca2020/</guid>
-      <description>Se realizó una ponencia de forma virtual en el V Encuentro Internacional de la Red Latinoamericana y del Caribe del Espacio - ReLaCa ESPACIO, en la que se explicó el software de visualización de datos en tiempo real para picosatelites tipo CanSat y cohetes modelo.
-Haz clic aquí para ver la conferencia</description>
+      <description>A presentation was made virtually at the V International Meeting of the Network Latin American and Caribbean Space - ReLaCa ESPACIO, in which the real-time data visualization software for picosatellites CanSat type and model rockets.
+Click here to watch the conference</description>
     </item>
     
     <item>
-      <title>Ponencia en el encuentro Red Colsi Nodo Bogotá 2019</title>
+      <title>Red Colsi Node Bogotá 2019</title>
       <link>https://darods.github.io/blog/talks/redcolsi2019/</link>
       <pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
       
       <guid>https://darods.github.io/blog/talks/redcolsi2019/</guid>
-      <description>Original name &amp;ldquo;Aplicación Práctica de Ingeniería Aeroespacial a Través de la construcción de un prototipo CanSat y Cohetes Modelo para la medición de factores armosféricos&amp;rdquo;.
-This was the first talk i&amp;rsquo;ve done to general public, i presented the first version of the model rocket POA at the Autonomous University of Colombia (Universidad Autonoma de Colombia). I presented this poster
-(La imagen tarda un poco en cargar)</description>
+      <description>Original name &amp;ldquo;Practical Application of Aerospace Engineering through the construction of a CanSat prototype and Model Rockets for the measurement of atmospheric factors&amp;rdquo;.
+This was the first talk I&amp;rsquo;ve done to the general public, I presented the first version of the model rocket POA at the Autonomous University of Colombia (Autonomous University of Colombia). I presented this poster
+(The image takes a while to load)</description>
     </item>
     
   </channel>

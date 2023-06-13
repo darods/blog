@@ -1,76 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Proyectos on Daniel Rodríguez</title>
+    <title>Projects on Daniel Rodríguez</title>
     <link>https://darods.github.io/blog/post/</link>
-    <description>Recent content in Proyectos on Daniel Rodríguez</description>
+    <description>Recent content in Projects on Daniel Rodríguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Web-app predicción de ingreso a la Universidad</title>
+      <title>Web-app prediction of admission to the University</title>
       <link>https://darods.github.io/blog/post/ingreso-ud/</link>
       <pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/ingreso-ud/</guid>
-      <description>Predecir ingreso a la Universidad Distrital Esta aplicación cuenta con diferentes modelos de machine learning para predecir los chances que tiene un estudiante para entrar a la Universidad Dsitrital FJC basado en su resultado de las pruebas ICFES.
-La aplicación es capaz de predecir las probabilidades para 5 carreras de la facultad de ingeniería, y lo logra por medio de la machine learning que es entrenada a partir de los datos historicos de admisión.</description>
+      <description>Predict admission to the District University This application has different machine learning models to predict the chances that a student has to enter the University Dsitrital FJC based on your ICFES test result.
+The application is capable of predicting the probabilities for 5 engineering college majors, and it achieves this through machine learning that is trained from historical admissions data.
+Click here to go to the application
+The application has managed to have an excellent reception by the student community on social networks, achieving more than 1000 reactions the idea publication post.</description>
     </item>
     
     <item>
-      <title>Contador de rayos en imágenes</title>
+      <title>Lightning counter in images</title>
       <link>https://darods.github.io/blog/post/contador-rayos/</link>
       <pubDate>Wed, 20 Oct 2021 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/contador-rayos/</guid>
-      <description>Contador de rayos Cuenta cuántos rayos hay en imágenes de tormentas eléctricas usando dos tipos de algoritmos, redes neuronales convolucionales y un algoritmo de lógica difusa optimizado con una técnica de algoritmos genéticos.
-Haz clic aquí para ir al repositorio
-Haz clic aquí para ver el articulo cientifico
-Haz clic aquí para ver el poster
-¿Para qué sirve? Las tormentas eléctricas son uno de los fenómenos naturales más devastadores que existen, cada año se pierden millones de dólares en reparar los daños que causan los rayos en las zonas donde caen, ya sea por pérdida de equipos, infraestructura o mismos daños a la naturaleza que se requieren mitigar, como es el caso de los incendios forestales.</description>
+      <description>lightning counter It counts how many lightning strikes there are in thunderstorm images using two types of algorithms, convolutional neural networks and a fuzzy logic algorithm optimized with a genetic algorithm technique.
+Click here to go to the repository
+Click here to see the scientific article
+Click here to see the poster
+What is it for? Electrical storms are one of the most devastating natural phenomena that exist, every year millions of dollars are lost in repairing the damage caused by lightning in the areas where it strikes, either due to loss of equipment, infrastructure or the same damage to nature that are required to be mitigated, as is the case of forest fires.</description>
     </item>
     
     <item>
-      <title>Robot de monitoreo de la calidad del gua</title>
+      <title>Water quality monitoring robot</title>
       <link>https://darods.github.io/blog/post/claraboya-calidad-agua/</link>
       <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/claraboya-calidad-agua/</guid>
-      <description>Este robot es una propuesta que hicimos para la hackathon de IBM en el año 2021, su propósito es medir la calidad del agua en zonas rurales.
-Diseño electrónico Diseño mecánico </description>
+      <description>This robot is a proposal we made for the IBM hackathon in 2021, its purpose is to measure water quality in rural areas.
+Electronic design Mechanical design </description>
     </item>
     
     <item>
-      <title>Traductor de idiomas con IA</title>
+      <title>AI Language Translator</title>
       <link>https://darods.github.io/blog/post/app-hackathon-taxis-libres/</link>
       <pubDate>Wed, 16 Jun 2021 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/app-hackathon-taxis-libres/</guid>
-      <description>Haz clic aquí para ver la demostración
-Este proyecto surge como propuesta para la hackathon de la empresa Taxis Libres en el año 2021 en el que se buscaba mejorar la aplicación utilizada por los usuarios para que fuera más atractiva.
-La solución que propuso mi equipo fue la integración de la inteligencia artificial de IBM para hacer traducción de las conversaciones que tienen los pasajeros y conductores en el caso de que hablen distintos idiomas.</description>
+      <description>Click here for demo
+This project arises as a proposal for the hackathon of the company Taxis Libres in the year 2021 in which it was sought to improve the application used by users to make it more attractive.
+The solution my team proposed was the integration of IBM artificial intelligence to translate the conversations that passengers and drivers have in the event that they speak different languages.
+Used Techonologies Flutter: developing an application that receives audio Huawei Mobile Sevices: Use of Huawei APIs to program mobile applications (maps) Node-red: &amp;ldquo;back end&amp;rdquo; of the application that receives audio from the application and processes it with the IBM Cloud API IBM Cloud: Passes audio to text (speech to text), translates it and artificial intelligence plays audio with the translated text (text to speech).</description>
     </item>
     
     <item>
-      <title>Cohete modelo POA</title>
+      <title>POA model rocket</title>
       <link>https://darods.github.io/blog/post/cohete-poa/</link>
       <pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/cohete-poa/</guid>
-      <description>El cohete modelo Pillar of Autumn (POA) es el primer proyecto desarrollado por el semillero de investigación, y aún sigue en desarrollo.
-¿De qué va el proyecto? Realizar un cohete modelo que vuele 100 metros el cual nos permita probar
-Electrónica: Probar sistema electrónico para la transmisión de información en tiempo real Software: Software de visualización de datos recibidos Paracaídas: Probar sistema de detección de caída libre y accionar paracaídas Motor: Probar funcionamiento de motor y validarlo respecto a pruebas estáticas Vista general del cohete Computadora de vuelo Aquí podrá encontrar más información sobre el código de la computadora de vuelo Simulaciones Pruebas con motores Vídeo de pruebas estaticas Software Este software fue hecho para la toma y análisis de datos de serie de tiempo para determinar la curva de empuje del cohete.</description>
+      <description>The Pillar of Autumn (POA) model rocket is the first project developed by the research hotbed, and is still in development.
+What is the project about? Make a model rocket that flies 100 meters which allows us to test
+Electronics: Test electronic system for the transmission of information in real time Software: Received data display software Parachute: Test free fall detection system and activate parachute Engine: Test engine operation and validate it with respect to static tests Overview of the rocket Flight computer More information about the flight computer code can be found here Simulations Engine tests Video of static tests Software This software was made for taking and analyzing time series data to determine the thrust curve of the rocket.</description>
     </item>
     
     <item>
-      <title>Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala</title>
+      <title>Compact mushroom growing system with built-in irrigation on a small scale</title>
       <link>https://darods.github.io/blog/post/hongo-machine/</link>
       <pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/hongo-machine/</guid>
-      <description>Vídeo
-El &amp;ldquo;Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala&amp;rdquo; (A.K.A: hongo-machine) es una propuesta con la que ganamos el reto de innovación del UN Robot 2020. Consiste en una máquina semiautomática para el cultivo de hongos pensada para personas que viven en zonas de guerra.
-Planteamiento del problema Los problemas de desnutrición a nivel mundial son una de las mayores problemáticas de la humanidad, muchas veces causada por limitaciones que tienen los individuos para obtener alimentos que les sean nutritivos y de bajo costo en condiciones adversas como conflicto armado, clima, pobreza, entre otras cosas.</description>
+      <description>Video
+The &amp;ldquo;Small-scale compact mushroom cultivation system with built-in irrigation&amp;rdquo; (A.K.A: mushroom-machine) is a proposal with which we won the UN Robot 2020 innovation challenge. It consists of a semi-automatic mushroom cultivation machine designed for People living in war zones.
+Problem Statement Malnutrition problems worldwide are one of the biggest problems of humanity, many times caused by limitations that individuals have to obtain nutritious and low-cost food in adverse conditions such as armed conflict, climate, poverty, among other things.</description>
     </item>
     
     <item>
@@ -79,19 +82,19 @@ Planteamiento del problema Los problemas de desnutrición a nivel mundial son un
       <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/cansat-unam/</guid>
-      <description>Este es el picosatélite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (cerca de 200 equipos iniciales).
-¿De que trata? El objetivo es el diseño de un picosatélite que cumpla con los requerimientos planteados en la competencia iberoamericana de satélites enlatados de la UNAM. La idea es que este satélite se eleve en un dron a 400 metros sobre el nivel del suelo para luego ser liberado.</description>
+      <description>This is the &amp;ldquo;CanSat&amp;rdquo; picosatellite presented by my ATL seedbed team, with which we obtained position #14 in the competition (close to 200 initial teams).
+What is it about? The objective is the design of a picosatellite that meets the requirements set forth in the Ibero-American competition of canned satellites of the UNAM. The idea is that this satellite is raised in a drone to 400 meters above ground level and then released.</description>
     </item>
     
     <item>
-      <title>GUI visualización de datos en tiempo real para cohetes y picosatelites</title>
+      <title>Graphical interface for viewing data sent in real time by picosatellite flight computers or model rockets.</title>
       <link>https://darods.github.io/blog/post/gui-cansat-rockets/</link>
       <pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
       
       <guid>https://darods.github.io/blog/post/gui-cansat-rockets/</guid>
-      <description>Haz clic aquí para ver el repositorio
-GUI Estación terrestre para CanSat u OBC&amp;rsquo;s Código de una GUI para una estación terrestre para CanSats y/o OBCs donde se muestran los datos de diferentes sensores en tiempo real. No se necesitan sensores para probarlo.
-Tabla de contenidos Apoyo Información general Liberias Configuración Linux Configuración Windows ¿Cómo funciona? Fuentes Licencia Apoyo Si usaste este proyecto o aprendiste algo, por favor compartelo o dale una estrella en github para seguir haciendo proyectos de código abierto.</description>
+      <description>Click here to see the repository
+GUI Ground station for CanSat or OBC&amp;rsquo;s GUI code for a ground station for CanSats and/or OBCs where data from different sensors is displayed in real time. No sensors are needed to test it.
+Table of Contents Support General information Liberias Linux Configuration Windows Settings How does it work? Sources License Support If you used this project or learned something, please share it or give it a star on github to continue making open source projects.</description>
     </item>
     
   </channel>
