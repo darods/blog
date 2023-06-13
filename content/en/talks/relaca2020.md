@@ -1,13 +1,13 @@
 ---
-title: "Ponencia en el V Encuentro Internacional ReLaCa ESPACIO"
+title: "V International Meeting ReLaCa ESPACIO"
 date: 2020-05-22T19:00:49-05:00
 ---
 
-Se realizó una ponencia de forma virtual en el *V Encuentro Internacional de la Red
-Latinoamericana y del Caribe del Espacio - ReLaCa ESPACIO*, en la que se explicó el 
-software de visualización de datos en tiempo real para picosatelites
-tipo CanSat y cohetes modelo.
+A presentation was made virtually at the *V International Meeting of the Network
+Latin American and Caribbean Space - ReLaCa ESPACIO*, in which the
+real-time data visualization software for picosatellites
+CanSat type and model rockets.
 
-[Haz clic aquí para ver la conferencia](https://youtu.be/WQqk9afHDvA)
+[Click here to watch the conference](https://youtu.be/WQqk9afHDvA)
 
  {{< figure src="/images/relaca2020.jpg" >}}

@@ -1,5 +1,5 @@
 ---
-title: "Conferencia en el JOVEN EMBDATA 2021"
+title: "JOVEN EMBDATA 2021"
 date: 2021-12-03T19:42:02-05:00
 ---
 

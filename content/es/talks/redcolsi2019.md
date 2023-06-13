@@ -1,5 +1,5 @@
 ---
-title: "Ponencia en el encuentro Red Colsi Nodo Bogotá 2019"
+title: "Red Colsi Nodo Bogotá 2019"
 date: 2019-05-09T19:00:49-05:00
 ---
 ### Original name

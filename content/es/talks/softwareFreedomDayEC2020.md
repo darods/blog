@@ -1,5 +1,5 @@
 ---
-title: "Exposición en el Software Freedom Day Ecuador 2020"
+title: "Software Freedom Day Ecuador 2020"
 date: 2020-09-29T19:42:02-05:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exposición en el FLISOL Ecuador 2021"
+title: "FLISOL Ecuador 2021"
 date: 2021-05-15T19:42:02-05:00
 ---
 

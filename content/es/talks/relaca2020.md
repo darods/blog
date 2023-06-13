@@ -1,5 +1,5 @@
 ---
-title: "Ponencia en el V Encuentro Internacional ReLaCa ESPACIO"
+title: "V Encuentro Internacional ReLaCa ESPACIO"
 date: 2020-05-22T19:00:49-05:00
 ---
 
