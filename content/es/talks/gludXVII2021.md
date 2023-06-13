@@ -1,5 +1,5 @@
 ---
-title: "Ponencia en la semana Linux UD XVII"
+title: "Semana Linux UD XVII"
 date: 2021-08-25T19:42:02-05:00
 ---
 

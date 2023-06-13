@@ -1,6 +1,6 @@
 ---
 title: "Sobre mí"
-description: "Daniel Rodríguez, ingenierio de sistemas."
+description: "Daniel Rodríguez, ingenierio de sistemas"
 featured_image: '/images/background.jpg'
 ---
 {{< figure src="/images/darod-2022.png"  >}}

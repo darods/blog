@@ -1,5 +1,5 @@
 ---
-title: "Ponencia en el VIII Encuentro de Investigación"
+title: "VIII Encuentro de Investigación - UDistrital"
 date: 2020-10-27T19:42:02-05:00
 ---
 
