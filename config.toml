@@ -13,14 +13,15 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [languages]
-  [languages.es]
-    title="Daniel Rodríguez"
-    weight = 2
-    contentDir = "content/es"
   [languages.en]
     title="Daniel Rodríguez"
     weight = 1
     contentDir = "content/en"
+  [languages.es]
+    title="Daniel Rodríguez"
+    weight = 2
+    contentDir = "content/es"
+
 
 [sitemap]
   changefreq = "monthly"
