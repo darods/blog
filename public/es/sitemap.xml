@@ -32,6 +32,36 @@
                 href="http://localhost:1313/blog/es/experience/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/es/experience/idexud/</loc>
+    <lastmod>2024-04-13T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/experience/idexud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/idexud/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/experience/ins-moodle/</loc>
+    <lastmod>2024-03-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/experience/ins-moodle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/ins-moodle/"
+                />
+  </url><url>
     <loc>http://localhost:1313/blog/es/talks/</loc>
     <lastmod>2023-06-08T18:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -60,6 +90,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/blog/es/talks/uxtic2023/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/experience/skg/</loc>
+    <lastmod>2022-07-20T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/experience/skg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/skg/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/post/ingreso-ud/</loc>
@@ -136,16 +181,6 @@
                 hreflang="es"
                 href="http://localhost:1313/blog/es/post/claraboya-calidad-agua/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/experience/claraboya-calidad-agua/</loc>
-    <lastmod>2021-07-16T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/experience/app-hackathon-taxis-libres/</loc>
-    <lastmod>2021-06-16T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/blog/es/post/app-hackathon-taxis-libres/</loc>
     <lastmod>2021-06-16T11:00:59-04:00</lastmod>
@@ -267,11 +302,6 @@
                 href="http://localhost:1313/blog/es/talks/relaca2020/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/es/experience/cansat-unam/</loc>
-    <lastmod>2020-04-20T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/blog/es/post/cansat-unam/</loc>
     <lastmod>2020-04-20T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -287,6 +317,21 @@
                 href="http://localhost:1313/blog/es/post/cansat-unam/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/es/experience/rita/</loc>
+    <lastmod>2020-04-20T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/experience/rita/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/rita/"
+                />
+  </url><url>
     <loc>http://localhost:1313/blog/es/post/gui-cansat-rockets/</loc>
     <lastmod>2020-03-08T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -300,6 +345,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/blog/es/post/gui-cansat-rockets/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/experience/argos/</loc>
+    <lastmod>2020-01-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/experience/argos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/argos/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/talks/redcolsi2019/</loc>

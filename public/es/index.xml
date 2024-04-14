@@ -6,14 +6,35 @@
     <description>Recent content on Daniel Rodríguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 08 Jun 2023 18:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 11:00:59 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ingeniero de software - OFEX</title>
+      <link>http://localhost:1313/blog/es/experience/idexud/</link>
+      <pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/idexud/</guid>
+      <description>En mi puesto, me encargo de tareas de ingeniería de software y DevOps. Mi principal responsabilidad es liderar el desarrollo de soluciones de software de vanguardia diseñadas para automatizar procesos de infraestructura de servidores y operaciones de personal.&#xA;Logros Mejoré la infraestructura con una soluciones basada en microservicios, utilizando Docker para administrar múltiples aplicaciones en Python, Javascript y PHP; Nginx como proxy inverso, impactando la operación de más de 10.000 usuarios.</description>
+    </item>
+    <item>
+      <title>Contratista de TI - Instituto Nacional de Salud</title>
+      <link>http://localhost:1313/blog/es/experience/ins-moodle/</link>
+      <pubDate>Sat, 30 Mar 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/ins-moodle/</guid>
+      <description>Este puesto tenía similitudes con el de ingeniero de confiabilidad del sitio, donde mis responsabilidades abarcaban la implementación y administración de servidores Linux y Windows durante todo el proceso de migración de la plataforma. Esto fue parte del despliegue y migración de una plataforma de aprendizaje electrónico conocida como evigiaula.&#xA;Logros Gestioné el despliegue de una solución tecnológica en un servidor Windows Server con IIS, MariaDB y PHP para soportar más de 1000 usuarios concurrentes, garantizando su fiabilidad por medio de pruebas de estrés con JMeter.</description>
+    </item>
     <item>
       <title>UxTIC 2023</title>
       <link>http://localhost:1313/blog/es/talks/uxtic2023/</link>
       <pubDate>Thu, 08 Jun 2023 18:00:00 -0500</pubDate>
       <guid>http://localhost:1313/blog/es/talks/uxtic2023/</guid>
       <description>Participé en el debate &amp;ldquo;Criptoactivos, criptomonedas anónimas y finanzas digitales&amp;rdquo; dentro del curso Blockchain y Criptoactivos 2023s1 organizado por CoinEx y UxTIC en colaboración con la Universidad Distrital Francisco José de Caldas, la Universidad Tres Culturas, la Corporación Universitaria Minuto de Dios y la Universidad Javeriana de Cali. Haga clic aquí para ver el video </description>
+    </item>
+    <item>
+      <title>Contratista de TI - SKG Tecnología</title>
+      <link>http://localhost:1313/blog/es/experience/skg/</link>
+      <pubDate>Wed, 20 Jul 2022 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/skg/</guid>
+      <description>Formé parte de un equipo que desarrolla interfaces API para sensores de ciudades inteligentes ubicadas en la ciudad de Bogotá.&#xA;Logros Documenté 3 sistemas de información y APIs para soluciones de ciudades inteligentes, usando Flask y PostgreSQL. Creé modelos de bases de datos para PostgreSQL, arquitectura y casos de uso para 4 subsistemas escritos en Python. ¿Qué es SKG? SKG Technologies es una empresa de software que desarrolla soluciones de software para ciudades inteligentes utilizando dispositivos IoT.</description>
     </item>
     <item>
       <title>Web-app predicción de ingreso a la Universidad</title>
@@ -49,20 +70,6 @@
       <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
       <guid>http://localhost:1313/blog/es/post/claraboya-calidad-agua/</guid>
       <description>Este robot es una propuesta que hicimos para la hackathon de IBM en el año 2021, su propósito es medir la calidad del agua en zonas rurales.&#xA;Diseño electrónico Diseño mecánico </description>
-    </item>
-    <item>
-      <title>Water quality monitoring robot</title>
-      <link>http://localhost:1313/blog/es/experience/claraboya-calidad-agua/</link>
-      <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
-      <guid>http://localhost:1313/blog/es/experience/claraboya-calidad-agua/</guid>
-      <description>This robot is a proposal we made for the IBM hackathon in 2021, its purpose is to measure water quality in rural areas.&#xA;Electronic design Mechanical design </description>
-    </item>
-    <item>
-      <title>AI Language Translator</title>
-      <link>http://localhost:1313/blog/es/experience/app-hackathon-taxis-libres/</link>
-      <pubDate>Wed, 16 Jun 2021 11:00:59 -0400</pubDate>
-      <guid>http://localhost:1313/blog/es/experience/app-hackathon-taxis-libres/</guid>
-      <description>Click here for demo&#xA;This project arises as a proposal for the hackathon of the company Taxis Libres in the year 2021 in which it was sought to improve the application used by users to make it more attractive.&#xA;The solution my team proposed was the integration of IBM artificial intelligence to translate the conversations that passengers and drivers have in the event that they speak different languages.&#xA;Used Techonologies Flutter: developing an application that receives audio Huawei Mobile Sevices: Use of Huawei APIs to program mobile applications (maps) Node-red: &amp;ldquo;back end&amp;rdquo; of the application that receives audio from the application and processes it with the IBM Cloud API IBM Cloud: Passes audio to text (speech to text), translates it and artificial intelligence plays audio with the translated text (text to speech).</description>
     </item>
     <item>
       <title>Traductor de idiomas con IA</title>
@@ -122,17 +129,17 @@
     </item>
     <item>
       <title>CanSat UNAM</title>
-      <link>http://localhost:1313/blog/es/experience/cansat-unam/</link>
-      <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
-      <guid>http://localhost:1313/blog/es/experience/cansat-unam/</guid>
-      <description>This is the &amp;ldquo;CanSat&amp;rdquo; picosatellite presented by my ATL seedbed team, with which we obtained position #14 in the competition (close to 200 initial teams).&#xA;What is it about? The objective is the design of a picosatellite that meets the requirements set forth in the Ibero-American competition of canned satellites of the UNAM. The idea is that this satellite is raised in a drone to 400 meters above ground level and then released.</description>
-    </item>
-    <item>
-      <title>CanSat UNAM</title>
       <link>http://localhost:1313/blog/es/post/cansat-unam/</link>
       <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
       <guid>http://localhost:1313/blog/es/post/cansat-unam/</guid>
       <description>Este es el picosatélite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (cerca de 200 equipos iniciales).&#xA;¿De que trata? El objetivo es el diseño de un picosatélite que cumpla con los requerimientos planteados en la competencia iberoamericana de satélites enlatados de la UNAM. La idea es que este satélite se eleve en un dron a 400 metros sobre el nivel del suelo para luego ser liberado.</description>
+    </item>
+    <item>
+      <title>Técnico de soporte informático - RITA</title>
+      <link>http://localhost:1313/blog/es/experience/rita/</link>
+      <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/rita/</guid>
+      <description>Como Técnico de Soporte, mis funciones principales involucraban la resolución, monitoreo y mantenimiento de computadoras, redes y páginas web según tickets asignados.&#xA;Logros Resolví más de 50 solicitudes de soporte técnico relacionadas con servidores, monitorización con Zabbix, aplicaciones web y de escritorio, mejorando la eficiencia operativa y la continuidad del negocio. Prestación de servicios de consultoría tecnológica y difusión de resultados a más de 15 proyectos de investigación. ¿Qué es RITA?</description>
     </item>
     <item>
       <title>GUI visualización de datos en tiempo real para cohetes y picosatelites</title>
@@ -140,6 +147,13 @@
       <pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
       <guid>http://localhost:1313/blog/es/post/gui-cansat-rockets/</guid>
       <description>Haz clic aquí para ver el repositorio&#xA;GUI Estación terrestre para CanSat u OBC&amp;rsquo;s Código de una GUI para una estación terrestre para CanSats y/o OBCs donde se muestran los datos de diferentes sensores en tiempo real. No se necesitan sensores para probarlo.&#xA;Tabla de contenidos Apoyo Información general Liberias Configuración Linux Configuración Windows ¿Cómo funciona? Fuentes Licencia Apoyo Si usaste este proyecto o aprendiste algo, por favor compartelo o dale una estrella en github para seguir haciendo proyectos de código abierto.</description>
+    </item>
+    <item>
+      <title>Asistente de desarrollador web - Confecciones Argos</title>
+      <link>http://localhost:1313/blog/es/experience/argos/</link>
+      <pubDate>Thu, 30 Jan 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/argos/</guid>
+      <description>Estuve a cargo del desarrollo de una página de comercio electrónico en la que la empresa pudiera vender sus productos y la estrategia de marketing realizando anuncios en redes sociales.&#xA;Logros Desarrollé un sitio web de comercio electrónico que le permitió a la empresa comercializar y vender sus productos en línea de manera efectiva. Creé anuncios y estrategias de marketing en plataformas de redes sociales, aprovechando el Administrador de anuncios de Facebook para administrar múltiples cuentas.</description>
     </item>
     <item>
       <title>Red Colsi Nodo Bogotá 2019</title>
