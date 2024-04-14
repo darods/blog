@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Rodríguez</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content on Daniel Rodríguez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Apr 2024 11:00:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineer - OFEX</title>
+      <link>http://localhost:1313/blog/experience/idexud/</link>
+      <pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/experience/idexud/</guid>
+      <description>In my role, I handle both Software Engineering and DevOps duties. My main responsibility is leading the development of cutting-edge software solutions designed to automate processes for server infrastructure and personnel operations.&#xA;Achievements I Enhanced the infrastructure with microservices based solutions, using Docker to manage multiple applications in Python, Javascript and PHP; Nginx as a reverse proxy, as a result we managed to reach more than 10000 users. I performed technical reviews of a nationally impactful software as part of a project valued at nearly $1 million dollars, aimed at making informed design decisions, identifying software flaws, and assessing potential cyber risk scenarios.</description>
+    </item>
+    <item>
+      <title>IT Contractor - National Institue of Health</title>
+      <link>http://localhost:1313/blog/experience/ins-moodle/</link>
+      <pubDate>Sat, 30 Mar 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/experience/ins-moodle/</guid>
+      <description>This position bore similarities to that of a Site Reliability Engineer, where my responsibilities encompassed the deployment and management of both Linux and Windows servers throughout the platform migration process. This was part of deployment and migration of an e-learning platform known as evigiaula.&#xA;Achievements I deployed the platform on a Windows Server with IIS, MariaDB and PHP to support 1000+ concurrent users. I deployed the platform on a Linux server with Docker, managing MySQL, MariaDB and Apache containers for development and testing for a team of 10+ people.</description>
+    </item>
+    <item>
+      <title>UxTIC 2023</title>
+      <link>http://localhost:1313/blog/talks/uxtic2023/</link>
+      <pubDate>Thu, 08 Jun 2023 18:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/uxtic2023/</guid>
+      <description>I partitcipated in the debate &amp;ldquo;Crypto assets, anonymous cryptocurrencies and digital finance&amp;rdquo; within the the Blockchain and Cryptoactives 2023s1 course organized by CoinEx and UxTIC in collaboration with the Francisco José de Caldas District University, the Tres Culturas University, the Minuto de Dios University Corporation and the Javeriana University of Cali. Click here to see the video </description>
+    </item>
+    <item>
+      <title>IT Contractor - SKG Technologies</title>
+      <link>http://localhost:1313/blog/experience/skg/</link>
+      <pubDate>Wed, 20 Jul 2022 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/experience/skg/</guid>
+      <description>I was part of a team that develops API interfaces for smart cities sensors located in the city of Bogotá.&#xA;Achievements I Created PostgreSQL database models, architecture and use cases for 4 subsystems written in Python. I documented 3 information systems and APIs for smart city solutions, using Flask and PostgreSQL. What is SKG? SKG Technologies is a software company that develops software solutions fot smart cities using IoT devices.</description>
+    </item>
+    <item>
+      <title>Web-app prediction of admission to the University</title>
+      <link>http://localhost:1313/blog/post/ingreso-ud/</link>
+      <pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/ingreso-ud/</guid>
+      <description>Predict admission to the District University This application has different machine learning models to predict the chances that a student has to enter the University Dsitrital FJC based on your ICFES test result.&#xA;The application is capable of predicting the probabilities for 5 engineering college majors, and it achieves this through machine learning that is trained from historical admissions data.&#xA;Click here to go to the application&#xA;The application has managed to have an excellent reception by the student community on social networks, achieving more than 1000 reactions the idea publication post.</description>
+    </item>
+    <item>
+      <title>YOUNG EMBDATA 2021</title>
+      <link>http://localhost:1313/blog/talks/jovenesembdata2021/</link>
+      <pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/jovenesembdata2021/</guid>
+      <description>I had the honor of being invited to give a conference in the YOUNG EMBDATA 2021, in which I gave the talk *&amp;ldquo;Advances in aerospace technology of the LIDER group&amp;rdquo;. The EMB Data event is one of the most important in the region.&#xA;Watch the promotional video here</description>
+    </item>
+    <item>
+      <title>Lightning counter in images</title>
+      <link>http://localhost:1313/blog/post/contador-rayos/</link>
+      <pubDate>Wed, 20 Oct 2021 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/contador-rayos/</guid>
+      <description>lightning counter It counts how many lightning strikes there are in thunderstorm images using two types of algorithms, convolutional neural networks and a fuzzy logic algorithm optimized with a genetic algorithm technique.&#xA;Click here to go to the repository&#xA;Click here to see the scientific article&#xA;Click here to see the poster&#xA;What is it for? Electrical storms are one of the most devastating natural phenomena that exist, every year millions of dollars are lost in repairing the damage caused by lightning in the areas where it strikes, either due to loss of equipment, infrastructure or the same damage to nature that are required to be mitigated, as is the case of forest fires.</description>
+    </item>
+    <item>
+      <title>XVIII Linux Week UD</title>
+      <link>http://localhost:1313/blog/talks/gludxvii2021/</link>
+      <pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/gludxvii2021/</guid>
+      <description>I participated as a speaker with the presentation titled &amp;ldquo;Using satellites with software-defined radios&amp;rdquo; in the Linux Week UD XVIII of the GNU Linux group of the District University.&#xA;Click here to watch the conference.</description>
+    </item>
+    <item>
+      <title>Water quality monitoring robot</title>
+      <link>http://localhost:1313/blog/post/claraboya-calidad-agua/</link>
+      <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/claraboya-calidad-agua/</guid>
+      <description>This robot is a proposal we made for the IBM hackathon in 2021, its purpose is to measure water quality in rural areas.&#xA;Electronic design Mechanical design </description>
+    </item>
+    <item>
+      <title>AI Language Translator</title>
+      <link>http://localhost:1313/blog/post/app-hackathon-taxis-libres/</link>
+      <pubDate>Wed, 16 Jun 2021 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/app-hackathon-taxis-libres/</guid>
+      <description>Click here for demo&#xA;This project arises as a proposal for the hackathon of the company Taxis Libres in the year 2021 in which it was sought to improve the application used by users to make it more attractive.&#xA;The solution my team proposed was the integration of IBM artificial intelligence to translate the conversations that passengers and drivers have in the event that they speak different languages.&#xA;Used Techonologies Flutter: developing an application that receives audio Huawei Mobile Sevices: Use of Huawei APIs to program mobile applications (maps) Node-red: &amp;ldquo;back end&amp;rdquo; of the application that receives audio from the application and processes it with the IBM Cloud API IBM Cloud: Passes audio to text (speech to text), translates it and artificial intelligence plays audio with the translated text (text to speech).</description>
+    </item>
+    <item>
+      <title>POA model rocket</title>
+      <link>http://localhost:1313/blog/post/cohete-poa/</link>
+      <pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/cohete-poa/</guid>
+      <description>The Pillar of Autumn (POA) model rocket is the first project developed by the research hotbed, and is still in development.&#xA;What is the project about? Make a model rocket that flies 100 meters which allows us to test&#xA;Electronics: Test electronic system for the transmission of information in real time Software: Received data display software Parachute: Test free fall detection system and activate parachute Engine: Test engine operation and validate it with respect to static tests Overview of the rocket Flight computer More information about the flight computer code can be found here Simulations Engine tests Video of static tests Software This software was made for taking and analyzing time series data to determine the thrust curve of the rocket.</description>
+    </item>
+    <item>
+      <title>FLISOL Ecuador 2021</title>
+      <link>http://localhost:1313/blog/talks/flislolec2021/</link>
+      <pubDate>Sat, 15 May 2021 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/flislolec2021/</guid>
+      <description>I made the exhibition &amp;ldquo;Software Defined Radios: History and demonstration of its uso&amp;rdquo; at the 17th Latin American Festival of Free Software Installation, which can be seen at the following link.</description>
+    </item>
+    <item>
+      <title>VIII Research Meeting - UDistrital</title>
+      <link>http://localhost:1313/blog/talks/encuentrofce2020/</link>
+      <pubDate>Tue, 27 Oct 2020 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/encuentrofce2020/</guid>
+      <description>I presented the paper &amp;ldquo;Development of CanSat-type picosatellites for teaching dy application of fundamentals of physics&amp;rdquo; at the VII Research Meeting of the Faculty of Sciences and Education of the Francisco José de Caldas.&#xA;It is expected that the submitted article will appear published in the memory book of the event.</description>
+    </item>
+    <item>
+      <title>Software Freedom Day Ecuador 2020</title>
+      <link>http://localhost:1313/blog/talks/softwarefreedomdayec2020/</link>
+      <pubDate>Tue, 29 Sep 2020 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/softwarefreedomdayec2020/</guid>
+      <description>I made the exhibition &amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo; at &amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;&#xA;Click here to see the conference</description>
+    </item>
+    <item>
+      <title>Compact mushroom growing system with built-in irrigation on a small scale</title>
+      <link>http://localhost:1313/blog/post/hongo-machine/</link>
+      <pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/hongo-machine/</guid>
+      <description>Video&#xA;The &amp;ldquo;Small-scale compact mushroom cultivation system with built-in irrigation&amp;rdquo; (A.K.A: mushroom-machine) is a proposal with which we won the UN Robot 2020 innovation challenge. It consists of a semi-automatic mushroom cultivation machine designed for People living in war zones.&#xA;Problem Statement Malnutrition problems worldwide are one of the biggest problems of humanity, many times caused by limitations that individuals have to obtain nutritious and low-cost food in adverse conditions such as armed conflict, climate, poverty, among other things.</description>
+    </item>
+    <item>
+      <title>XVII Linux Week UD</title>
+      <link>http://localhost:1313/blog/talks/gludxvii2020/</link>
+      <pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/gludxvii2020/</guid>
+      <description>I participated as a speaker with two presentations, the first titled *&amp;ldquo;Real-time monitoring interface for picosatellites and model rockets&amp;rdquo;*and the second &amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo; in the XVII Linux Week UD of the GNU Linux group of the District University.&#xA;Click here to watch the conference</description>
+    </item>
+    <item>
+      <title>V International Meeting ReLaCa ESPACIO</title>
+      <link>http://localhost:1313/blog/talks/relaca2020/</link>
+      <pubDate>Fri, 22 May 2020 19:00:49 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/relaca2020/</guid>
+      <description>A presentation was made virtually at the V International Meeting of the Network Latin American and Caribbean Space - ReLaCa ESPACIO, in which the real-time data visualization software for picosatellites CanSat type and model rockets.&#xA;Click here to watch the conference</description>
+    </item>
+    <item>
+      <title>CanSat UNAM</title>
+      <link>http://localhost:1313/blog/post/cansat-unam/</link>
+      <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/cansat-unam/</guid>
+      <description>This is the &amp;ldquo;CanSat&amp;rdquo; picosatellite presented by my ATL seedbed team, with which we obtained position #14 in the competition (close to 200 initial teams).&#xA;What is it about? The objective is the design of a picosatellite that meets the requirements set forth in the Ibero-American competition of canned satellites of the UNAM. The idea is that this satellite is raised in a drone to 400 meters above ground level and then released.</description>
+    </item>
+    <item>
+      <title>IT Support Technician - RITA</title>
+      <link>http://localhost:1313/blog/experience/rita/</link>
+      <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/experience/rita/</guid>
+      <description>As a Support Technician, my primary duties involved resolving, monitoring, and maintaining computers, networks, and web pages according to assigned tickets.&#xA;Achievements Provided technology consulting services and dissemination of results to more than 15 research projects. Resolved more than 50 technical support requests related to servers, monitoring with Zabbix, web and desktop applications, improving operational efficiency and business continuity. What is RITA? RITA (Red de Investigaciones de Tecnología Avanzada) is a public entity that provides specialized services for the execution of projects and scientific innovation.</description>
+    </item>
+    <item>
+      <title>Graphical interface for viewing data sent in real time by picosatellite flight computers or model rockets.</title>
+      <link>http://localhost:1313/blog/post/gui-cansat-rockets/</link>
+      <pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/gui-cansat-rockets/</guid>
+      <description>Click here to see the repository&#xA;GUI Ground station for CanSat or OBC&amp;rsquo;s GUI code for a ground station for CanSats and/or OBCs where data from different sensors is displayed in real time. No sensors are needed to test it.&#xA;Table of Contents Support General information Liberias Linux Configuration Windows Settings How does it work? Sources License Support If you used this project or learned something, please share it or give it a star on github to continue making open source projects.</description>
+    </item>
+    <item>
+      <title>Assitant Web Developer - Argos Garments</title>
+      <link>http://localhost:1313/blog/experience/argos/</link>
+      <pubDate>Thu, 30 Jan 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/experience/argos/</guid>
+      <description>I was in charge of the development of an e-commerce page in which the company could sell their products and the marketing strategy making ads in social media.&#xA;Achievements I developed an e-commerce website enabling the company to effectively market and sell its products online. I crafted ads and marketing strategies across social media platforms, leveraging Facebook Ads Manager to manage multiple accounts. What is Argos Garments? Argos Garments Is a privately-owned company that has been manufacturing baby clothes for nearly 20 years, establishing a strong presence in the market.</description>
+    </item>
+    <item>
+      <title>Red Colsi Node Bogotá 2019</title>
+      <link>http://localhost:1313/blog/talks/redcolsi2019/</link>
+      <pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/redcolsi2019/</guid>
+      <description>Original name &amp;ldquo;Practical Application of Aerospace Engineering through the construction of a CanSat prototype and Model Rockets for the measurement of atmospheric factors&amp;rdquo;.&#xA;This was the first talk I&amp;rsquo;ve done to the general public, I presented the first version of the model rocket POA at the Autonomous University of Colombia (Autonomous University of Colombia). I presented this poster&#xA;(The image takes a while to load)</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/blog/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/contact/</guid>
+      <description> Your Name Email Address An email address is required. Message </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+.cf {
+
+    text-align: justify;
+    
+    opacity: 1.0;
+    
+    width: 100%;
+    
+    height: auto;
+    }
+     
+    .nested-links{
+    
+    text-align: justify;
+    
+    opacity: 1.0;
+    
+    width: 100%;
+    
+    height: auto;
+    
+    }
+
+    body {
+        max-width: none; /* Removes the maximum width constraint */
+    }
+    
+    article {
+        max-width: 100%; /* Use the full width of the parent container */
+        margin: 0 auto;  /* Center the content if needed */
+    }
+    
+    p {
+        text-align: left !important; /* Left-align the text */
+    }
+
+
+    html {
+        box-sizing: border-box; /* 1 */
+        cursor: default; /* 2 */
+        -ms-text-size-adjust: 100%; /* 3 */
+        -webkit-text-size-adjust: 100%; /* 3 */
+    }
