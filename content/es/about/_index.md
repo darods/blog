@@ -6,25 +6,19 @@ featured_image: '/images/background.jpg'
 {{< figure src="/images/darod-2022.png"  >}}
 
 ---------------------------
-Soy un ingeniero de sistemas que aporta un espíritu aventurero a mi trabajo en ingeniería de software, infraestructura (Docker, Nginx, Linux, microservicios), IA y análisis. 
-
-Siempre estoy empujando los límites y buscando soluciones innovadoras a problemas complejos. 
-
-Con una fuerte ética de trabajo y una mentalidad colaborativa, estoy emocionado de contribuir con mis habilidades y experiencia para ayudar a las organizaciones a alcanzar sus objetivos comerciales e impulsar el crecimiento y la innovación. 
-
-¡Conectémonos y exploremos cómo podemos tener un impacto positivo juntos!
+Con cuatro años de experiencia especializada en soluciones de backend y computación en la nube, particularmente interesado en la simulación y la utilización de motores de juegos de computadora para diversas tareas, ofrezco un enfoque dinámico a la ingeniería de sistemas. Experto en microservicios e inteligencia artificial, me comprometo a ofrecer soluciones innovadoras a desafíos complejos. Mi mentalidad colaborativa y mi sólida ética de trabajo garantizan que esté preparado para respaldar los objetivos de su organización, impulsar el crecimiento y ser pionero en la innovación en el ámbito de la simulación y la utilización de motores de juegos. Conectémonos y exploremos cómo puedo atender eficazmente sus necesidades y objetivos comerciales.
 
 
 ### Itereses
 * Infraestructura
 * Ingeniería de software 
+* Desarrollo de video juegos
 * Robótica 
-* Hacking
 
 ### Habilidades técnicas
 * Lenguajes: Python, Javascript, C++, Java, Go.
 * Bases de datos: Postgresql, Oracle, Mysql, MongoDB.
 * Frameworks: FastAPI, Django.
-* Infrastructura: Docker, Nginx, Linux, AWS.
+* Infrastructura: Docker, Nginx, Linux, AWS, Windows Server, IIS.
 * Gestores de versiones: Git, Github, Gitlab.
-* Otras: Fusion 360, Eagle, SDR, Web3.
+* 3D: Unity, Fusion 360, Web3.

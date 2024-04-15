@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on Daniel Rodríguez</title>
+    <link>http://localhost:1313/blog/es/post/</link>
+    <description>Recent content in Proyectos on Daniel Rodríguez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 07 Apr 2024 11:00:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slimy Fortune</title>
+      <link>http://localhost:1313/blog/es/post/slimy-fortune/</link>
+      <pubDate>Sun, 07 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/slimy-fortune/</guid>
+      <description>Me uní a un equipo que trabajaba en un videojuego basado en web en Unity, enfocándome principalmente en el arte ambiental y el desarrollo de juegos. Mis responsabilidades se centraban en crear el terreno y generar objetos dentro de él, además de mejorar las interacciones del personaje con el entorno. ¡Sumérgete en el juego y experimentalo por ti mismo!&#xA;¿De qué se trata? En &amp;ldquo;Slimy Fortune&amp;rdquo; te sumergirás en una apasionante aventura de evolución junto a nuestro protagonista, Slimy.</description>
+    </item>
+    <item>
+      <title>Rolling the Coconut</title>
+      <link>http://localhost:1313/blog/es/post/rolling-the-coconut/</link>
+      <pubDate>Mon, 01 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/rolling-the-coconut/</guid>
+      <description>Desempeñé un papel en la creación de un divertido videojuego de carreras usando Unity, trabajando como desarrollador de juegos. Mis tareas incluían dar forma a cómo se mueve el jugador, configurar la cámara para seguir la acción y ayudar con la IA del personaje a navegar por las pistas de carreras sin problemas. ¡Prueba el juego haciendo clic aquí!&#xA;¿De qué se trata? Nuestro juego te transporta al ambiente libre y relajado de las soleadas playas, donde nace nuestro protagonista, el coco Lowin Coconut.</description>
+    </item>
+    <item>
+      <title>Web-app predicción de ingreso a la Universidad</title>
+      <link>http://localhost:1313/blog/es/post/ingreso-ud/</link>
+      <pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/ingreso-ud/</guid>
+      <description>Predecir ingreso a la Universidad Distrital Esta aplicación cuenta con diferentes modelos de machine learning para predecir los chances que tiene un estudiante para entrar a la Universidad Dsitrital FJC basado en su resultado de las pruebas ICFES.&#xA;La aplicación es capaz de predecir las probabilidades para 5 carreras de la facultad de ingeniería, y lo logra por medio de la machine learning que es entrenada a partir de los datos historicos de admisión.</description>
+    </item>
+    <item>
+      <title>Cohete modelo POA</title>
+      <link>http://localhost:1313/blog/es/post/cohete-poa/</link>
+      <pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/cohete-poa/</guid>
+      <description>El cohete modelo Pillar of Autumn (POA) es el primer proyecto desarrollado por el semillero de investigación, y aún sigue en desarrollo.&#xA;¿De qué va el proyecto? Realizar un cohete modelo que vuele 100 metros el cual nos permita probar&#xA;Electrónica: Probar sistema electrónico para la transmisión de información en tiempo real Software: Software de visualización de datos recibidos Paracaídas: Probar sistema de detección de caída libre y accionar paracaídas Motor: Probar funcionamiento de motor y validarlo respecto a pruebas estáticas Vista general del cohete Computadora de vuelo Aquí podrá encontrar más información sobre el código de la computadora de vuelo Simulaciones Pruebas con motores Vídeo de pruebas estaticas Software Este software fue hecho para la toma y análisis de datos de serie de tiempo para determinar la curva de empuje del cohete.</description>
+    </item>
+    <item>
+      <title>Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala</title>
+      <link>http://localhost:1313/blog/es/post/hongo-machine/</link>
+      <pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/hongo-machine/</guid>
+      <description>Vídeo&#xA;El &amp;ldquo;Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala&amp;rdquo; (A.K.A: hongo-machine) es una propuesta con la que ganamos el reto de innovación del UN Robot 2020. Consiste en una máquina semiautomática para el cultivo de hongos pensada para personas que viven en zonas de guerra.&#xA;Planteamiento del problema Los problemas de desnutrición a nivel mundial son una de las mayores problemáticas de la humanidad, muchas veces causada por limitaciones que tienen los individuos para obtener alimentos que les sean nutritivos y de bajo costo en condiciones adversas como conflicto armado, clima, pobreza, entre otras cosas.</description>
+    </item>
+    <item>
+      <title>CanSat UNAM</title>
+      <link>http://localhost:1313/blog/es/post/cansat-unam/</link>
+      <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/cansat-unam/</guid>
+      <description>Este es el picosatélite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (cerca de 200 equipos iniciales).&#xA;¿De que trata? El objetivo es el diseño de un picosatélite que cumpla con los requerimientos planteados en la competencia iberoamericana de satélites enlatados de la UNAM. La idea es que este satélite se eleve en un dron a 400 metros sobre el nivel del suelo para luego ser liberado.</description>
+    </item>
+    <item>
+      <title>GUI visualización de datos en tiempo real para cohetes y picosatelites</title>
+      <link>http://localhost:1313/blog/es/post/gui-cansat-rockets/</link>
+      <pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/gui-cansat-rockets/</guid>
+      <description>Haz clic aquí para ver el repositorio&#xA;GUI Estación terrestre para CanSat u OBC&amp;rsquo;s Código de una GUI para una estación terrestre para CanSats y/o OBCs donde se muestran los datos de diferentes sensores en tiempo real. No se necesitan sensores para probarlo.&#xA;Tabla de contenidos Apoyo Información general Liberias Configuración Linux Configuración Windows ¿Cómo funciona? Fuentes Licencia Apoyo Si usaste este proyecto o aprendiste algo, por favor compartelo o dale una estrella en github para seguir haciendo proyectos de código abierto.</description>
+    </item>
+  </channel>
+</rss>

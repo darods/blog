@@ -4,7 +4,7 @@ featured_image: "images/background.jpg"
 omit_header_text: true
 description: Encantado de responder a sus inquetudes
 type: page
-menu: main
+#menu: main
 
 ---
 

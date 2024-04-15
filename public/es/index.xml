@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Rodríguez</title>
+    <link>http://localhost:1313/blog/es/</link>
+    <description>Recent content on Daniel Rodríguez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 13 Apr 2024 11:00:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ingeniero de software - OFEX</title>
+      <link>http://localhost:1313/blog/es/experience/idexud/</link>
+      <pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/idexud/</guid>
+      <description>En mi puesto, me encargo de tareas de ingeniería de software y DevOps. Mi principal responsabilidad es liderar el desarrollo de soluciones de software de vanguardia diseñadas para automatizar procesos de infraestructura de servidores y operaciones de personal.&#xA;Logros Mejoré la infraestructura con una soluciones basada en microservicios, utilizando Docker para administrar múltiples aplicaciones en Python, Javascript y PHP; Nginx como proxy inverso, impactando la operación de más de 10.000 usuarios.</description>
+    </item>
+    <item>
+      <title>Slimy Fortune</title>
+      <link>http://localhost:1313/blog/es/post/slimy-fortune/</link>
+      <pubDate>Sun, 07 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/slimy-fortune/</guid>
+      <description>Me uní a un equipo que trabajaba en un videojuego basado en web en Unity, enfocándome principalmente en el arte ambiental y el desarrollo de juegos. Mis responsabilidades se centraban en crear el terreno y generar objetos dentro de él, además de mejorar las interacciones del personaje con el entorno. ¡Sumérgete en el juego y experimentalo por ti mismo!&#xA;¿De qué se trata? En &amp;ldquo;Slimy Fortune&amp;rdquo; te sumergirás en una apasionante aventura de evolución junto a nuestro protagonista, Slimy.</description>
+    </item>
+    <item>
+      <title>Rolling the Coconut</title>
+      <link>http://localhost:1313/blog/es/post/rolling-the-coconut/</link>
+      <pubDate>Mon, 01 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/rolling-the-coconut/</guid>
+      <description>Desempeñé un papel en la creación de un divertido videojuego de carreras usando Unity, trabajando como desarrollador de juegos. Mis tareas incluían dar forma a cómo se mueve el jugador, configurar la cámara para seguir la acción y ayudar con la IA del personaje a navegar por las pistas de carreras sin problemas. ¡Prueba el juego haciendo clic aquí!&#xA;¿De qué se trata? Nuestro juego te transporta al ambiente libre y relajado de las soleadas playas, donde nace nuestro protagonista, el coco Lowin Coconut.</description>
+    </item>
+    <item>
+      <title>Contratista de TI - Instituto Nacional de Salud</title>
+      <link>http://localhost:1313/blog/es/experience/ins-moodle/</link>
+      <pubDate>Sat, 30 Mar 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/ins-moodle/</guid>
+      <description>Este puesto tenía similitudes con el de ingeniero de confiabilidad del sitio, donde mis responsabilidades abarcaban la implementación y administración de servidores Linux y Windows durante todo el proceso de migración de la plataforma. Esto fue parte del despliegue y migración de una plataforma de aprendizaje electrónico conocida como evigiaula.&#xA;Logros Gestioné el despliegue de una solución tecnológica en un servidor Windows Server con IIS, MariaDB y PHP para soportar más de 1000 usuarios concurrentes, garantizando su fiabilidad por medio de pruebas de estrés con JMeter.</description>
+    </item>
+    <item>
+      <title>Blockchain and information privacy</title>
+      <link>http://localhost:1313/blog/es/talks/forogobernanzainternet2023/</link>
+      <pubDate>Fri, 10 Nov 2023 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/forogobernanzainternet2023/</guid>
+      <description>Participé como ponente en el 10 Foro de Gobernanza de Internet impartiendo un taller en el que pretendo proporcionar una visión general sobre cómo el uso de las redes blockchain puede revelar información detallada sobre los movimientos, plataformas y hábitos financieros de las personas. Además, se explorarán estrategias para convertir transacciones que son pseudoanónimas en completamente anónimas. Por último, se analizará la relevancia de las políticas actualmente implantadas y las pendientes de implantación en relación con la gobernanza de estos activos y la prevención de su utilización en actividades delictivas y las consecuencias de estas.</description>
+    </item>
+    <item>
+      <title>UxTIC 2023</title>
+      <link>http://localhost:1313/blog/es/talks/uxtic2023/</link>
+      <pubDate>Thu, 08 Jun 2023 18:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/uxtic2023/</guid>
+      <description>Participé en el debate &amp;ldquo;Criptoactivos, criptomonedas anónimas y finanzas digitales&amp;rdquo; dentro del curso Blockchain y Criptoactivos 2023s1 organizado por CoinEx y UxTIC en colaboración con la Universidad Distrital Francisco José de Caldas, la Universidad Tres Culturas, la Corporación Universitaria Minuto de Dios y la Universidad Javeriana de Cali. Haga clic aquí para ver el video </description>
+    </item>
+    <item>
+      <title>Contratista de TI - SKG Tecnología</title>
+      <link>http://localhost:1313/blog/es/experience/skg/</link>
+      <pubDate>Wed, 20 Jul 2022 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/skg/</guid>
+      <description>Formé parte de un equipo que desarrolla interfaces API para sensores de ciudades inteligentes ubicadas en la ciudad de Bogotá.&#xA;Logros Documenté 3 sistemas de información y APIs para soluciones de ciudades inteligentes, usando Flask y PostgreSQL. Creé modelos de bases de datos para PostgreSQL, arquitectura y casos de uso para 4 subsistemas escritos en Python. ¿Qué es SKG? SKG Technologies es una empresa de software que desarrolla soluciones de software para ciudades inteligentes utilizando dispositivos IoT.</description>
+    </item>
+    <item>
+      <title>Web-app predicción de ingreso a la Universidad</title>
+      <link>http://localhost:1313/blog/es/post/ingreso-ud/</link>
+      <pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/ingreso-ud/</guid>
+      <description>Predecir ingreso a la Universidad Distrital Esta aplicación cuenta con diferentes modelos de machine learning para predecir los chances que tiene un estudiante para entrar a la Universidad Dsitrital FJC basado en su resultado de las pruebas ICFES.&#xA;La aplicación es capaz de predecir las probabilidades para 5 carreras de la facultad de ingeniería, y lo logra por medio de la machine learning que es entrenada a partir de los datos historicos de admisión.</description>
+    </item>
+    <item>
+      <title>JOVEN EMBDATA 2021</title>
+      <link>http://localhost:1313/blog/es/talks/jovenesembdata2021/</link>
+      <pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/jovenesembdata2021/</guid>
+      <description>Tuve el honor de ser invitado para realizar una conferencia en el JOVEN EMBDATA 2021, el la cual realicé la charla *&amp;ldquo;Avances en tecnología aeroespacial del grupo LIDER&amp;rdquo;. El evento EMB Data es uno de los mas importantes en la región.&#xA;Mira aquí el vídeo promocional</description>
+    </item>
+    <item>
+      <title>Semana Linux UD XVII</title>
+      <link>http://localhost:1313/blog/es/talks/gludxvii2021/</link>
+      <pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/gludxvii2021/</guid>
+      <description>Participé como ponente con la presentación titulada &amp;ldquo;Uso de satélites con radios definidas por software&amp;rdquo; en la Semana Linux UD XVIII del grupo GNU Linux de la Universidad Distrital.&#xA;Haz clic aquí para ver la conferencia.</description>
+    </item>
+    <item>
+      <title>Cohete modelo POA</title>
+      <link>http://localhost:1313/blog/es/post/cohete-poa/</link>
+      <pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/cohete-poa/</guid>
+      <description>El cohete modelo Pillar of Autumn (POA) es el primer proyecto desarrollado por el semillero de investigación, y aún sigue en desarrollo.&#xA;¿De qué va el proyecto? Realizar un cohete modelo que vuele 100 metros el cual nos permita probar&#xA;Electrónica: Probar sistema electrónico para la transmisión de información en tiempo real Software: Software de visualización de datos recibidos Paracaídas: Probar sistema de detección de caída libre y accionar paracaídas Motor: Probar funcionamiento de motor y validarlo respecto a pruebas estáticas Vista general del cohete Computadora de vuelo Aquí podrá encontrar más información sobre el código de la computadora de vuelo Simulaciones Pruebas con motores Vídeo de pruebas estaticas Software Este software fue hecho para la toma y análisis de datos de serie de tiempo para determinar la curva de empuje del cohete.</description>
+    </item>
+    <item>
+      <title>FLISOL Ecuador 2021</title>
+      <link>http://localhost:1313/blog/es/talks/flislolec2021/</link>
+      <pubDate>Sat, 15 May 2021 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/flislolec2021/</guid>
+      <description>Realicé la exposición &amp;ldquo;Radios Definidas por Software: Historia y demostración de su uso&amp;rdquo; en el 17° Festival Latinoamericano De Instalación De Software Libre, el cual se puede ver en el siguiente enlace.</description>
+    </item>
+    <item>
+      <title>VIII Encuentro de Investigación - UDistrital</title>
+      <link>http://localhost:1313/blog/es/talks/encuentrofce2020/</link>
+      <pubDate>Tue, 27 Oct 2020 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/encuentrofce2020/</guid>
+      <description>Presenté la ponencia &amp;ldquo;Desarrollo de picosatélites tipo CanSat para la eseñanza dy aplicación de fundamentos de física&amp;rdquo; en el VII Encuentro de Investigación de la Facultad de Ciencias y Educación de la Universidad Distrital Francisco José de Caldas.&#xA;Se espera que el artículo envíado aparezca publicado en el libro de mememorias del evento.</description>
+    </item>
+    <item>
+      <title>Software Freedom Day Ecuador 2020</title>
+      <link>http://localhost:1313/blog/es/talks/softwarefreedomdayec2020/</link>
+      <pubDate>Tue, 29 Sep 2020 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/softwarefreedomdayec2020/</guid>
+      <description>Realicé la exposición &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en el &amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;&#xA;Haz clic aquí para ver la coferencia</description>
+    </item>
+    <item>
+      <title>Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala</title>
+      <link>http://localhost:1313/blog/es/post/hongo-machine/</link>
+      <pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/hongo-machine/</guid>
+      <description>Vídeo&#xA;El &amp;ldquo;Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala&amp;rdquo; (A.K.A: hongo-machine) es una propuesta con la que ganamos el reto de innovación del UN Robot 2020. Consiste en una máquina semiautomática para el cultivo de hongos pensada para personas que viven en zonas de guerra.&#xA;Planteamiento del problema Los problemas de desnutrición a nivel mundial son una de las mayores problemáticas de la humanidad, muchas veces causada por limitaciones que tienen los individuos para obtener alimentos que les sean nutritivos y de bajo costo en condiciones adversas como conflicto armado, clima, pobreza, entre otras cosas.</description>
+    </item>
+    <item>
+      <title>Semana Linux UD XVIII</title>
+      <link>http://localhost:1313/blog/es/talks/gludxvii2020/</link>
+      <pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/gludxvii2020/</guid>
+      <description>Participé como ponente con dos presentaciones, la primera titulada &amp;ldquo;Interfaz de monitoreo en tiempo real para picosatelites y cohetes modelo&amp;rdquo; y la segunda &amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo; en la Semana Linux UD XVII del grupo GNU Linux de la Universidad Distrital.&#xA;Haz clic aquí para ver la conferencia</description>
+    </item>
+    <item>
+      <title>V Encuentro Internacional ReLaCa ESPACIO</title>
+      <link>http://localhost:1313/blog/es/talks/relaca2020/</link>
+      <pubDate>Fri, 22 May 2020 19:00:49 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/relaca2020/</guid>
+      <description>Se realizó una ponencia de forma virtual en el V Encuentro Internacional de la Red Latinoamericana y del Caribe del Espacio - ReLaCa ESPACIO, en la que se explicó el software de visualización de datos en tiempo real para picosatelites tipo CanSat y cohetes modelo.&#xA;Haz clic aquí para ver la conferencia</description>
+    </item>
+    <item>
+      <title>CanSat UNAM</title>
+      <link>http://localhost:1313/blog/es/post/cansat-unam/</link>
+      <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/cansat-unam/</guid>
+      <description>Este es el picosatélite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (cerca de 200 equipos iniciales).&#xA;¿De que trata? El objetivo es el diseño de un picosatélite que cumpla con los requerimientos planteados en la competencia iberoamericana de satélites enlatados de la UNAM. La idea es que este satélite se eleve en un dron a 400 metros sobre el nivel del suelo para luego ser liberado.</description>
+    </item>
+    <item>
+      <title>Técnico de soporte informático - RITA</title>
+      <link>http://localhost:1313/blog/es/experience/rita/</link>
+      <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/rita/</guid>
+      <description>Como Técnico de Soporte, mis funciones principales involucraban la resolución, monitoreo y mantenimiento de computadoras, redes y páginas web según tickets asignados.&#xA;Logros Resolví más de 50 solicitudes de soporte técnico relacionadas con servidores, monitorización con Zabbix, aplicaciones web y de escritorio, mejorando la eficiencia operativa y la continuidad del negocio. Prestación de servicios de consultoría tecnológica y difusión de resultados a más de 15 proyectos de investigación. ¿Qué es RITA?</description>
+    </item>
+    <item>
+      <title>GUI visualización de datos en tiempo real para cohetes y picosatelites</title>
+      <link>http://localhost:1313/blog/es/post/gui-cansat-rockets/</link>
+      <pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/post/gui-cansat-rockets/</guid>
+      <description>Haz clic aquí para ver el repositorio&#xA;GUI Estación terrestre para CanSat u OBC&amp;rsquo;s Código de una GUI para una estación terrestre para CanSats y/o OBCs donde se muestran los datos de diferentes sensores en tiempo real. No se necesitan sensores para probarlo.&#xA;Tabla de contenidos Apoyo Información general Liberias Configuración Linux Configuración Windows ¿Cómo funciona? Fuentes Licencia Apoyo Si usaste este proyecto o aprendiste algo, por favor compartelo o dale una estrella en github para seguir haciendo proyectos de código abierto.</description>
+    </item>
+    <item>
+      <title>Asistente de desarrollador web - Confecciones Argos</title>
+      <link>http://localhost:1313/blog/es/experience/argos/</link>
+      <pubDate>Thu, 30 Jan 2020 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/experience/argos/</guid>
+      <description>Estuve a cargo del desarrollo de una página de comercio electrónico en la que la empresa pudiera vender sus productos y la estrategia de marketing realizando anuncios en redes sociales.&#xA;Logros Desarrollé un sitio web de comercio electrónico que le permitió a la empresa comercializar y vender sus productos en línea de manera efectiva. Creé anuncios y estrategias de marketing en plataformas de redes sociales, aprovechando el Administrador de anuncios de Facebook para administrar múltiples cuentas.</description>
+    </item>
+    <item>
+      <title>Red Colsi Nodo Bogotá 2019</title>
+      <link>http://localhost:1313/blog/es/talks/redcolsi2019/</link>
+      <pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/redcolsi2019/</guid>
+      <description>Original name &amp;ldquo;Aplicación Práctica de Ingeniería Aeroespacial a Través de la construcción de un prototipo CanSat y Cohetes Modelo para la medición de factores armosféricos&amp;rdquo;.&#xA;This was the first talk i&amp;rsquo;ve done to general public, i presented the first version of the model rocket POA at the Autonomous University of Colombia (Universidad Autonoma de Colombia). I presented this poster&#xA;(La imagen tarda un poco en cargar)</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/blog/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/contact/</guid>
+      <description> Tu nombre Dirección de correo electrónico Se requiere una dirección de correo electrónico. Mensaje </description>
+    </item>
+  </channel>
+</rss>

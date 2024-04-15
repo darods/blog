@@ -22,3 +22,7 @@ pre {
   hyphens: none;
   position: relative;
 }
+
+.body {
+  text-align: justify;
+}

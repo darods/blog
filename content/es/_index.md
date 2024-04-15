@@ -1,5 +1,5 @@
 ---
 title: "Daniel Rodríguez"
 featured_image: './images/background.jpg'
-description: "Ingeniero de Software"
+description: "Innovando con servidores, motores de juego y simulación. ¡Creando soluciones de próxima generación!"
 ---

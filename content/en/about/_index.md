@@ -6,25 +6,20 @@ featured_image: '/images/background.jpg'
 {{< figure src="/images/darod-2022.png"  >}}
 
 ---------------------------
-I am a systems engineer who brings an adventurous spirit to my work in software engineering, infrastructure (Docker, Nginx, Linux, microservices), AI, and analytics.
-
-I am always pushing the limits and looking for innovative solutions to complex problems.
-
-With a strong work ethic and collaborative mindset, I am excited to contribute my skills and experience to help organizations achieve their business goals and drive growth and innovation.
-
-Let's connect and explore how we can make a positive impact together!
+Acerca de
+With four years of experience specializing in backend and cloud computing solutions, particularly interested in simulation and utilizing computer game engines for diverse tasks, I offer a dynamic approach to systems engineering. Proficient in microservices and AI, I am committed to delivering innovative solutions to complex challenges. My collaborative mindset and strong work ethic ensure I'm primed to support your organization's objectives, drive growth, and pioneer innovation in the realm of simulation and game engine utilization. Let's connect and explore how I can effectively serve your needs and business objectives.
 
 
 ### Interests
 * Infrastructure
 * Software Engineering
+* Game Development
 * Robotics
-* Hacking
 
 ### Technical skills
-* Languages: Python, Javascript, C++, Java, Go.
+* Languages: Python, C#, C++, Java, Go.
 * Databases: Postgresql, Oracle, Mysql, MongoDB.
 * Frameworks: FastAPI, Django.
-* Infrastructure: Docker, Nginx, Linux, AWS.
+* Infrastructure: Docker, Nginx, Linux, AWS, Windows Server, IIS.
 * Version managers: Git, Github, Gitlab.
-* Others: Fusion 360, Eagle, SDR, Web3.
+* 3D: Unity, Fusion 360, Web3.
