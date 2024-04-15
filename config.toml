@@ -41,6 +41,6 @@ canonifyURLs = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 10
-  mainSections = ["experience"]
+  mainSections = ["experience","post"]
   custom_css = ["css/custom.css"]
 

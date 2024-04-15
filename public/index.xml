@@ -16,6 +16,20 @@
       <description>In my role, I handle both Software Engineering and DevOps duties. My main responsibility is leading the development of cutting-edge software solutions designed to automate processes for server infrastructure and personnel operations.&#xA;Achievements I Enhanced the infrastructure with microservices based solutions, using Docker to manage multiple applications in Python, Javascript and PHP; Nginx as a reverse proxy, as a result we managed to reach more than 10000 users. I performed technical reviews of a nationally impactful software as part of a project valued at nearly $1 million dollars, aimed at making informed design decisions, identifying software flaws, and assessing potential cyber risk scenarios.</description>
     </item>
     <item>
+      <title>Slimy Fortune</title>
+      <link>http://localhost:1313/blog/post/slimy-fortune/</link>
+      <pubDate>Sun, 07 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/slimy-fortune/</guid>
+      <description>I joined a team working on a web-based video game in Unity, primarily focusing on environmental artistry and game development. My responsibilities centered around crafting the terrain and spawning objects within it, as well as enhancing the character&amp;rsquo;s interactions with the environment. Dive into the game and experience it for yourself!&#xA;What is it about? In &amp;ldquo;Slimy Fortune&amp;rdquo; you will immerse yourself in an exciting adventure of evolution with our protagonist, Slimy.</description>
+    </item>
+    <item>
+      <title>Rolling the Coconut</title>
+      <link>http://localhost:1313/blog/post/rolling-the-coconut/</link>
+      <pubDate>Mon, 01 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post/rolling-the-coconut/</guid>
+      <description>I played a role in creating a fun race video game using Unity, working as a game developer. My tasks included shaping how the player moves, setting up the camera to follow the action, and assisting with the character AI to navigate the race tracks smoothly. Give the game a try by clicking here!&#xA;What is it about? Our game transports you to the free and relaxed atmosphere of the sunny beaches, where our protagonist, the coconut Lowin Coconut, is born.</description>
+    </item>
+    <item>
       <title>IT Contractor - National Institue of Health</title>
       <link>http://localhost:1313/blog/experience/ins-moodle/</link>
       <pubDate>Sat, 30 Mar 2024 11:00:59 -0400</pubDate>
@@ -51,32 +65,11 @@
       <description>I had the honor of being invited to give a conference in the YOUNG EMBDATA 2021, in which I gave the talk *&amp;ldquo;Advances in aerospace technology of the LIDER group&amp;rdquo;. The EMB Data event is one of the most important in the region.&#xA;Watch the promotional video here</description>
     </item>
     <item>
-      <title>Lightning counter in images</title>
-      <link>http://localhost:1313/blog/post/contador-rayos/</link>
-      <pubDate>Wed, 20 Oct 2021 11:00:59 -0400</pubDate>
-      <guid>http://localhost:1313/blog/post/contador-rayos/</guid>
-      <description>lightning counter It counts how many lightning strikes there are in thunderstorm images using two types of algorithms, convolutional neural networks and a fuzzy logic algorithm optimized with a genetic algorithm technique.&#xA;Click here to go to the repository&#xA;Click here to see the scientific article&#xA;Click here to see the poster&#xA;What is it for? Electrical storms are one of the most devastating natural phenomena that exist, every year millions of dollars are lost in repairing the damage caused by lightning in the areas where it strikes, either due to loss of equipment, infrastructure or the same damage to nature that are required to be mitigated, as is the case of forest fires.</description>
-    </item>
-    <item>
       <title>XVIII Linux Week UD</title>
       <link>http://localhost:1313/blog/talks/gludxvii2021/</link>
       <pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate>
       <guid>http://localhost:1313/blog/talks/gludxvii2021/</guid>
       <description>I participated as a speaker with the presentation titled &amp;ldquo;Using satellites with software-defined radios&amp;rdquo; in the Linux Week UD XVIII of the GNU Linux group of the District University.&#xA;Click here to watch the conference.</description>
-    </item>
-    <item>
-      <title>Water quality monitoring robot</title>
-      <link>http://localhost:1313/blog/post/claraboya-calidad-agua/</link>
-      <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
-      <guid>http://localhost:1313/blog/post/claraboya-calidad-agua/</guid>
-      <description>This robot is a proposal we made for the IBM hackathon in 2021, its purpose is to measure water quality in rural areas.&#xA;Electronic design Mechanical design </description>
-    </item>
-    <item>
-      <title>AI Language Translator</title>
-      <link>http://localhost:1313/blog/post/app-hackathon-taxis-libres/</link>
-      <pubDate>Wed, 16 Jun 2021 11:00:59 -0400</pubDate>
-      <guid>http://localhost:1313/blog/post/app-hackathon-taxis-libres/</guid>
-      <description>Click here for demo&#xA;This project arises as a proposal for the hackathon of the company Taxis Libres in the year 2021 in which it was sought to improve the application used by users to make it more attractive.&#xA;The solution my team proposed was the integration of IBM artificial intelligence to translate the conversations that passengers and drivers have in the event that they speak different languages.&#xA;Used Techonologies Flutter: developing an application that receives audio Huawei Mobile Sevices: Use of Huawei APIs to program mobile applications (maps) Node-red: &amp;ldquo;back end&amp;rdquo; of the application that receives audio from the application and processes it with the IBM Cloud API IBM Cloud: Passes audio to text (speech to text), translates it and artificial intelligence plays audio with the translated text (text to speech).</description>
     </item>
     <item>
       <title>POA model rocket</title>
