@@ -8,6 +8,26 @@
     <language>es</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/es/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Slimy Fortune</title>
+      <link>https://darods.github.io/blog/es/post/slimy-fortune/</link>
+      <pubDate>Sun, 07 Apr 2024 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/es/post/slimy-fortune/</guid>
+      <description>Me uní a un equipo que trabajaba en un videojuego basado en web en Unity, enfocándome principalmente en el arte ambiental y el desarrollo de juegos. Mis responsabilidades se centraban en crear el terreno y generar objetos dentro de él, además de mejorar las interacciones del personaje con el entorno. ¡Sumérgete en el juego y experimentalo por ti mismo!
+¿De qué se trata? En &amp;ldquo;Slimy Fortune&amp;rdquo; te sumergirás en una apasionante aventura de evolución junto a nuestro protagonista, Slimy.</description>
+    </item>
+    
+    <item>
+      <title>Rolling the Coconut</title>
+      <link>https://darods.github.io/blog/es/post/rolling-the-coconut/</link>
+      <pubDate>Mon, 01 Apr 2024 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/es/post/rolling-the-coconut/</guid>
+      <description>Desempeñé un papel en la creación de un divertido videojuego de carreras usando Unity, trabajando como desarrollador de juegos. Mis tareas incluían dar forma a cómo se mueve el jugador, configurar la cámara para seguir la acción y ayudar con la IA del personaje a navegar por las pistas de carreras sin problemas. ¡Prueba el juego haciendo clic aquí!
+¿De qué se trata? Nuestro juego te transporta al ambiente libre y relajado de las soleadas playas, donde nace nuestro protagonista, el coco Lowin Coconut.</description>
+    </item>
+    
+    <item>
       <title>Web-app predicción de ingreso a la Universidad</title>
       <link>https://darods.github.io/blog/es/post/ingreso-ud/</link>
       <pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate>
@@ -15,40 +35,6 @@
       <guid>https://darods.github.io/blog/es/post/ingreso-ud/</guid>
       <description>Predecir ingreso a la Universidad Distrital Esta aplicación cuenta con diferentes modelos de machine learning para predecir los chances que tiene un estudiante para entrar a la Universidad Dsitrital FJC basado en su resultado de las pruebas ICFES.
 La aplicación es capaz de predecir las probabilidades para 5 carreras de la facultad de ingeniería, y lo logra por medio de la machine learning que es entrenada a partir de los datos historicos de admisión.</description>
-    </item>
-    
-    <item>
-      <title>Contador de rayos en imágenes</title>
-      <link>https://darods.github.io/blog/es/post/contador-rayos/</link>
-      <pubDate>Wed, 20 Oct 2021 11:00:59 -0400</pubDate>
-      
-      <guid>https://darods.github.io/blog/es/post/contador-rayos/</guid>
-      <description>Contador de rayos Cuenta cuántos rayos hay en imágenes de tormentas eléctricas usando dos tipos de algoritmos, redes neuronales convolucionales y un algoritmo de lógica difusa optimizado con una técnica de algoritmos genéticos.
-Haz clic aquí para ir al repositorio
-Haz clic aquí para ver el articulo cientifico
-Haz clic aquí para ver el poster
-¿Para qué sirve? Las tormentas eléctricas son uno de los fenómenos naturales más devastadores que existen, cada año se pierden millones de dólares en reparar los daños que causan los rayos en las zonas donde caen, ya sea por pérdida de equipos, infraestructura o mismos daños a la naturaleza que se requieren mitigar, como es el caso de los incendios forestales.</description>
-    </item>
-    
-    <item>
-      <title>Robot de monitoreo de la calidad del agua</title>
-      <link>https://darods.github.io/blog/es/post/claraboya-calidad-agua/</link>
-      <pubDate>Fri, 16 Jul 2021 11:00:59 -0400</pubDate>
-      
-      <guid>https://darods.github.io/blog/es/post/claraboya-calidad-agua/</guid>
-      <description>Este robot es una propuesta que hicimos para la hackathon de IBM en el año 2021, su propósito es medir la calidad del agua en zonas rurales.
-Diseño electrónico Diseño mecánico </description>
-    </item>
-    
-    <item>
-      <title>Traductor de idiomas con IA</title>
-      <link>https://darods.github.io/blog/es/post/app-hackathon-taxis-libres/</link>
-      <pubDate>Wed, 16 Jun 2021 11:00:59 -0400</pubDate>
-      
-      <guid>https://darods.github.io/blog/es/post/app-hackathon-taxis-libres/</guid>
-      <description>Haz clic aquí para ver la demostración
-Este proyecto surge como propuesta para la hackathon de la empresa Taxis Libres en el año 2021 en el que se buscaba mejorar la aplicación utilizada por los usuarios para que fuera más atractiva.
-La solución que propuso mi equipo fue la integración de la inteligencia artificial de IBM para hacer traducción de las conversaciones que tienen los pasajeros y conductores en el caso de que hablen distintos idiomas.</description>
     </item>
     
     <item>

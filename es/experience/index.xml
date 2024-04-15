@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiencias on Daniel Rodríguez</title>
+    <link>https://darods.github.io/blog/es/experience/</link>
+    <description>Recent content in Experiencias on Daniel Rodríguez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 13 Apr 2024 12:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/es/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ingeniero de software - OFEX</title>
+      <link>https://darods.github.io/blog/es/experience/idexud/</link>
+      <pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/es/experience/idexud/</guid>
+      <description>En mi puesto, me encargo de tareas de ingeniería de software y DevOps. Mi principal responsabilidad es liderar el desarrollo de soluciones de software de vanguardia diseñadas para automatizar procesos de infraestructura de servidores y operaciones de personal.
+Logros Mejoré la infraestructura con una soluciones basada en microservicios, utilizando Docker para administrar múltiples aplicaciones en Python, Javascript y PHP; Nginx como proxy inverso, impactando la operación de más de 10.000 usuarios.</description>
+    </item>
+    
+    <item>
+      <title>Contratista de TI - Instituto Nacional de Salud</title>
+      <link>https://darods.github.io/blog/es/experience/ins-moodle/</link>
+      <pubDate>Sat, 30 Mar 2024 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/es/experience/ins-moodle/</guid>
+      <description>Este puesto tenía similitudes con el de ingeniero de confiabilidad del sitio, donde mis responsabilidades abarcaban la implementación y administración de servidores Linux y Windows durante todo el proceso de migración de la plataforma. Esto fue parte del despliegue y migración de una plataforma de aprendizaje electrónico conocida como evigiaula.
+Logros Gestioné el despliegue de una solución tecnológica en un servidor Windows Server con IIS, MariaDB y PHP para soportar más de 1000 usuarios concurrentes, garantizando su fiabilidad por medio de pruebas de estrés con JMeter.</description>
+    </item>
+    
+    <item>
+      <title>Contratista de TI - SKG Tecnología</title>
+      <link>https://darods.github.io/blog/es/experience/skg/</link>
+      <pubDate>Wed, 20 Jul 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/es/experience/skg/</guid>
+      <description>Formé parte de un equipo que desarrolla interfaces API para sensores de ciudades inteligentes ubicadas en la ciudad de Bogotá.
+Logros Documenté 3 sistemas de información y APIs para soluciones de ciudades inteligentes, usando Flask y PostgreSQL. Creé modelos de bases de datos para PostgreSQL, arquitectura y casos de uso para 4 subsistemas escritos en Python. ¿Qué es SKG? SKG Technologies es una empresa de software que desarrolla soluciones de software para ciudades inteligentes utilizando dispositivos IoT.</description>
+    </item>
+    
+    <item>
+      <title>Técnico de soporte informático - RITA</title>
+      <link>https://darods.github.io/blog/es/experience/rita/</link>
+      <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/es/experience/rita/</guid>
+      <description>Como Técnico de Soporte, mis funciones principales involucraban la resolución, monitoreo y mantenimiento de computadoras, redes y páginas web según tickets asignados.
+Logros Resolví más de 50 solicitudes de soporte técnico relacionadas con servidores, monitorización con Zabbix, aplicaciones web y de escritorio, mejorando la eficiencia operativa y la continuidad del negocio. Prestación de servicios de consultoría tecnológica y difusión de resultados a más de 15 proyectos de investigación. ¿Qué es RITA?</description>
+    </item>
+    
+    <item>
+      <title>Asistente de desarrollador web - Confecciones Argos</title>
+      <link>https://darods.github.io/blog/es/experience/argos/</link>
+      <pubDate>Thu, 30 Jan 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/es/experience/argos/</guid>
+      <description>Estuve a cargo del desarrollo de una página de comercio electrónico en la que la empresa pudiera vender sus productos y la estrategia de marketing realizando anuncios en redes sociales.
+Logros Desarrollé un sitio web de comercio electrónico que le permitió a la empresa comercializar y vender sus productos en línea de manera efectiva. Creé anuncios y estrategias de marketing en plataformas de redes sociales, aprovechando el Administrador de anuncios de Facebook para administrar múltiples cuentas.</description>
+    </item>
+    
+  </channel>
+</rss>

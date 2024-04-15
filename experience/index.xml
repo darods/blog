@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience on Daniel Rodríguez</title>
+    <link>https://darods.github.io/blog/experience/</link>
+    <description>Recent content in Experience on Daniel Rodríguez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 13 Apr 2024 12:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineer - OFEX</title>
+      <link>https://darods.github.io/blog/experience/idexud/</link>
+      <pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/experience/idexud/</guid>
+      <description>In my role, I handle both Software Engineering and DevOps duties. My main responsibility is leading the development of cutting-edge software solutions designed to automate processes for server infrastructure and personnel operations.
+Achievements I Enhanced the infrastructure with microservices based solutions, using Docker to manage multiple applications in Python, Javascript and PHP; Nginx as a reverse proxy, as a result we managed to reach more than 10000 users. I performed technical reviews of a nationally impactful software as part of a project valued at nearly $1 million dollars, aimed at making informed design decisions, identifying software flaws, and assessing potential cyber risk scenarios.</description>
+    </item>
+    
+    <item>
+      <title>IT Contractor - National Institue of Health</title>
+      <link>https://darods.github.io/blog/experience/ins-moodle/</link>
+      <pubDate>Sat, 30 Mar 2024 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/experience/ins-moodle/</guid>
+      <description>This position bore similarities to that of a Site Reliability Engineer, where my responsibilities encompassed the deployment and management of both Linux and Windows servers throughout the platform migration process. This was part of deployment and migration of an e-learning platform known as evigiaula.
+Achievements I deployed the platform on a Windows Server with IIS, MariaDB and PHP to support 1000+ concurrent users. I deployed the platform on a Linux server with Docker, managing MySQL, MariaDB and Apache containers for development and testing for a team of 10+ people.</description>
+    </item>
+    
+    <item>
+      <title>IT Contractor - SKG Technologies</title>
+      <link>https://darods.github.io/blog/experience/skg/</link>
+      <pubDate>Wed, 20 Jul 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/experience/skg/</guid>
+      <description>I was part of a team that develops API interfaces for smart cities sensors located in the city of Bogotá.
+Achievements I Created PostgreSQL database models, architecture and use cases for 4 subsystems written in Python. I documented 3 information systems and APIs for smart city solutions, using Flask and PostgreSQL. What is SKG? SKG Technologies is a software company that develops software solutions fot smart cities using IoT devices.</description>
+    </item>
+    
+    <item>
+      <title>IT Support Technician - RITA</title>
+      <link>https://darods.github.io/blog/experience/rita/</link>
+      <pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/experience/rita/</guid>
+      <description>As a Support Technician, my primary duties involved resolving, monitoring, and maintaining computers, networks, and web pages according to assigned tickets.
+Achievements Provided technology consulting services and dissemination of results to more than 15 research projects. Resolved more than 50 technical support requests related to servers, monitoring with Zabbix, web and desktop applications, improving operational efficiency and business continuity. What is RITA? RITA (Red de Investigaciones de Tecnología Avanzada) is a public entity that provides specialized services for the execution of projects and scientific innovation.</description>
+    </item>
+    
+    <item>
+      <title>Assitant Web Developer - Argos Garments</title>
+      <link>https://darods.github.io/blog/experience/argos/</link>
+      <pubDate>Thu, 30 Jan 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://darods.github.io/blog/experience/argos/</guid>
+      <description>I was in charge of the development of an e-commerce page in which the company could sell their products and the marketing strategy making ads in social media.
+Achievements I developed an e-commerce website enabling the company to effectively market and sell its products online. I crafted ads and marketing strategies across social media platforms, leveraging Facebook Ads Manager to manage multiple accounts. What is Argos Garments? Argos Garments Is a privately-owned company that has been manufacturing baby clothes for nearly 20 years, establishing a strong presence in the market.</description>
+    </item>
+    
+  </channel>
+</rss>

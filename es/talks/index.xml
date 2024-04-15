@@ -6,7 +6,16 @@
     <description>Recent content in Charlas on Daniel Rodríguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 08 Jun 2023 18:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/es/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Nov 2023 19:42:02 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/es/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain and information privacy</title>
+      <link>https://darods.github.io/blog/es/talks/forogobernanzainternet2023/</link>
+      <pubDate>Fri, 10 Nov 2023 19:42:02 -0500</pubDate>
+      
+      <guid>https://darods.github.io/blog/es/talks/forogobernanzainternet2023/</guid>
+      <description>Participé como ponente en el 10 Foro de Gobernanza de Internet impartiendo un taller en el que pretendo proporcionar una visión general sobre cómo el uso de las redes blockchain puede revelar información detallada sobre los movimientos, plataformas y hábitos financieros de las personas. Además, se explorarán estrategias para convertir transacciones que son pseudoanónimas en completamente anónimas. Por último, se analizará la relevancia de las políticas actualmente implantadas y las pendientes de implantación en relación con la gobernanza de estos activos y la prevención de su utilización en actividades delictivas y las consecuencias de estas.</description>
+    </item>
+    
     <item>
       <title>UxTIC 2023</title>
       <link>https://darods.github.io/blog/es/talks/uxtic2023/</link>
