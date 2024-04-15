@@ -37,6 +37,13 @@
       <description>Este puesto tenía similitudes con el de ingeniero de confiabilidad del sitio, donde mis responsabilidades abarcaban la implementación y administración de servidores Linux y Windows durante todo el proceso de migración de la plataforma. Esto fue parte del despliegue y migración de una plataforma de aprendizaje electrónico conocida como evigiaula.&#xA;Logros Gestioné el despliegue de una solución tecnológica en un servidor Windows Server con IIS, MariaDB y PHP para soportar más de 1000 usuarios concurrentes, garantizando su fiabilidad por medio de pruebas de estrés con JMeter.</description>
     </item>
     <item>
+      <title>Blockchain and information privacy</title>
+      <link>http://localhost:1313/blog/es/talks/forogobernanzainternet2023/</link>
+      <pubDate>Fri, 10 Nov 2023 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/es/talks/forogobernanzainternet2023/</guid>
+      <description>Participé como ponente en el 10 Foro de Gobernanza de Internet impartiendo un taller en el que pretendo proporcionar una visión general sobre cómo el uso de las redes blockchain puede revelar información detallada sobre los movimientos, plataformas y hábitos financieros de las personas. Además, se explorarán estrategias para convertir transacciones que son pseudoanónimas en completamente anónimas. Por último, se analizará la relevancia de las políticas actualmente implantadas y las pendientes de implantación en relación con la gobernanza de estos activos y la prevención de su utilización en actividades delictivas y las consecuencias de estas.</description>
+    </item>
+    <item>
       <title>UxTIC 2023</title>
       <link>http://localhost:1313/blog/es/talks/uxtic2023/</link>
       <pubDate>Thu, 08 Jun 2023 18:00:00 -0500</pubDate>

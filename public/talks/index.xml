@@ -6,8 +6,15 @@
     <description>Recent content in Talks on Daniel Rodríguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jun 2023 18:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2023 19:42:02 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain and information privacy</title>
+      <link>http://localhost:1313/blog/talks/forogobernanzainternet2023/</link>
+      <pubDate>Fri, 10 Nov 2023 19:42:02 -0500</pubDate>
+      <guid>http://localhost:1313/blog/talks/forogobernanzainternet2023/</guid>
+      <description>I participated as a speaker in the 10 Internet Governance Forum giving a workshop in which i aim to provide an overview on how the use of blockchain networks can reveal detailed information about people&amp;rsquo;s financial movements, platforms, and habits. In addition, strategies for converting transactions that are pseudo-anonymous to completely anonymous will be explored. Finally, an analysis will be carried out of the relevance of the policies currently implemented and those pending implementation with regard to the governance of these assets and the prevention of their use in criminal activities and the consequences of these.</description>
+    </item>
     <item>
       <title>UxTIC 2023</title>
       <link>http://localhost:1313/blog/talks/uxtic2023/</link>
