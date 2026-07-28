@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <article class="article-page">
+    <div class="article-page__inner">
+      <h1 class="about-title">{{ .Title }}</h1>
+
+      <div class="about-layout">
+        <div class="about-layout__image">
+          {{ $img := "images/darod-2022.png" | absURL }}
+          <img src="{{ $img }}" alt="{{ $.Title }}" loading="lazy" />
+        </div>
+        <div class="about-layout__text">
+          {{ with .Params.description }}
+            <p class="article-page__desc">{{ . }}</p>
+          {{ end }}
+          <div class="article-page__content">
+            {{- .Content -}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+{{ end }}

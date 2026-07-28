@@ -34,6 +34,18 @@
           <span class="home-stat__value">{{ len (where .Site.RegularPages "Section" "talks") }}</span>
           <span class="home-stat__label">{{ if $isES }}Charlas{{ else }}Talks{{ end }}</span>
         </div>
+        <div class="home-stat home-reveal">
+          <span class="home-stat__value home-stat__value--skills">Python, C++, Go</span>
+          <span class="home-stat__label">{{ if $isES }}Lenguajes{{ else }}Languages{{ end }}</span>
+        </div>
+        <div class="home-stat home-reveal">
+          <span class="home-stat__value home-stat__value--skills">FastAPI, Django</span>
+          <span class="home-stat__label">{{ if $isES }}Marcos{{ else }}Frameworks{{ end }}</span>
+        </div>
+        <div class="home-stat home-reveal">
+          <span class="home-stat__value home-stat__value--skills">Docker, AWS, Linux</span>
+          <span class="home-stat__label">{{ if $isES }}Infraestructura{{ else }}Infrastructure{{ end }}</span>
+        </div>
       </div>
     </section>
 

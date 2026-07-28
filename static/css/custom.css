@@ -599,3 +599,45 @@ footer {
 footer a {
   transition: color 0.2s ease;
 }
+
+/* ── About layout ─────────────────────────────────────────── */
+
+.about-title {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: clamp(2.5rem, 7vw, 5rem);
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  color: #e8eaed;
+  line-height: 1.05;
+  margin: 0 0 2.5rem;
+}
+
+.about-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+@media (min-width: 768px) {
+  .about-layout {
+    grid-template-columns: 280px 1fr;
+    gap: 3rem;
+  }
+}
+
+.about-layout__image {
+  position: relative;
+  border-radius: 3px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.about-layout__image img {
+  width: 100%;
+  display: block;
+}
+
+.about-layout__text .article-page__title {
+  margin-top: 0;
+}
