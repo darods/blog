@@ -1,6 +1,7 @@
 ---
 title: "XVIII Linux Week UD"
 date: 2021-08-25T19:42:02-05:00
+featured_image: "/images/slud18-2021.jpeg"
 ---
 
 I participated as a speaker with the presentation titled

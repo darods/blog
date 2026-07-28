@@ -1,6 +1,7 @@
 ---
 title: "YOUNG EMBDATA 2021"
 date: 2021-12-03T19:42:02-05:00
+featured_image: "/images/jovenesEMBData-daniel-arod-anuncio.png"
 ---
 
 I had the honor of being invited to give a conference in

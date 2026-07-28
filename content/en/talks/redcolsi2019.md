@@ -1,6 +1,7 @@
 ---
 title: "Red Colsi Node Bogotá 2019"
 date: 2019-05-09T19:00:49-05:00
+featured_image: "/images/redcolsi2019.jpg"
 ---
 ### Original name
 "Practical Application of Aerospace Engineering through the construction of

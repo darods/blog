@@ -1,6 +1,7 @@
 ---
 title: "VIII Research Meeting - UDistrital"
 date: 2020-10-27T19:42:02-05:00
+featured_image: "/images/encuentro-inv-fce2020.png"
 ---
 I presented the paper *"Development of CanSat-type picosatellites for teaching
 dy application of fundamentals of physics"* at the *VII Research Meeting* of

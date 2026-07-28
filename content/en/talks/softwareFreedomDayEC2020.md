@@ -1,6 +1,7 @@
 ---
 title: "Software Freedom Day Ecuador 2020"
 date: 2020-09-29T19:42:02-05:00
+featured_image: "/images/SFDec2020.jpg"
 ---
 
 I made the exhibition *"Characterization of rocket motors using Arduino and

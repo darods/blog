@@ -1,6 +1,7 @@
 ---
 title: "VIII Encuentro de Investigación - UDistrital"
 date: 2020-10-27T19:42:02-05:00
+featured_image: "/images/encuentro-inv-fce2020.png"
 ---
 
 Presenté la ponencia *"Desarrollo de picosatélites tipo CanSat para la eseñanza

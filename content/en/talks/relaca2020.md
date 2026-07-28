@@ -1,6 +1,7 @@
 ---
 title: "V International Meeting ReLaCa ESPACIO"
 date: 2020-05-22T19:00:49-05:00
+featured_image: "/images/relaca2020.jpg"
 ---
 
 A presentation was made virtually at the *V International Meeting of the Network

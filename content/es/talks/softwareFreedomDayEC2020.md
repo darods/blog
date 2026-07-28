@@ -1,6 +1,7 @@
 ---
 title: "Software Freedom Day Ecuador 2020"
 date: 2020-09-29T19:42:02-05:00
+featured_image: "/images/SFDec2020.jpg"
 ---
 
 Realicé la exposición *"Caracterización de motores de cohete usando Arduino y 

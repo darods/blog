@@ -1,6 +1,7 @@
 ---
 title: "FLISOL Ecuador 2021"
 date: 2021-05-15T19:42:02-05:00
+featured_image: "/images/flisolec17-2020.png"
 ---
 
 Realicé la exposición *"Radios Definidas por Software: Historia y demostración de su

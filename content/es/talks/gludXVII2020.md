@@ -1,6 +1,7 @@
 ---
 title: "Semana Linux UD XVIII"
 date: 2020-08-29T19:42:02-05:00
+featured_image: "/images/SLUD172020-cohetes.jpg"
 ---
 
 Participé como ponente con dos presentaciones, la primera titulada

@@ -1,6 +1,7 @@
 ---
 title: "V Encuentro Internacional ReLaCa ESPACIO"
 date: 2020-05-22T19:00:49-05:00
+featured_image: "/images/relaca2020.jpg"
 ---
 
 Se realizó una ponencia de forma virtual en el *V Encuentro Internacional de la Red

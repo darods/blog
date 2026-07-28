@@ -1,6 +1,7 @@
 ---
 title: "UxTIC 2023"
 date: 2023-06-08T18:00:00-05:00
+featured_image: "/images/uxtic2023.png"
 ---
 
 I partitcipated in the debate *"Crypto assets, anonymous cryptocurrencies and digital finance"* 

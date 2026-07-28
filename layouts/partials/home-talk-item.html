@@ -1,4 +1,13 @@
-<a href="{{ .Permalink }}" class="home-talk">
+{{ $image := .Params.featured_image }}
+{{ if $image }}
+  {{ $image = (trim $image "/") | absURL }}
+{{ end }}
+<a href="{{ .Permalink }}" class="home-talk{{ if $image }} home-talk--has-image{{ end }}">
+  {{ if $image }}
+    <div class="home-talk__thumb">
+      <img src="{{ $image }}" alt="" loading="lazy" />
+    </div>
+  {{ end }}
   {{ with .Date }}
     <time class="home-talk__date" datetime="{{ .Format "2006-01-02" }}">
       <span class="home-talk__month">{{ .Format "Jan" }}</span>
@@ -11,5 +20,5 @@
       <p class="home-talk__desc">{{ . | plainify | truncate 90 }}</p>
     {{ end }}
   </div>
-  <span class="home-talk__arrow" aria-hidden="true">→</span>
+  <span class="home-talk__arrow" aria-hidden="true">&rarr;</span>
 </a>

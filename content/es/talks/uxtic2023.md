@@ -1,6 +1,7 @@
 ---
 title: "UxTIC 2023"
 date: 2023-06-08T18:00:00-05:00
+featured_image: "/images/uxtic2023.png"
 ---
 
 Participé en el debate *"Criptoactivos, criptomonedas anónimas y finanzas digitales"*
