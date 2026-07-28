@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Experience on Daniel Rodríguez</title>
-		<link>https://darods.github.io/blog/experience/</link>
+		<link>http://localhost:1313/experience/</link>
 		<description>Recent content in Experience on Daniel Rodríguez</description>
 		<generator>Hugo</generator>
 		<language>es</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Sat, 13 Apr 2024 11:00:59 -0400</lastBuildDate>
 		
-			<atom:link href="https://darods.github.io/blog/experience/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Software Engineer - OFEX</title>
-				<link>https://darods.github.io/blog/experience/idexud/</link>
+				<link>http://localhost:1313/experience/idexud/</link>
 				<pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/idexud/</guid>
+				<guid>http://localhost:1313/experience/idexud/</guid>
 				<description>&lt;p&gt;In my role, I handle both Software Engineering and DevOps duties. My main responsibility is leading the development of cutting-edge software solutions designed to automate processes for server infrastructure and personnel operations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I Enhanced the infrastructure with microservices based solutions, using Docker to manage multiple applications in Python, Javascript and PHP; Nginx as a reverse proxy, as a result we managed to reach more than 10000 users.&lt;/li&gt;&#xA;&lt;li&gt;I performed technical reviews of a nationally impactful software as part of a project valued at nearly $1 million dollars, aimed at making informed design decisions, identifying software flaws, and assessing potential cyber risk scenarios.&lt;/li&gt;&#xA;&lt;li&gt;I developed software using python for automating manual document analysis and management actions, increasing x10 the speed of the work team.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-ofex&#34;&gt;What is OFEX?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://idexud.udistrital.edu.co/&#34;&gt;OFEX (&lt;em&gt;&amp;ldquo;Oficina de Extensión&amp;rdquo;&lt;/em&gt;)&lt;/a&gt; is a project management entity between the District University and external organizations of the public sector.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>IT Contractor - National Institue of Health</title>
-				<link>https://darods.github.io/blog/experience/ins-moodle/</link>
+				<link>http://localhost:1313/experience/ins-moodle/</link>
 				<pubDate>Sat, 30 Mar 2024 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/ins-moodle/</guid>
+				<guid>http://localhost:1313/experience/ins-moodle/</guid>
 				<description>&lt;p&gt;This position bore similarities to that of a Site Reliability Engineer, where my responsibilities encompassed the deployment and management of both Linux and Windows servers throughout the platform migration process.&#xA;This was part of deployment and migration of an e-learning platform known as &lt;a href=&#34;https://evigiaula.ins.gov.co/&#34;&gt;&lt;em&gt;evigiaula&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I deployed the platform on a Windows Server with IIS, MariaDB and PHP to support 1000+ concurrent users.&lt;/li&gt;&#xA;&lt;li&gt;I deployed the platform on a Linux server with Docker, managing MySQL, MariaDB and Apache containers for development and&#xA;testing for a team of 10+ people.&lt;/li&gt;&#xA;&lt;li&gt;I contributed to the security analysis of the virtual infrastructure using NMAP and on-site physical analysis to minimize the attack surface&#xA;cyber attack surface.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-ins&#34;&gt;What is INS&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ins.gov.co/&#34;&gt;INS (&lt;em&gt;Instituto Nacional de Salud&lt;/em&gt;)&lt;/a&gt; is a public institution which main task is the research of the priority health problems that affect the Colombian community, in addition to carrying out development and technology transfer.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>IT Contractor - SKG Technologies</title>
-				<link>https://darods.github.io/blog/experience/skg/</link>
+				<link>http://localhost:1313/experience/skg/</link>
 				<pubDate>Wed, 20 Jul 2022 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/skg/</guid>
+				<guid>http://localhost:1313/experience/skg/</guid>
 				<description>&lt;p&gt;I was part of a team that develops API interfaces for smart cities sensors located in the city of Bogotá.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I Created PostgreSQL database models, architecture and use cases for 4 subsystems written in Python.&lt;/li&gt;&#xA;&lt;li&gt;I documented 3 information systems and APIs for smart city solutions, using Flask and PostgreSQL.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-skg&#34;&gt;What is SKG?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://skgtecnologia.com/&#34;&gt;SKG Technologies&lt;/a&gt; is a software company that develops software solutions fot smart cities using IoT devices.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>IT Support Technician - RITA</title>
-				<link>https://darods.github.io/blog/experience/rita/</link>
+				<link>http://localhost:1313/experience/rita/</link>
 				<pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/rita/</guid>
+				<guid>http://localhost:1313/experience/rita/</guid>
 				<description>&lt;p&gt;As a Support Technician, my primary duties involved resolving, monitoring, and maintaining computers, networks, and web pages according to assigned tickets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Provided technology consulting services and dissemination of results to more than 15 research projects.&lt;/li&gt;&#xA;&lt;li&gt;Resolved more than 50 technical support requests related to servers, monitoring with Zabbix, web and desktop applications, improving operational efficiency and business continuity.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-rita&#34;&gt;What is RITA?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rita.udistrital.edu.co/&#34;&gt;RITA (&lt;em&gt;Red de Investigaciones de Tecnología Avanzada&lt;/em&gt;)&lt;/a&gt; is a public entity that provides specialized services for the execution of projects and scientific innovation.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Assitant Web Developer - Argos Garments</title>
-				<link>https://darods.github.io/blog/experience/argos/</link>
+				<link>http://localhost:1313/experience/argos/</link>
 				<pubDate>Thu, 30 Jan 2020 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/argos/</guid>
+				<guid>http://localhost:1313/experience/argos/</guid>
 				<description>&lt;p&gt;I was in charge of the development of an e-commerce page in which the company could sell their products and the marketing strategy making ads in social media.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I developed an &lt;a href=&#34;https://santibebe.com/&#34;&gt;e-commerce website&lt;/a&gt; enabling the company to effectively market and sell its products online.&lt;/li&gt;&#xA;&lt;li&gt;I crafted ads and marketing strategies across social media platforms, leveraging Facebook Ads Manager to manage multiple accounts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-is-argos-garments&#34;&gt;What is Argos Garments?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://santibebe.com/&#34;&gt;Argos Garments&lt;/a&gt; Is a privately-owned company that has been manufacturing baby clothes for nearly 20 years, establishing a strong presence in the market.&lt;/p&gt;</description>
 			</item>
 	</channel>

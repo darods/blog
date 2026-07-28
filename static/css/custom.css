@@ -1,5 +1,5 @@
 /* ── Global site styles ────────────────────────────────────── */
-/* Palantir / Anduril inspired design system                   */
+/* Neo-militaristic / Tactical HUD-core design system           */
 
 /* Reset and base */
 *, *::before, *::after {
@@ -13,8 +13,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #000;
-  color: #fff;
+  background: #08080d;
+  color: #e8eaed;
   font-family: "Inter", system-ui, -apple-system, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -41,26 +41,26 @@ img {
 
 /* Selection */
 ::selection {
-  background: rgba(112, 97, 181, 0.3);
+  background: rgba(0, 229, 255, 0.2);
   color: #fff;
 }
 
 /* Scrollbar (webkit) */
 ::-webkit-scrollbar {
-  width: 6px;
+  width: 5px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #000;
+  background: #08080d;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #333;
-  border-radius: 3px;
+  background: #1e2030;
+  border-radius: 2px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: #2a2d42;
 }
 
 /* ── Navigation overrides ─────────────────────────────────── */
@@ -70,11 +70,7 @@ nav {
 }
 
 nav a {
-  transition: opacity 0.2s ease;
-}
-
-nav a:hover {
-  opacity: 0.7;
+  transition: color 0.2s ease;
 }
 
 /* ── List page styles (non-homepage) ──────────────────────── */
@@ -105,56 +101,54 @@ nav a:hover {
 }
 
 .article-body p {
-  color: #999;
+  color: #8b8fa3;
   line-height: 1.75;
   margin-bottom: 1.25rem;
 }
 
 .article-body a {
-  color: #7061b5;
-  border-bottom: 1px solid rgba(112, 97, 181, 0.3);
+  color: #00e5ff;
+  border-bottom: 1px solid rgba(0, 229, 255, 0.25);
   transition: border-color 0.2s ease;
 }
 
 .article-body a:hover {
-  border-color: #7061b5;
+  border-color: #00e5ff;
 }
 
 .article-body code {
-  background: #111;
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  background: #0c0c14;
+  border: 1px solid rgba(255, 255, 255, 0.06);
   border-radius: 3px;
   padding: 0.15em 0.4em;
-  font-size: 0.88em;
+  font-size: 0.85em;
 }
 
 .article-body pre {
-  background: #0a0a0a;
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  background: #0a0a10;
+  border: 1px solid rgba(255, 255, 255, 0.06);
   border-radius: 4px;
   padding: 1.25rem;
   overflow-x: auto;
 }
 
 .article-body blockquote {
-  border-left: 2px solid #7061b5;
+  border-left: 2px solid #00e5ff;
   margin-left: 0;
   padding-left: 1.25rem;
-  color: #777;
+  color: #6b7080;
 }
 
 /* ── Footer global ─────────────────────────────────────────── */
 
 footer {
-  background: #000;
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  background: #08080d;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
   padding: 1.5rem 2rem;
 }
 
 footer a {
-  transition: opacity 0.2s ease;
-}
-
-footer a:hover {
-  opacity: 0.7;
+  transition: color 0.2s ease;
 }

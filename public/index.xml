@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Daniel Rodríguez</title>
-		<link>https://darods.github.io/blog/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on Daniel Rodríguez</description>
 		<generator>Hugo</generator>
 		<language>es</language>
@@ -12,166 +12,166 @@
 		
 			<lastBuildDate>Sat, 13 Apr 2024 11:00:59 -0400</lastBuildDate>
 		
-			<atom:link href="https://darods.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Software Engineer - OFEX</title>
-				<link>https://darods.github.io/blog/experience/idexud/</link>
+				<link>http://localhost:1313/experience/idexud/</link>
 				<pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/idexud/</guid>
+				<guid>http://localhost:1313/experience/idexud/</guid>
 				<description>&lt;p&gt;In my role, I handle both Software Engineering and DevOps duties. My main responsibility is leading the development of cutting-edge software solutions designed to automate processes for server infrastructure and personnel operations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I Enhanced the infrastructure with microservices based solutions, using Docker to manage multiple applications in Python, Javascript and PHP; Nginx as a reverse proxy, as a result we managed to reach more than 10000 users.&lt;/li&gt;&#xA;&lt;li&gt;I performed technical reviews of a nationally impactful software as part of a project valued at nearly $1 million dollars, aimed at making informed design decisions, identifying software flaws, and assessing potential cyber risk scenarios.&lt;/li&gt;&#xA;&lt;li&gt;I developed software using python for automating manual document analysis and management actions, increasing x10 the speed of the work team.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-ofex&#34;&gt;What is OFEX?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://idexud.udistrital.edu.co/&#34;&gt;OFEX (&lt;em&gt;&amp;ldquo;Oficina de Extensión&amp;rdquo;&lt;/em&gt;)&lt;/a&gt; is a project management entity between the District University and external organizations of the public sector.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Slimy Fortune</title>
-				<link>https://darods.github.io/blog/post/slimy-fortune/</link>
+				<link>http://localhost:1313/post/slimy-fortune/</link>
 				<pubDate>Sun, 07 Apr 2024 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/post/slimy-fortune/</guid>
+				<guid>http://localhost:1313/post/slimy-fortune/</guid>
 				<description>&lt;p&gt;I joined a team working on a web-based video game in Unity, primarily focusing on environmental artistry and game development. My responsibilities centered around crafting the terrain and spawning objects within it, as well as enhancing the character&amp;rsquo;s interactions with the environment. &lt;a href=&#34;https://jacobogl.itch.io/slimy-fortune&#34;&gt;Dive into the game and experience it for yourself!&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-it-about&#34;&gt;What is it about?&lt;/h2&gt;&#xA;&lt;p&gt;In &amp;ldquo;Slimy Fortune&amp;rdquo; you will immerse yourself in an exciting adventure of evolution with our protagonist, Slimy. This intrepid character will embark on a journey through the forest, where each step is crucial for his development. Your mission will be to guide Slimy while collecting coins to boost his evolution, avoiding skillful obstacles that hinder your path to transformation.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Rolling the Coconut</title>
-				<link>https://darods.github.io/blog/post/rolling-the-coconut/</link>
+				<link>http://localhost:1313/post/rolling-the-coconut/</link>
 				<pubDate>Mon, 01 Apr 2024 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/post/rolling-the-coconut/</guid>
+				<guid>http://localhost:1313/post/rolling-the-coconut/</guid>
 				<description>&lt;p&gt;I played a role in creating a fun race video game using Unity, working as a game developer. My tasks included shaping how the player moves, setting up the camera to follow the action, and assisting with the character AI to navigate the race tracks smoothly. &lt;a href=&#34;https://alexro-1606.itch.io/rolling-the-coconut&#34;&gt;Give the game a try by clicking here!&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-it-about&#34;&gt;What is it about?&lt;/h2&gt;&#xA;&lt;p&gt;Our game transports you to the free and relaxed atmosphere of the sunny beaches, where our protagonist, the coconut Lowin Coconut, is born. With a friendly, charismatic appearance and happy expression. Lowin Coconut radiates an energetic personality. Although you might think that his personality was too relaxed and lazy due to the environment in which he grew up, Lowin is far from that. Our intrepid protagonist always dreamed of being the winner of The Fastest Fruit grand prize, which is held annually on three incredible but demanding tracks. Only the best racers participate, those who have demonstrated their incredible abilities of speed and skill.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>IT Contractor - National Institue of Health</title>
-				<link>https://darods.github.io/blog/experience/ins-moodle/</link>
+				<link>http://localhost:1313/experience/ins-moodle/</link>
 				<pubDate>Sat, 30 Mar 2024 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/ins-moodle/</guid>
+				<guid>http://localhost:1313/experience/ins-moodle/</guid>
 				<description>&lt;p&gt;This position bore similarities to that of a Site Reliability Engineer, where my responsibilities encompassed the deployment and management of both Linux and Windows servers throughout the platform migration process.&#xA;This was part of deployment and migration of an e-learning platform known as &lt;a href=&#34;https://evigiaula.ins.gov.co/&#34;&gt;&lt;em&gt;evigiaula&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I deployed the platform on a Windows Server with IIS, MariaDB and PHP to support 1000+ concurrent users.&lt;/li&gt;&#xA;&lt;li&gt;I deployed the platform on a Linux server with Docker, managing MySQL, MariaDB and Apache containers for development and&#xA;testing for a team of 10+ people.&lt;/li&gt;&#xA;&lt;li&gt;I contributed to the security analysis of the virtual infrastructure using NMAP and on-site physical analysis to minimize the attack surface&#xA;cyber attack surface.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-ins&#34;&gt;What is INS&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ins.gov.co/&#34;&gt;INS (&lt;em&gt;Instituto Nacional de Salud&lt;/em&gt;)&lt;/a&gt; is a public institution which main task is the research of the priority health problems that affect the Colombian community, in addition to carrying out development and technology transfer.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Blockchain and information privacy</title>
-				<link>https://darods.github.io/blog/talks/forogobernanzainternet2023/</link>
+				<link>http://localhost:1313/talks/forogobernanzainternet2023/</link>
 				<pubDate>Fri, 10 Nov 2023 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/forogobernanzainternet2023/</guid>
+				<guid>http://localhost:1313/talks/forogobernanzainternet2023/</guid>
 				<description>&lt;p&gt;I participated as a speaker in the &lt;em&gt;10 Internet Governance Forum&lt;/em&gt; giving a workshop in which i aim to provide an overview on how the use of blockchain networks can reveal detailed information about people&amp;rsquo;s financial movements, platforms, and habits. In addition, strategies for converting transactions that are pseudo-anonymous to completely anonymous will be explored. Finally, an analysis will be carried out of the relevance of the policies currently implemented and those pending implementation with regard to the governance of these assets and the prevention of their use in criminal activities and the consequences of these.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>UxTIC 2023</title>
-				<link>https://darods.github.io/blog/talks/uxtic2023/</link>
+				<link>http://localhost:1313/talks/uxtic2023/</link>
 				<pubDate>Thu, 08 Jun 2023 18:00:00 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/uxtic2023/</guid>
-				<description>&lt;p&gt;I partitcipated in the debate &lt;em&gt;&amp;ldquo;Crypto assets, anonymous cryptocurrencies and digital finance&amp;rdquo;&lt;/em&gt;&#xA;within the the Blockchain and Cryptoactives 2023s1 course organized by CoinEx and UxTIC in collaboration with the Francisco José de Caldas District University, the Tres Culturas University, the Minuto de Dios University Corporation and the Javeriana University of Cali.&#xA;&lt;a href=&#34;https://www.youtube.com/live/zXBpqjk5v58?feature=share&#34;&gt;Click here to see the video&lt;/a&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/uxtic2023.png&#34;&gt;&#xA; &lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+				<guid>http://localhost:1313/talks/uxtic2023/</guid>
+				<description>&lt;p&gt;I partitcipated in the debate &lt;em&gt;&amp;ldquo;Crypto assets, anonymous cryptocurrencies and digital finance&amp;rdquo;&lt;/em&gt;&#xA;within the the Blockchain and Cryptoactives 2023s1 course organized by CoinEx and UxTIC in collaboration with the Francisco José de Caldas District University, the Tres Culturas University, the Minuto de Dios University Corporation and the Javeriana University of Cali.&#xA;&lt;a href=&#34;https://www.youtube.com/live/zXBpqjk5v58?feature=share&#34;&gt;Click here to see the video&lt;/a&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/uxtic2023.png&#34;&gt;&#xA; &lt;/figure&gt;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>IT Contractor - SKG Technologies</title>
-				<link>https://darods.github.io/blog/experience/skg/</link>
+				<link>http://localhost:1313/experience/skg/</link>
 				<pubDate>Wed, 20 Jul 2022 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/skg/</guid>
+				<guid>http://localhost:1313/experience/skg/</guid>
 				<description>&lt;p&gt;I was part of a team that develops API interfaces for smart cities sensors located in the city of Bogotá.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I Created PostgreSQL database models, architecture and use cases for 4 subsystems written in Python.&lt;/li&gt;&#xA;&lt;li&gt;I documented 3 information systems and APIs for smart city solutions, using Flask and PostgreSQL.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-skg&#34;&gt;What is SKG?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://skgtecnologia.com/&#34;&gt;SKG Technologies&lt;/a&gt; is a software company that develops software solutions fot smart cities using IoT devices.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Web-app prediction of admission to the University</title>
-				<link>https://darods.github.io/blog/post/ingreso-ud/</link>
+				<link>http://localhost:1313/post/ingreso-ud/</link>
 				<pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate>
-				<guid>https://darods.github.io/blog/post/ingreso-ud/</guid>
+				<guid>http://localhost:1313/post/ingreso-ud/</guid>
 				<description>&lt;h1 id=&#34;predict-admission-to-the-district-university&#34;&gt;Predict admission to the District University&lt;/h1&gt;&#xA;&lt;p&gt;This application has different machine learning models to predict the chances that a student has to enter the University&#xA;Dsitrital FJC based on your ICFES test result.&lt;/p&gt;&#xA;&lt;p&gt;The application is capable of predicting the probabilities for 5 engineering college majors, and it achieves this through machine learning that is trained from historical admissions data.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ingreso-universidad-distrital.herokuapp.com/&#34;&gt;Click here to go to the application&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The application has managed to have an excellent reception by the student community on social networks, achieving more than 1000 reactions&#xA;the idea publication post.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>YOUNG EMBDATA 2021</title>
-				<link>https://darods.github.io/blog/talks/jovenesembdata2021/</link>
+				<link>http://localhost:1313/talks/jovenesembdata2021/</link>
 				<pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/jovenesembdata2021/</guid>
-				<description>&lt;p&gt;I had the honor of being invited to give a conference in&#xA;the &lt;a href=&#34;https://encuentromundialbigdata.com/2021/jovenes-embdata-ti/&#34;&gt;&lt;em&gt;YOUNG EMBDATA 2021&lt;/em&gt;&lt;/a&gt;, in which I gave the talk *&amp;ldquo;Advances in aerospace technology of the LIDER group&amp;rdquo;.&#xA;The EMB Data event is one of the most important in the region.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/hQH7Yzj5QsE&#34;&gt;Watch the promotional video here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/jovenesEMBData-daniel-arod-anuncio.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/jovenesembdata2021/</guid>
+				<description>&lt;p&gt;I had the honor of being invited to give a conference in&#xA;the &lt;a href=&#34;https://encuentromundialbigdata.com/2021/jovenes-embdata-ti/&#34;&gt;&lt;em&gt;YOUNG EMBDATA 2021&lt;/em&gt;&lt;/a&gt;, in which I gave the talk *&amp;ldquo;Advances in aerospace technology of the LIDER group&amp;rdquo;.&#xA;The EMB Data event is one of the most important in the region.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/hQH7Yzj5QsE&#34;&gt;Watch the promotional video here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/jovenesEMBData-daniel-arod-anuncio.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>XVIII Linux Week UD</title>
-				<link>https://darods.github.io/blog/talks/gludxvii2021/</link>
+				<link>http://localhost:1313/talks/gludxvii2021/</link>
 				<pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/gludxvii2021/</guid>
-				<description>&lt;p&gt;I participated as a speaker with the presentation titled&#xA;&lt;em&gt;&amp;ldquo;Using satellites with software-defined radios&amp;rdquo;&lt;/em&gt;&#xA;in the &lt;em&gt;Linux Week UD XVIII&lt;/em&gt; of the GNU Linux group of the District University.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/U7M6yRIEcx8&#34;&gt;Click here to watch the conference.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/slud18-2021.jpeg&#34;&gt;&#xA;  &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/gludxvii2021/</guid>
+				<description>&lt;p&gt;I participated as a speaker with the presentation titled&#xA;&lt;em&gt;&amp;ldquo;Using satellites with software-defined radios&amp;rdquo;&lt;/em&gt;&#xA;in the &lt;em&gt;Linux Week UD XVIII&lt;/em&gt; of the GNU Linux group of the District University.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/U7M6yRIEcx8&#34;&gt;Click here to watch the conference.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/slud18-2021.jpeg&#34;&gt;&#xA;  &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>POA model rocket</title>
-				<link>https://darods.github.io/blog/post/cohete-poa/</link>
+				<link>http://localhost:1313/post/cohete-poa/</link>
 				<pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/post/cohete-poa/</guid>
-				<description>&lt;p&gt;The &lt;strong&gt;Pillar of Autumn (POA)&lt;/strong&gt; model rocket is the first project developed by the research hotbed, and is still in development.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-the-project-about&#34;&gt;What is the project about?&lt;/h2&gt;&#xA;&lt;p&gt;Make a model rocket that flies 100 meters which allows us to test&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Electronics: Test electronic system for the transmission of information in real time&lt;/li&gt;&#xA;&lt;li&gt;Software: Received data display software&lt;/li&gt;&#xA;&lt;li&gt;Parachute: Test free fall detection system and activate parachute&lt;/li&gt;&#xA;&lt;li&gt;Engine: Test engine operation and validate it with respect to static tests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;overview-of-the-rocket&#34;&gt;Overview of the rocket&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/cohete-general.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;flight-computer&#34;&gt;Flight computer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/el-NASA/POA-OBC&#34;&gt;More information about the flight computer code can be found here&lt;/a&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/cohete-obc.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+				<guid>http://localhost:1313/post/cohete-poa/</guid>
+				<description>&lt;p&gt;The &lt;strong&gt;Pillar of Autumn (POA)&lt;/strong&gt; model rocket is the first project developed by the research hotbed, and is still in development.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-the-project-about&#34;&gt;What is the project about?&lt;/h2&gt;&#xA;&lt;p&gt;Make a model rocket that flies 100 meters which allows us to test&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Electronics: Test electronic system for the transmission of information in real time&lt;/li&gt;&#xA;&lt;li&gt;Software: Received data display software&lt;/li&gt;&#xA;&lt;li&gt;Parachute: Test free fall detection system and activate parachute&lt;/li&gt;&#xA;&lt;li&gt;Engine: Test engine operation and validate it with respect to static tests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;overview-of-the-rocket&#34;&gt;Overview of the rocket&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/cohete-general.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;flight-computer&#34;&gt;Flight computer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/el-NASA/POA-OBC&#34;&gt;More information about the flight computer code can be found here&lt;/a&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/cohete-obc.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>FLISOL Ecuador 2021</title>
-				<link>https://darods.github.io/blog/talks/flislolec2021/</link>
+				<link>http://localhost:1313/talks/flislolec2021/</link>
 				<pubDate>Sat, 15 May 2021 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/flislolec2021/</guid>
-				<description>&lt;p&gt;I made the exhibition &lt;em&gt;&amp;ldquo;Software Defined Radios: History and demonstration of its&#xA;uso&amp;rdquo;&lt;/em&gt; at the &lt;em&gt;17th Latin American Festival of Free Software Installation&lt;/em&gt;, which&#xA;can be seen at the following link.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/flisolec17-2020.png&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/flislolec2021/</guid>
+				<description>&lt;p&gt;I made the exhibition &lt;em&gt;&amp;ldquo;Software Defined Radios: History and demonstration of its&#xA;uso&amp;rdquo;&lt;/em&gt; at the &lt;em&gt;17th Latin American Festival of Free Software Installation&lt;/em&gt;, which&#xA;can be seen at the following link.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/flisolec17-2020.png&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>VIII Research Meeting - UDistrital</title>
-				<link>https://darods.github.io/blog/talks/encuentrofce2020/</link>
+				<link>http://localhost:1313/talks/encuentrofce2020/</link>
 				<pubDate>Tue, 27 Oct 2020 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/encuentrofce2020/</guid>
-				<description>&lt;p&gt;I presented the paper &lt;em&gt;&amp;ldquo;Development of CanSat-type picosatellites for teaching&#xA;dy application of fundamentals of physics&amp;rdquo;&lt;/em&gt; at the &lt;em&gt;VII Research Meeting&lt;/em&gt; of&#xA;the Faculty of Sciences and Education of the Francisco José de&#xA;Caldas.&lt;/p&gt;&#xA;&lt;p&gt;It is expected that the submitted article will appear published in the memory book&#xA;of the event.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/encuentro-inv-fce2020.png&#34;&gt;&#xA;  &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/encuentrofce2020/</guid>
+				<description>&lt;p&gt;I presented the paper &lt;em&gt;&amp;ldquo;Development of CanSat-type picosatellites for teaching&#xA;dy application of fundamentals of physics&amp;rdquo;&lt;/em&gt; at the &lt;em&gt;VII Research Meeting&lt;/em&gt; of&#xA;the Faculty of Sciences and Education of the Francisco José de&#xA;Caldas.&lt;/p&gt;&#xA;&lt;p&gt;It is expected that the submitted article will appear published in the memory book&#xA;of the event.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/encuentro-inv-fce2020.png&#34;&gt;&#xA;  &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>Software Freedom Day Ecuador 2020</title>
-				<link>https://darods.github.io/blog/talks/softwarefreedomdayec2020/</link>
+				<link>http://localhost:1313/talks/softwarefreedomdayec2020/</link>
 				<pubDate>Tue, 29 Sep 2020 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/softwarefreedomdayec2020/</guid>
-				<description>&lt;p&gt;I made the exhibition &lt;em&gt;&amp;ldquo;Characterization of rocket motors using Arduino and&#xA;Python&amp;rdquo;&lt;/em&gt; at &lt;em&gt;&amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/VfKvgGvEOdM&#34;&gt;Click here to see the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/SFDec2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/softwarefreedomdayec2020/</guid>
+				<description>&lt;p&gt;I made the exhibition &lt;em&gt;&amp;ldquo;Characterization of rocket motors using Arduino and&#xA;Python&amp;rdquo;&lt;/em&gt; at &lt;em&gt;&amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/VfKvgGvEOdM&#34;&gt;Click here to see the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/SFDec2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>Compact mushroom growing system with built-in irrigation on a small scale</title>
-				<link>https://darods.github.io/blog/post/hongo-machine/</link>
+				<link>http://localhost:1313/post/hongo-machine/</link>
 				<pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/post/hongo-machine/</guid>
+				<guid>http://localhost:1313/post/hongo-machine/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1bfTKUydreXjDzi1bduLuNBzCBml2ewMy/view?usp=sharing&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The &amp;ldquo;Small-scale compact mushroom cultivation system with built-in irrigation&amp;rdquo; (A.K.A: mushroom-machine) is a proposal with which we won the UN Robot 2020 innovation challenge. It consists of a semi-automatic mushroom cultivation machine designed for People living in war zones.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h2&gt;&#xA;&lt;p&gt;Malnutrition problems worldwide are one of the biggest problems of&#xA;humanity, many times caused by limitations that individuals have to&#xA;obtain nutritious and low-cost food in adverse conditions such as&#xA;armed conflict, climate, poverty, among other things. The latest estimates indicate that&#xA;in 2018 about 821 million people in the world suffered from malnutrition; or what is what&#xA;same, 1 in 10 human beings. In fact, hunger and malnutrition are the main risk&#xA;health worldwide, even greater than AIDS, malaria and tuberculosis combined.&#xA;This problem not only affects people&amp;rsquo;s health, but also their quality of life,&#xA;opportunities for progress, etc&amp;hellip; which is why it is one of the main challenges to solve in&#xA;our society.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>XVII Linux Week UD</title>
-				<link>https://darods.github.io/blog/talks/gludxvii2020/</link>
+				<link>http://localhost:1313/talks/gludxvii2020/</link>
 				<pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/gludxvii2020/</guid>
-				<description>&lt;p&gt;I participated as a speaker with two presentations, the first titled&#xA;*&amp;ldquo;Real-time monitoring interface for picosatellites and model rockets&amp;rdquo;*and the second &lt;em&gt;&amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo;&lt;/em&gt;&#xA;in the &lt;em&gt;XVII Linux Week UD&lt;/em&gt; of the GNU Linux group of the District University.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/sTREDIjP0is&#34;&gt;Click here to watch the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/SLUD172020-cohetes.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/gludxvii2020/</guid>
+				<description>&lt;p&gt;I participated as a speaker with two presentations, the first titled&#xA;*&amp;ldquo;Real-time monitoring interface for picosatellites and model rockets&amp;rdquo;*and the second &lt;em&gt;&amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo;&lt;/em&gt;&#xA;in the &lt;em&gt;XVII Linux Week UD&lt;/em&gt; of the GNU Linux group of the District University.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/sTREDIjP0is&#34;&gt;Click here to watch the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/SLUD172020-cohetes.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>V International Meeting ReLaCa ESPACIO</title>
-				<link>https://darods.github.io/blog/talks/relaca2020/</link>
+				<link>http://localhost:1313/talks/relaca2020/</link>
 				<pubDate>Fri, 22 May 2020 19:00:49 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/relaca2020/</guid>
-				<description>&lt;p&gt;A presentation was made virtually at the &lt;em&gt;V International Meeting of the Network&#xA;Latin American and Caribbean Space - ReLaCa ESPACIO&lt;/em&gt;, in which the&#xA;real-time data visualization software for picosatellites&#xA;CanSat type and model rockets.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/WQqk9afHDvA&#34;&gt;Click here to watch the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/relaca2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/relaca2020/</guid>
+				<description>&lt;p&gt;A presentation was made virtually at the &lt;em&gt;V International Meeting of the Network&#xA;Latin American and Caribbean Space - ReLaCa ESPACIO&lt;/em&gt;, in which the&#xA;real-time data visualization software for picosatellites&#xA;CanSat type and model rockets.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/WQqk9afHDvA&#34;&gt;Click here to watch the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/relaca2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>CanSat UNAM</title>
-				<link>https://darods.github.io/blog/post/cansat-unam/</link>
+				<link>http://localhost:1313/post/cansat-unam/</link>
 				<pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/post/cansat-unam/</guid>
+				<guid>http://localhost:1313/post/cansat-unam/</guid>
 				<description>&lt;p&gt;This is the &amp;ldquo;CanSat&amp;rdquo; picosatellite presented by my ATL seedbed team, with which we obtained position #14 in the competition (close to 200 initial teams).&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-it-about&#34;&gt;What is it about?&lt;/h2&gt;&#xA;&lt;p&gt;The objective is the design of a picosatellite that meets the requirements set forth in the&#xA;Ibero-American competition of canned satellites of the UNAM. The idea is that this satellite is raised in a drone to 400 meters above ground level and then released. While in free fall, it has to send information from its sensors in real time to a ground station that graphs and stores this data.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>IT Support Technician - RITA</title>
-				<link>https://darods.github.io/blog/experience/rita/</link>
+				<link>http://localhost:1313/experience/rita/</link>
 				<pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/rita/</guid>
+				<guid>http://localhost:1313/experience/rita/</guid>
 				<description>&lt;p&gt;As a Support Technician, my primary duties involved resolving, monitoring, and maintaining computers, networks, and web pages according to assigned tickets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Provided technology consulting services and dissemination of results to more than 15 research projects.&lt;/li&gt;&#xA;&lt;li&gt;Resolved more than 50 technical support requests related to servers, monitoring with Zabbix, web and desktop applications, improving operational efficiency and business continuity.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-rita&#34;&gt;What is RITA?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rita.udistrital.edu.co/&#34;&gt;RITA (&lt;em&gt;Red de Investigaciones de Tecnología Avanzada&lt;/em&gt;)&lt;/a&gt; is a public entity that provides specialized services for the execution of projects and scientific innovation.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Graphical interface for viewing data sent in real time by picosatellite flight computers or model rockets.</title>
-				<link>https://darods.github.io/blog/post/gui-cansat-rockets/</link>
+				<link>http://localhost:1313/post/gui-cansat-rockets/</link>
 				<pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
-				<guid>https://darods.github.io/blog/post/gui-cansat-rockets/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/el-NASA/CanSat-Ground-station&#34;&gt;Click here to see the repository&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;gui-ground-station-for-cansat-or-obcs&#34;&gt;GUI Ground station for CanSat or OBC&amp;rsquo;s&lt;/h1&gt;&#xA;&lt;p&gt;GUI code for a ground station for CanSats and/or OBCs where data from different sensors is displayed in real time. &lt;strong&gt;No sensors are needed to test it&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/zDY3DnY.gif&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://darods.github.io/blog/post/gui-cansat-rockets/#support&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://darods.github.io/blog/post/gui-cansat-rockets/#general-information&#34;&gt;General information&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://darods.github.io/blog/post/gui-cansat-rockets/#libraries&#34;&gt;Liberias&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://darods.github.io/blog/post/gui-cansat-rockets/#linux-configuration&#34;&gt;Linux Configuration&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://darods.github.io/blog/post/gui-cansat-rockets/#windows-settings&#34;&gt;Windows Settings&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://darods.github.io/blog/post/gui-cansat-rockets/#how-it-works&#34;&gt;How does it work?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://darods.github.io/blog/post/gui-cansat-rockets/#sources&#34;&gt;Sources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://darods.github.io/blog/post/gui-cansat-rockets/#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;support&#34;&gt;Support&lt;/h2&gt;&#xA;&lt;p&gt;If you used this project or learned something, please share it or give it a star on github to continue making open source projects.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/post/gui-cansat-rockets/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/el-NASA/CanSat-Ground-station&#34;&gt;Click here to see the repository&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;gui-ground-station-for-cansat-or-obcs&#34;&gt;GUI Ground station for CanSat or OBC&amp;rsquo;s&lt;/h1&gt;&#xA;&lt;p&gt;GUI code for a ground station for CanSats and/or OBCs where data from different sensors is displayed in real time. &lt;strong&gt;No sensors are needed to test it&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/zDY3DnY.gif&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#support&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#general-information&#34;&gt;General information&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#libraries&#34;&gt;Liberias&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#linux-configuration&#34;&gt;Linux Configuration&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#windows-settings&#34;&gt;Windows Settings&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#how-it-works&#34;&gt;How does it work?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#sources&#34;&gt;Sources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;support&#34;&gt;Support&lt;/h2&gt;&#xA;&lt;p&gt;If you used this project or learned something, please share it or give it a star on github to continue making open source projects.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Assitant Web Developer - Argos Garments</title>
-				<link>https://darods.github.io/blog/experience/argos/</link>
+				<link>http://localhost:1313/experience/argos/</link>
 				<pubDate>Thu, 30 Jan 2020 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/experience/argos/</guid>
+				<guid>http://localhost:1313/experience/argos/</guid>
 				<description>&lt;p&gt;I was in charge of the development of an e-commerce page in which the company could sell their products and the marketing strategy making ads in social media.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I developed an &lt;a href=&#34;https://santibebe.com/&#34;&gt;e-commerce website&lt;/a&gt; enabling the company to effectively market and sell its products online.&lt;/li&gt;&#xA;&lt;li&gt;I crafted ads and marketing strategies across social media platforms, leveraging Facebook Ads Manager to manage multiple accounts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-is-argos-garments&#34;&gt;What is Argos Garments?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://santibebe.com/&#34;&gt;Argos Garments&lt;/a&gt; Is a privately-owned company that has been manufacturing baby clothes for nearly 20 years, establishing a strong presence in the market.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Red Colsi Node Bogotá 2019</title>
-				<link>https://darods.github.io/blog/talks/redcolsi2019/</link>
+				<link>http://localhost:1313/talks/redcolsi2019/</link>
 				<pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/redcolsi2019/</guid>
-				<description>&lt;h3 id=&#34;original-name&#34;&gt;Original name&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;Practical Application of Aerospace Engineering through the construction of&#xA;a CanSat prototype and Model Rockets for the measurement of atmospheric factors&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;This was the first talk I&amp;rsquo;ve done to the general public, I presented the first&#xA;version of the model rocket &lt;strong&gt;POA&lt;/strong&gt; at the &lt;em&gt;Autonomous University of&#xA;Colombia&lt;/em&gt; (Autonomous University of Colombia).&#xA;I presented this poster&lt;/p&gt;&#xA;&lt;p&gt;(The image takes a while to load)&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/redcolsi2019.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/redcolsi2019/</guid>
+				<description>&lt;h3 id=&#34;original-name&#34;&gt;Original name&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;Practical Application of Aerospace Engineering through the construction of&#xA;a CanSat prototype and Model Rockets for the measurement of atmospheric factors&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;This was the first talk I&amp;rsquo;ve done to the general public, I presented the first&#xA;version of the model rocket &lt;strong&gt;POA&lt;/strong&gt; at the &lt;em&gt;Autonomous University of&#xA;Colombia&lt;/em&gt; (Autonomous University of Colombia).&#xA;I presented this poster&lt;/p&gt;&#xA;&lt;p&gt;(The image takes a while to load)&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/redcolsi2019.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>Contact</title>
-				<link>https://darods.github.io/blog/contact/</link>
+				<link>http://localhost:1313/contact/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://darods.github.io/blog/contact/</guid>
+				<guid>http://localhost:1313/contact/</guid>
 				<description>&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/xqkneejb&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Tu nombre&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Dirección de correo electrónico&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xA;      Se requiere una dirección de correo electrónico.&#xA;    &lt;/div&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Mensaje&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Enviar&#34; /&gt;&#xA;&#xA;&lt;/form&gt;</description>
 			</item>
 	</channel>

@@ -8,6 +8,9 @@
     <meta name="color-scheme" content="dark">
     {{ hugo.Generator }}
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     {{ else }}

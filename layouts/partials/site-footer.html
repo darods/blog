@@ -1,13 +1,15 @@
-<footer style="background:#000;border-top:1px solid rgba(255,255,255,0.08);padding:1.5rem 2rem;" role="contentinfo">
+<footer style="background:#08080d;border-top:1px solid rgba(255,255,255,0.06);padding:1.5rem 2rem;" role="contentinfo">
   <div style="max-width:80rem;margin:0 auto;display:flex;justify-content:space-between;align-items:center;">
-    <a style="font-size:0.75rem;font-weight:500;color:#555;text-decoration:none;letter-spacing:0.06em;" href="{{ .Site.BaseURL }}">
+    <a style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;font-weight:500;color:#4b5068;text-decoration:none;letter-spacing:0.1em;text-transform:uppercase;" href="{{ .Site.BaseURL }}">
       &copy; {{ with .Site.Copyright | default .Site.Title }}{{ . | safeHTML }} {{ now.Format "2006" }}{{ end }}
     </a>
-    {{ with .Site.Params.github }}
-      <a href="{{ . }}" target="_blank" rel="noopener" style="font-size:0.75rem;font-weight:500;color:#555;text-decoration:none;letter-spacing:0.04em;transition:color 0.2s ease;" onmouseover="this.style.color='#888'" onmouseout="this.style.color='#555'">GitHub</a>
-    {{ end }}
-    {{ with .Site.Params.linkedin }}
-      <a href="{{ . }}" target="_blank" rel="noopener" style="font-size:0.75rem;font-weight:500;color:#555;text-decoration:none;letter-spacing:0.04em;transition:color 0.2s ease;" onmouseover="this.style.color='#888'" onmouseout="this.style.color='#555'">LinkedIn</a>
-    {{ end }}
+    <div style="display:flex;gap:1.5rem;">
+      {{ with .Site.Params.github }}
+        <a href="{{ . }}" target="_blank" rel="noopener" style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;font-weight:500;color:#4b5068;text-decoration:none;letter-spacing:0.08em;text-transform:uppercase;transition:color 0.2s ease;" onmouseover="this.style.color='#00e5ff'" onmouseout="this.style.color='#4b5068'">GitHub</a>
+      {{ end }}
+      {{ with .Site.Params.linkedin }}
+        <a href="{{ . }}" target="_blank" rel="noopener" style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;font-weight:500;color:#4b5068;text-decoration:none;letter-spacing:0.08em;text-transform:uppercase;transition:color 0.2s ease;" onmouseover="this.style.color='#00e5ff'" onmouseout="this.style.color='#4b5068'">LinkedIn</a>
+      {{ end }}
+    </div>
   </div>
 </footer>

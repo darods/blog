@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Experiencias on Daniel Rodríguez</title>
-		<link>https://darods.github.io/blog/es/experience/</link>
+		<link>http://localhost:1313/es/experience/</link>
 		<description>Recent content in Experiencias on Daniel Rodríguez</description>
 		<generator>Hugo</generator>
 		<language>es</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Sat, 13 Apr 2024 11:00:59 -0400</lastBuildDate>
 		
-			<atom:link href="https://darods.github.io/blog/es/experience/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/es/experience/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ingeniero de software - OFEX</title>
-				<link>https://darods.github.io/blog/es/experience/idexud/</link>
+				<link>http://localhost:1313/es/experience/idexud/</link>
 				<pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/es/experience/idexud/</guid>
+				<guid>http://localhost:1313/es/experience/idexud/</guid>
 				<description>&lt;p&gt;En mi puesto, me encargo de tareas de ingeniería de software y DevOps. Mi principal responsabilidad es liderar el desarrollo de soluciones de software de vanguardia diseñadas para automatizar procesos de infraestructura de servidores y operaciones de personal.&lt;/p&gt;&#xA;&lt;h2 id=&#34;logros&#34;&gt;Logros&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Mejoré la infraestructura con una soluciones basada en microservicios, utilizando Docker para administrar múltiples aplicaciones en Python, Javascript y PHP; Nginx como proxy inverso, impactando la operación de más de 10.000 usuarios.&lt;/li&gt;&#xA;&lt;li&gt;Realicé revisiones técnicas de un software de impacto a nivel nacional como parte de un proyecto valorado en casi $1 millón de dólares, destinado a tomar decisiones de diseño informadas, identificar fallas de software y evaluar posibles escenarios de riesgo cibernético.&lt;/li&gt;&#xA;&lt;li&gt;Desarrollé software utilizando python para la automatización de acciones manuales de análisis y manejo de documentos, impulsando en un 300% la agilidad del equipo de trabajo.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;qué-es-ofex&#34;&gt;¿Qué es OFEX?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://idexud.udistrital.edu.co/&#34;&gt;OFEX (&lt;em&gt;&amp;ldquo;Oficina de Extensión&amp;rdquo;&lt;/em&gt;)&lt;/a&gt; es una entidad de gestión de proyectos entre la Universidad Distrital y organismos externos del sector público.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Contratista de TI - Instituto Nacional de Salud</title>
-				<link>https://darods.github.io/blog/es/experience/ins-moodle/</link>
+				<link>http://localhost:1313/es/experience/ins-moodle/</link>
 				<pubDate>Sat, 30 Mar 2024 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/es/experience/ins-moodle/</guid>
+				<guid>http://localhost:1313/es/experience/ins-moodle/</guid>
 				<description>&lt;p&gt;Este puesto tenía similitudes con el de ingeniero de confiabilidad del sitio, donde mis responsabilidades abarcaban la implementación y administración de servidores Linux y Windows durante todo el proceso de migración de la plataforma.&#xA;Esto fue parte del despliegue y migración de una plataforma de aprendizaje electrónico conocida como &lt;a href=&#34;https://evigiaula.ins.gov.co/&#34;&gt;&lt;em&gt;evigiaula&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;logros&#34;&gt;Logros&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Gestioné el despliegue de una solución tecnológica en  un servidor Windows Server con IIS, MariaDB y PHP para soportar más de 1000 usuarios concurrentes, garantizando su fiabilidad por medio de pruebas de estrés con JMeter.&lt;/li&gt;&#xA;&lt;li&gt;Implementé una plataforma en un servidor Linux con Docker, administrando contenedores de MySQL, MariaDB y Apache para el desarrollo y pruebas de un equipo de más de 10 personas.&lt;/li&gt;&#xA;&lt;li&gt;Contribuí al análisis de seguridad de la infraestructura virtual mediante NMAP y análisis físicos en el sitio para minimizar la superficie de ataque cibernético.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;qué-es-el-ins&#34;&gt;¿Qué es el INS?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ins.gov.co/&#34;&gt;INS (&lt;em&gt;Instituto Nacional de Salud&lt;/em&gt;)&lt;/a&gt; es una institución pública cuya tarea principal es la investigación de los problemas de salud prioritarios que afectan a la comunidad colombiana, además de realizar desarrollo y transferencia de tecnología.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Contratista de TI - SKG Tecnología</title>
-				<link>https://darods.github.io/blog/es/experience/skg/</link>
+				<link>http://localhost:1313/es/experience/skg/</link>
 				<pubDate>Wed, 20 Jul 2022 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/es/experience/skg/</guid>
+				<guid>http://localhost:1313/es/experience/skg/</guid>
 				<description>&lt;p&gt;Formé parte de un equipo que desarrolla interfaces API para sensores de ciudades inteligentes ubicadas en la ciudad de Bogotá.&lt;/p&gt;&#xA;&lt;h2 id=&#34;logros&#34;&gt;Logros&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Documenté 3 sistemas de información y APIs para soluciones de ciudades inteligentes, usando Flask y PostgreSQL.&lt;/li&gt;&#xA;&lt;li&gt;Creé modelos de bases de datos para PostgreSQL, arquitectura y casos de uso para 4 subsistemas escritos en Python.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;qué-es-skg&#34;&gt;¿Qué es SKG?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://skgtecnologia.com/&#34;&gt;SKG Technologies&lt;/a&gt; es una empresa de software que desarrolla soluciones de software para ciudades inteligentes utilizando dispositivos IoT.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Técnico de soporte informático - RITA</title>
-				<link>https://darods.github.io/blog/es/experience/rita/</link>
+				<link>http://localhost:1313/es/experience/rita/</link>
 				<pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/es/experience/rita/</guid>
+				<guid>http://localhost:1313/es/experience/rita/</guid>
 				<description>&lt;p&gt;Como Técnico de Soporte, mis funciones principales involucraban la resolución, monitoreo y mantenimiento de computadoras, redes y páginas web según tickets asignados.&lt;/p&gt;&#xA;&lt;h2 id=&#34;logros&#34;&gt;Logros&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Resolví más de 50 solicitudes de soporte técnico relacionadas con servidores, monitorización con Zabbix, aplicaciones web y de escritorio, mejorando la eficiencia operativa y la continuidad del negocio.&lt;/li&gt;&#xA;&lt;li&gt;Prestación de servicios de consultoría tecnológica y difusión de resultados a más de 15 proyectos de investigación.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;qué-es-rita&#34;&gt;¿Qué es RITA?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rita.udistrital.edu.co/&#34;&gt;RITA (&lt;em&gt;Red de Investigaciones de Tecnología Avanzada&lt;/em&gt;)&lt;/a&gt; es una entidad pública que brinda servicios especializados para la ejecución de proyectos e innovación científica.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Asistente de desarrollador web - Confecciones Argos</title>
-				<link>https://darods.github.io/blog/es/experience/argos/</link>
+				<link>http://localhost:1313/es/experience/argos/</link>
 				<pubDate>Thu, 30 Jan 2020 11:00:59 -0400</pubDate>
-				<guid>https://darods.github.io/blog/es/experience/argos/</guid>
+				<guid>http://localhost:1313/es/experience/argos/</guid>
 				<description>&lt;p&gt;Estuve a cargo del desarrollo de una página de comercio electrónico en la que la empresa pudiera vender sus productos y la estrategia de marketing realizando anuncios en redes sociales.&lt;/p&gt;&#xA;&lt;h2 id=&#34;logros&#34;&gt;Logros&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Desarrollé un &lt;a href=&#34;https://santibebe.com/&#34;&gt;sitio web de comercio electrónico&lt;/a&gt; que le permitió a la empresa comercializar y vender sus productos en línea de manera efectiva.&lt;/li&gt;&#xA;&lt;li&gt;Creé anuncios y estrategias de marketing en plataformas de redes sociales, aprovechando el Administrador de anuncios de Facebook para administrar múltiples cuentas.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;qué-es-confecciones-argos&#34;&gt;¿Qué es Confecciones Argos?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://santibebe.com/&#34;&gt;Confecciones Argos&lt;/a&gt; Es una empresa de propiedad privada que fabrica ropa para bebés desde hace casi 20 años, estableciendo una fuerte presencia en el mercado.&lt;/p&gt;</description>
 			</item>
 	</channel>

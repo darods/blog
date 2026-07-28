@@ -2,450 +2,450 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://darods.github.io/blog/es/</loc>
+    <loc>http://localhost:1313/es/</loc>
     <lastmod>2024-04-13T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/"
+                href="http://localhost:1313/es/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/experience/</loc>
+    <loc>http://localhost:1313/es/experience/</loc>
     <lastmod>2024-04-13T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/experience/"
+                href="http://localhost:1313/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/experience/"
+                href="http://localhost:1313/es/experience/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/experience/idexud/</loc>
+    <loc>http://localhost:1313/es/experience/idexud/</loc>
     <lastmod>2024-04-13T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/experience/idexud/"
+                href="http://localhost:1313/experience/idexud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/experience/idexud/"
+                href="http://localhost:1313/es/experience/idexud/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/post/slimy-fortune/</loc>
+    <loc>http://localhost:1313/es/post/slimy-fortune/</loc>
     <lastmod>2024-04-07T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/post/slimy-fortune/"
+                href="http://localhost:1313/post/slimy-fortune/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/post/slimy-fortune/"
+                href="http://localhost:1313/es/post/slimy-fortune/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/post/rolling-the-coconut/</loc>
+    <loc>http://localhost:1313/es/post/rolling-the-coconut/</loc>
     <lastmod>2024-04-01T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/post/rolling-the-coconut/"
+                href="http://localhost:1313/post/rolling-the-coconut/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/post/rolling-the-coconut/"
+                href="http://localhost:1313/es/post/rolling-the-coconut/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/experience/ins-moodle/</loc>
+    <loc>http://localhost:1313/es/experience/ins-moodle/</loc>
     <lastmod>2024-03-30T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/experience/ins-moodle/"
+                href="http://localhost:1313/experience/ins-moodle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/experience/ins-moodle/"
+                href="http://localhost:1313/es/experience/ins-moodle/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/forogobernanzainternet2023/</loc>
+    <loc>http://localhost:1313/es/talks/forogobernanzainternet2023/</loc>
     <lastmod>2023-11-10T19:42:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/forogobernanzainternet2023/"
+                href="http://localhost:1313/talks/forogobernanzainternet2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/forogobernanzainternet2023/"
+                href="http://localhost:1313/es/talks/forogobernanzainternet2023/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/</loc>
+    <loc>http://localhost:1313/es/talks/</loc>
     <lastmod>2023-11-10T19:42:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/"
+                href="http://localhost:1313/talks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/"
+                href="http://localhost:1313/es/talks/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/uxtic2023/</loc>
+    <loc>http://localhost:1313/es/talks/uxtic2023/</loc>
     <lastmod>2023-06-08T18:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/uxtic2023/"
+                href="http://localhost:1313/talks/uxtic2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/uxtic2023/"
+                href="http://localhost:1313/es/talks/uxtic2023/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/experience/skg/</loc>
+    <loc>http://localhost:1313/es/experience/skg/</loc>
     <lastmod>2022-07-20T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/experience/skg/"
+                href="http://localhost:1313/experience/skg/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/experience/skg/"
+                href="http://localhost:1313/es/experience/skg/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/post/ingreso-ud/</loc>
+    <loc>http://localhost:1313/es/post/ingreso-ud/</loc>
     <lastmod>2022-06-03T11:10:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/post/ingreso-ud/"
+                href="http://localhost:1313/post/ingreso-ud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/post/ingreso-ud/"
+                href="http://localhost:1313/es/post/ingreso-ud/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/jovenesembdata2021/</loc>
+    <loc>http://localhost:1313/es/talks/jovenesembdata2021/</loc>
     <lastmod>2021-12-03T19:42:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/jovenesembdata2021/"
+                href="http://localhost:1313/talks/jovenesembdata2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/jovenesembdata2021/"
+                href="http://localhost:1313/es/talks/jovenesembdata2021/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/gludxvii2021/</loc>
+    <loc>http://localhost:1313/es/talks/gludxvii2021/</loc>
     <lastmod>2021-08-25T19:42:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/gludxvii2021/"
+                href="http://localhost:1313/talks/gludxvii2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/gludxvii2021/"
+                href="http://localhost:1313/es/talks/gludxvii2021/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/post/cohete-poa/</loc>
+    <loc>http://localhost:1313/es/post/cohete-poa/</loc>
     <lastmod>2021-05-20T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/post/cohete-poa/"
+                href="http://localhost:1313/post/cohete-poa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/post/cohete-poa/"
+                href="http://localhost:1313/es/post/cohete-poa/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/flislolec2021/</loc>
+    <loc>http://localhost:1313/es/talks/flislolec2021/</loc>
     <lastmod>2021-05-15T19:42:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/flislolec2021/"
+                href="http://localhost:1313/talks/flislolec2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/flislolec2021/"
+                href="http://localhost:1313/es/talks/flislolec2021/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/encuentrofce2020/</loc>
+    <loc>http://localhost:1313/es/talks/encuentrofce2020/</loc>
     <lastmod>2020-10-27T19:42:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/encuentrofce2020/"
+                href="http://localhost:1313/talks/encuentrofce2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/encuentrofce2020/"
+                href="http://localhost:1313/es/talks/encuentrofce2020/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/softwarefreedomdayec2020/</loc>
+    <loc>http://localhost:1313/es/talks/softwarefreedomdayec2020/</loc>
     <lastmod>2020-09-29T19:42:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/softwarefreedomdayec2020/"
+                href="http://localhost:1313/talks/softwarefreedomdayec2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/softwarefreedomdayec2020/"
+                href="http://localhost:1313/es/talks/softwarefreedomdayec2020/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/post/hongo-machine/</loc>
+    <loc>http://localhost:1313/es/post/hongo-machine/</loc>
     <lastmod>2020-09-23T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/post/hongo-machine/"
+                href="http://localhost:1313/post/hongo-machine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/post/hongo-machine/"
+                href="http://localhost:1313/es/post/hongo-machine/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/gludxvii2020/</loc>
+    <loc>http://localhost:1313/es/talks/gludxvii2020/</loc>
     <lastmod>2020-08-29T19:42:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/gludxvii2020/"
+                href="http://localhost:1313/talks/gludxvii2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/gludxvii2020/"
+                href="http://localhost:1313/es/talks/gludxvii2020/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/relaca2020/</loc>
+    <loc>http://localhost:1313/es/talks/relaca2020/</loc>
     <lastmod>2020-05-22T19:00:49-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/relaca2020/"
+                href="http://localhost:1313/talks/relaca2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/relaca2020/"
+                href="http://localhost:1313/es/talks/relaca2020/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/post/cansat-unam/</loc>
+    <loc>http://localhost:1313/es/post/cansat-unam/</loc>
     <lastmod>2020-04-20T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/post/cansat-unam/"
+                href="http://localhost:1313/post/cansat-unam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/post/cansat-unam/"
+                href="http://localhost:1313/es/post/cansat-unam/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/experience/rita/</loc>
+    <loc>http://localhost:1313/es/experience/rita/</loc>
     <lastmod>2020-04-20T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/experience/rita/"
+                href="http://localhost:1313/experience/rita/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/experience/rita/"
+                href="http://localhost:1313/es/experience/rita/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/post/gui-cansat-rockets/</loc>
+    <loc>http://localhost:1313/es/post/gui-cansat-rockets/</loc>
     <lastmod>2020-03-08T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/post/gui-cansat-rockets/"
+                href="http://localhost:1313/post/gui-cansat-rockets/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/post/gui-cansat-rockets/"
+                href="http://localhost:1313/es/post/gui-cansat-rockets/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/experience/argos/</loc>
+    <loc>http://localhost:1313/es/experience/argos/</loc>
     <lastmod>2020-01-30T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/experience/argos/"
+                href="http://localhost:1313/experience/argos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/experience/argos/"
+                href="http://localhost:1313/es/experience/argos/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/talks/redcolsi2019/</loc>
+    <loc>http://localhost:1313/es/talks/redcolsi2019/</loc>
     <lastmod>2019-05-09T19:00:49-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/talks/redcolsi2019/"
+                href="http://localhost:1313/talks/redcolsi2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/talks/redcolsi2019/"
+                href="http://localhost:1313/es/talks/redcolsi2019/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/post/</loc>
+    <loc>http://localhost:1313/es/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/post/"
+                href="http://localhost:1313/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/post/"
+                href="http://localhost:1313/es/post/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/categories/</loc>
+    <loc>http://localhost:1313/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/contact/</loc>
+    <loc>http://localhost:1313/es/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/contact/"
+                href="http://localhost:1313/es/contact/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/about/</loc>
+    <loc>http://localhost:1313/es/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/about/"
+                href="http://localhost:1313/es/about/"
                 />
   </url><url>
-    <loc>https://darods.github.io/blog/es/tags/</loc>
+    <loc>http://localhost:1313/es/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://darods.github.io/blog/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
   </url>
 </urlset>

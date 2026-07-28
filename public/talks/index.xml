@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Talks on Daniel Rodríguez</title>
-		<link>https://darods.github.io/blog/talks/</link>
+		<link>http://localhost:1313/talks/</link>
 		<description>Recent content in Talks on Daniel Rodríguez</description>
 		<generator>Hugo</generator>
 		<language>es</language>
@@ -12,76 +12,76 @@
 		
 			<lastBuildDate>Fri, 10 Nov 2023 19:42:02 -0500</lastBuildDate>
 		
-			<atom:link href="https://darods.github.io/blog/talks/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Blockchain and information privacy</title>
-				<link>https://darods.github.io/blog/talks/forogobernanzainternet2023/</link>
+				<link>http://localhost:1313/talks/forogobernanzainternet2023/</link>
 				<pubDate>Fri, 10 Nov 2023 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/forogobernanzainternet2023/</guid>
+				<guid>http://localhost:1313/talks/forogobernanzainternet2023/</guid>
 				<description>&lt;p&gt;I participated as a speaker in the &lt;em&gt;10 Internet Governance Forum&lt;/em&gt; giving a workshop in which i aim to provide an overview on how the use of blockchain networks can reveal detailed information about people&amp;rsquo;s financial movements, platforms, and habits. In addition, strategies for converting transactions that are pseudo-anonymous to completely anonymous will be explored. Finally, an analysis will be carried out of the relevance of the policies currently implemented and those pending implementation with regard to the governance of these assets and the prevention of their use in criminal activities and the consequences of these.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>UxTIC 2023</title>
-				<link>https://darods.github.io/blog/talks/uxtic2023/</link>
+				<link>http://localhost:1313/talks/uxtic2023/</link>
 				<pubDate>Thu, 08 Jun 2023 18:00:00 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/uxtic2023/</guid>
-				<description>&lt;p&gt;I partitcipated in the debate &lt;em&gt;&amp;ldquo;Crypto assets, anonymous cryptocurrencies and digital finance&amp;rdquo;&lt;/em&gt;&#xA;within the the Blockchain and Cryptoactives 2023s1 course organized by CoinEx and UxTIC in collaboration with the Francisco José de Caldas District University, the Tres Culturas University, the Minuto de Dios University Corporation and the Javeriana University of Cali.&#xA;&lt;a href=&#34;https://www.youtube.com/live/zXBpqjk5v58?feature=share&#34;&gt;Click here to see the video&lt;/a&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/uxtic2023.png&#34;&gt;&#xA; &lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+				<guid>http://localhost:1313/talks/uxtic2023/</guid>
+				<description>&lt;p&gt;I partitcipated in the debate &lt;em&gt;&amp;ldquo;Crypto assets, anonymous cryptocurrencies and digital finance&amp;rdquo;&lt;/em&gt;&#xA;within the the Blockchain and Cryptoactives 2023s1 course organized by CoinEx and UxTIC in collaboration with the Francisco José de Caldas District University, the Tres Culturas University, the Minuto de Dios University Corporation and the Javeriana University of Cali.&#xA;&lt;a href=&#34;https://www.youtube.com/live/zXBpqjk5v58?feature=share&#34;&gt;Click here to see the video&lt;/a&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/uxtic2023.png&#34;&gt;&#xA; &lt;/figure&gt;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>YOUNG EMBDATA 2021</title>
-				<link>https://darods.github.io/blog/talks/jovenesembdata2021/</link>
+				<link>http://localhost:1313/talks/jovenesembdata2021/</link>
 				<pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/jovenesembdata2021/</guid>
-				<description>&lt;p&gt;I had the honor of being invited to give a conference in&#xA;the &lt;a href=&#34;https://encuentromundialbigdata.com/2021/jovenes-embdata-ti/&#34;&gt;&lt;em&gt;YOUNG EMBDATA 2021&lt;/em&gt;&lt;/a&gt;, in which I gave the talk *&amp;ldquo;Advances in aerospace technology of the LIDER group&amp;rdquo;.&#xA;The EMB Data event is one of the most important in the region.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/hQH7Yzj5QsE&#34;&gt;Watch the promotional video here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/jovenesEMBData-daniel-arod-anuncio.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/jovenesembdata2021/</guid>
+				<description>&lt;p&gt;I had the honor of being invited to give a conference in&#xA;the &lt;a href=&#34;https://encuentromundialbigdata.com/2021/jovenes-embdata-ti/&#34;&gt;&lt;em&gt;YOUNG EMBDATA 2021&lt;/em&gt;&lt;/a&gt;, in which I gave the talk *&amp;ldquo;Advances in aerospace technology of the LIDER group&amp;rdquo;.&#xA;The EMB Data event is one of the most important in the region.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/hQH7Yzj5QsE&#34;&gt;Watch the promotional video here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/jovenesEMBData-daniel-arod-anuncio.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>XVIII Linux Week UD</title>
-				<link>https://darods.github.io/blog/talks/gludxvii2021/</link>
+				<link>http://localhost:1313/talks/gludxvii2021/</link>
 				<pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/gludxvii2021/</guid>
-				<description>&lt;p&gt;I participated as a speaker with the presentation titled&#xA;&lt;em&gt;&amp;ldquo;Using satellites with software-defined radios&amp;rdquo;&lt;/em&gt;&#xA;in the &lt;em&gt;Linux Week UD XVIII&lt;/em&gt; of the GNU Linux group of the District University.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/U7M6yRIEcx8&#34;&gt;Click here to watch the conference.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/slud18-2021.jpeg&#34;&gt;&#xA;  &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/gludxvii2021/</guid>
+				<description>&lt;p&gt;I participated as a speaker with the presentation titled&#xA;&lt;em&gt;&amp;ldquo;Using satellites with software-defined radios&amp;rdquo;&lt;/em&gt;&#xA;in the &lt;em&gt;Linux Week UD XVIII&lt;/em&gt; of the GNU Linux group of the District University.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/U7M6yRIEcx8&#34;&gt;Click here to watch the conference.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/slud18-2021.jpeg&#34;&gt;&#xA;  &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>FLISOL Ecuador 2021</title>
-				<link>https://darods.github.io/blog/talks/flislolec2021/</link>
+				<link>http://localhost:1313/talks/flislolec2021/</link>
 				<pubDate>Sat, 15 May 2021 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/flislolec2021/</guid>
-				<description>&lt;p&gt;I made the exhibition &lt;em&gt;&amp;ldquo;Software Defined Radios: History and demonstration of its&#xA;uso&amp;rdquo;&lt;/em&gt; at the &lt;em&gt;17th Latin American Festival of Free Software Installation&lt;/em&gt;, which&#xA;can be seen at the following link.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/flisolec17-2020.png&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/flislolec2021/</guid>
+				<description>&lt;p&gt;I made the exhibition &lt;em&gt;&amp;ldquo;Software Defined Radios: History and demonstration of its&#xA;uso&amp;rdquo;&lt;/em&gt; at the &lt;em&gt;17th Latin American Festival of Free Software Installation&lt;/em&gt;, which&#xA;can be seen at the following link.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/flisolec17-2020.png&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>VIII Research Meeting - UDistrital</title>
-				<link>https://darods.github.io/blog/talks/encuentrofce2020/</link>
+				<link>http://localhost:1313/talks/encuentrofce2020/</link>
 				<pubDate>Tue, 27 Oct 2020 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/encuentrofce2020/</guid>
-				<description>&lt;p&gt;I presented the paper &lt;em&gt;&amp;ldquo;Development of CanSat-type picosatellites for teaching&#xA;dy application of fundamentals of physics&amp;rdquo;&lt;/em&gt; at the &lt;em&gt;VII Research Meeting&lt;/em&gt; of&#xA;the Faculty of Sciences and Education of the Francisco José de&#xA;Caldas.&lt;/p&gt;&#xA;&lt;p&gt;It is expected that the submitted article will appear published in the memory book&#xA;of the event.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/encuentro-inv-fce2020.png&#34;&gt;&#xA;  &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/encuentrofce2020/</guid>
+				<description>&lt;p&gt;I presented the paper &lt;em&gt;&amp;ldquo;Development of CanSat-type picosatellites for teaching&#xA;dy application of fundamentals of physics&amp;rdquo;&lt;/em&gt; at the &lt;em&gt;VII Research Meeting&lt;/em&gt; of&#xA;the Faculty of Sciences and Education of the Francisco José de&#xA;Caldas.&lt;/p&gt;&#xA;&lt;p&gt;It is expected that the submitted article will appear published in the memory book&#xA;of the event.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/encuentro-inv-fce2020.png&#34;&gt;&#xA;  &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>Software Freedom Day Ecuador 2020</title>
-				<link>https://darods.github.io/blog/talks/softwarefreedomdayec2020/</link>
+				<link>http://localhost:1313/talks/softwarefreedomdayec2020/</link>
 				<pubDate>Tue, 29 Sep 2020 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/softwarefreedomdayec2020/</guid>
-				<description>&lt;p&gt;I made the exhibition &lt;em&gt;&amp;ldquo;Characterization of rocket motors using Arduino and&#xA;Python&amp;rdquo;&lt;/em&gt; at &lt;em&gt;&amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/VfKvgGvEOdM&#34;&gt;Click here to see the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/SFDec2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/softwarefreedomdayec2020/</guid>
+				<description>&lt;p&gt;I made the exhibition &lt;em&gt;&amp;ldquo;Characterization of rocket motors using Arduino and&#xA;Python&amp;rdquo;&lt;/em&gt; at &lt;em&gt;&amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/VfKvgGvEOdM&#34;&gt;Click here to see the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/SFDec2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>XVII Linux Week UD</title>
-				<link>https://darods.github.io/blog/talks/gludxvii2020/</link>
+				<link>http://localhost:1313/talks/gludxvii2020/</link>
 				<pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/gludxvii2020/</guid>
-				<description>&lt;p&gt;I participated as a speaker with two presentations, the first titled&#xA;*&amp;ldquo;Real-time monitoring interface for picosatellites and model rockets&amp;rdquo;*and the second &lt;em&gt;&amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo;&lt;/em&gt;&#xA;in the &lt;em&gt;XVII Linux Week UD&lt;/em&gt; of the GNU Linux group of the District University.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/sTREDIjP0is&#34;&gt;Click here to watch the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/SLUD172020-cohetes.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/gludxvii2020/</guid>
+				<description>&lt;p&gt;I participated as a speaker with two presentations, the first titled&#xA;*&amp;ldquo;Real-time monitoring interface for picosatellites and model rockets&amp;rdquo;*and the second &lt;em&gt;&amp;ldquo;Characterization of rocket motors using Arduino and Python&amp;rdquo;&lt;/em&gt;&#xA;in the &lt;em&gt;XVII Linux Week UD&lt;/em&gt; of the GNU Linux group of the District University.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/sTREDIjP0is&#34;&gt;Click here to watch the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/SLUD172020-cohetes.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>V International Meeting ReLaCa ESPACIO</title>
-				<link>https://darods.github.io/blog/talks/relaca2020/</link>
+				<link>http://localhost:1313/talks/relaca2020/</link>
 				<pubDate>Fri, 22 May 2020 19:00:49 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/relaca2020/</guid>
-				<description>&lt;p&gt;A presentation was made virtually at the &lt;em&gt;V International Meeting of the Network&#xA;Latin American and Caribbean Space - ReLaCa ESPACIO&lt;/em&gt;, in which the&#xA;real-time data visualization software for picosatellites&#xA;CanSat type and model rockets.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/WQqk9afHDvA&#34;&gt;Click here to watch the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/relaca2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/relaca2020/</guid>
+				<description>&lt;p&gt;A presentation was made virtually at the &lt;em&gt;V International Meeting of the Network&#xA;Latin American and Caribbean Space - ReLaCa ESPACIO&lt;/em&gt;, in which the&#xA;real-time data visualization software for picosatellites&#xA;CanSat type and model rockets.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/WQqk9afHDvA&#34;&gt;Click here to watch the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/relaca2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>Red Colsi Node Bogotá 2019</title>
-				<link>https://darods.github.io/blog/talks/redcolsi2019/</link>
+				<link>http://localhost:1313/talks/redcolsi2019/</link>
 				<pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate>
-				<guid>https://darods.github.io/blog/talks/redcolsi2019/</guid>
-				<description>&lt;h3 id=&#34;original-name&#34;&gt;Original name&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;Practical Application of Aerospace Engineering through the construction of&#xA;a CanSat prototype and Model Rockets for the measurement of atmospheric factors&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;This was the first talk I&amp;rsquo;ve done to the general public, I presented the first&#xA;version of the model rocket &lt;strong&gt;POA&lt;/strong&gt; at the &lt;em&gt;Autonomous University of&#xA;Colombia&lt;/em&gt; (Autonomous University of Colombia).&#xA;I presented this poster&lt;/p&gt;&#xA;&lt;p&gt;(The image takes a while to load)&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://darods.github.io/blog/images/redcolsi2019.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
+				<guid>http://localhost:1313/talks/redcolsi2019/</guid>
+				<description>&lt;h3 id=&#34;original-name&#34;&gt;Original name&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;Practical Application of Aerospace Engineering through the construction of&#xA;a CanSat prototype and Model Rockets for the measurement of atmospheric factors&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;This was the first talk I&amp;rsquo;ve done to the general public, I presented the first&#xA;version of the model rocket &lt;strong&gt;POA&lt;/strong&gt; at the &lt;em&gt;Autonomous University of&#xA;Colombia&lt;/em&gt; (Autonomous University of Colombia).&#xA;I presented this poster&lt;/p&gt;&#xA;&lt;p&gt;(The image takes a while to load)&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/redcolsi2019.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 	</channel>
 </rss>
