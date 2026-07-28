@@ -1,0 +1,31 @@
+<a href="{{ .Permalink }}" class="summary-card">
+  {{ with .Params.featured_image }}
+    {{ $img := (trim . "/") | absURL }}
+    <div class="summary-card__media">
+      <img src="{{ $img }}" alt="{{ $.Title }}" loading="lazy" />
+      <div class="summary-card__overlay"></div>
+    </div>
+  {{ else }}
+    <div class="summary-card__media summary-card__media--placeholder">
+      <div class="summary-card__overlay"></div>
+    </div>
+  {{ end }}
+
+  <div class="summary-card__body">
+    <div class="summary-card__meta">
+      <span class="summary-card__section">{{ .Section | humanize }}</span>
+      <time class="summary-card__date" datetime="{{ .Date.Format "2006-01-02" }}">
+        {{ .Date.Format "Jan 2006" }}
+      </time>
+    </div>
+    <h2 class="summary-card__title">{{ .Title }}</h2>
+    {{ with .Params.description }}
+      <p class="summary-card__desc">{{ . }}</p>
+    {{ else }}
+      {{ with .Summary }}
+        <p class="summary-card__desc">{{ . | plainify | truncate 120 }}</p>
+      {{ end }}
+    {{ end }}
+    <span class="summary-card__cta">read more &rarr;</span>
+  </div>
+</a>

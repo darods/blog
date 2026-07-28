@@ -2,7 +2,8 @@
 date: 2020-09-23T11:00:59-04:00
 description: "Semi-automatic machine for growing edible mushrooms"
 featured_image: "/images/hongo-machine.png"
-title: "Compact mushroom growing system with built-in irrigation on a small scale"
+weight: 4
+title: "Mushroom Growing Machine"
 ---
 [Video](https://drive.google.com/file/d/1bfTKUydreXjDzi1bduLuNBzCBml2ewMy/view?usp=sharing)
  

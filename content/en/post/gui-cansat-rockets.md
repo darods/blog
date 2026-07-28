@@ -1,10 +1,9 @@
 ---
 date: 2020-03-08T10:58:08-04:00
-description: "Graphical interface for viewing data sent in real time
-by picosatellite flight computers or model rockets."
+description: "Graphical interface for viewing data sent in real time by picosatellite flight computers or model rockets."
 featured_image: "/images/gui-cansat-cohete.png"
-title: "Graphical interface for viewing data sent in real time
-by picosatellite flight computers or model rockets."
+weight: 1
+title: "Satellite Data Viewer"
 ---
 
 [Click here to see the repository](https://github.com/el-NASA/CanSat-Ground-station)

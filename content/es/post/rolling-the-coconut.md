@@ -1,4 +1,5 @@
 ---
+weight: 7
 date: 2024-04-01T11:00:59-04:00
 description: "Videojuego de carreras en el que eres un Coco loco que persigue el primer lugar frente a otras frutas."
 featured_image: "/images/rolling-coco1.png"

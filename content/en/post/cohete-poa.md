@@ -1,4 +1,5 @@
 ---
+weight: 3
 date: 2021-05-20T11:00:59-04:00
 description: "Model rocket mission in which a flight computer that records its trajectory was designed"
 featured_image: "/images/cohete-general.png"

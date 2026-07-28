@@ -1,9 +1,9 @@
 ---
 date: 2020-03-08T10:58:08-04:00
-description: "Interfaz gráfica para la visualización de datos enviados en tiempo real
-por computadoras de vuelo de picosatelites o cohetes modelo."
+description: "Interfaz gráfica para la visualización de datos enviados en tiempo real por computadoras de vuelo de picosatelites o cohetes modelo."
 featured_image: "/images/gui-cansat-cohete.png"
-title: "GUI visualización de datos en tiempo real para cohetes y picosatelites"
+weight: 1
+title: "Visor de Datos Satelitales"
 ---
 
 [Haz clic aquí para ver el repositorio](https://github.com/el-NASA/CanSat-Ground-station)

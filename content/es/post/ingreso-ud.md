@@ -1,8 +1,9 @@
 ---
+weight: 5
 date: 2022-06-03T11:10:00-04:00
 description: "Web-app predicción de ingreso a la Universidad"
 featured_image: "/images/ingreso-ud.png"
-title: "Web-app predicción de ingreso a la Universidad"
+title: "Predictor de Admisión Universitaria"
 ---
  
 # Predecir ingreso a la Universidad Distrital

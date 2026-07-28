@@ -1,8 +1,9 @@
 ---
+weight: 5
 date: 2022-06-03T11:10:00-04:00
 description: "Web-app prediction of admission to the University"
 featured_image: "/images/ingreso-ud.png"
-title: "Web-app prediction of admission to the University"
+title: "University Admission Predictor"
 ---
  
 # Predict admission to the District University

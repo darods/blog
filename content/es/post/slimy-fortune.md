@@ -1,4 +1,5 @@
 ---
+weight: 6
 date: 2024-04-07T11:00:59-04:00
 description: "Reúne todas las monedas esparcidas por el mapa para avanzar al siguiente nivel. ¡Muévete rápido porque el tiempo se acaba!"
 featured_image: "/images/slimy-fortune1.png"

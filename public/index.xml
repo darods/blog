@@ -14,11 +14,39 @@
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Software Engineer - OFEX</title>
-				<link>http://localhost:1313/experience/idexud/</link>
-				<pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
-				<guid>http://localhost:1313/experience/idexud/</guid>
-				<description>&lt;p&gt;In my role, I handle both Software Engineering and DevOps duties. My main responsibility is leading the development of cutting-edge software solutions designed to automate processes for server infrastructure and personnel operations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I Enhanced the infrastructure with microservices based solutions, using Docker to manage multiple applications in Python, Javascript and PHP; Nginx as a reverse proxy, as a result we managed to reach more than 10000 users.&lt;/li&gt;&#xA;&lt;li&gt;I performed technical reviews of a nationally impactful software as part of a project valued at nearly $1 million dollars, aimed at making informed design decisions, identifying software flaws, and assessing potential cyber risk scenarios.&lt;/li&gt;&#xA;&lt;li&gt;I developed software using python for automating manual document analysis and management actions, increasing x10 the speed of the work team.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-ofex&#34;&gt;What is OFEX?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://idexud.udistrital.edu.co/&#34;&gt;OFEX (&lt;em&gt;&amp;ldquo;Oficina de Extensión&amp;rdquo;&lt;/em&gt;)&lt;/a&gt; is a project management entity between the District University and external organizations of the public sector.&lt;/p&gt;</description>
+				<title>Satellite Data Viewer</title>
+				<link>http://localhost:1313/post/gui-cansat-rockets/</link>
+				<pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
+				<guid>http://localhost:1313/post/gui-cansat-rockets/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/el-NASA/CanSat-Ground-station&#34;&gt;Click here to see the repository&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;gui-ground-station-for-cansat-or-obcs&#34;&gt;GUI Ground station for CanSat or OBC&amp;rsquo;s&lt;/h1&gt;&#xA;&lt;p&gt;GUI code for a ground station for CanSats and/or OBCs where data from different sensors is displayed in real time. &lt;strong&gt;No sensors are needed to test it&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/zDY3DnY.gif&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#support&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#general-information&#34;&gt;General information&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#libraries&#34;&gt;Liberias&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#linux-configuration&#34;&gt;Linux Configuration&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#windows-settings&#34;&gt;Windows Settings&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#how-it-works&#34;&gt;How does it work?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#sources&#34;&gt;Sources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;support&#34;&gt;Support&lt;/h2&gt;&#xA;&lt;p&gt;If you used this project or learned something, please share it or give it a star on github to continue making open source projects.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>CanSat UNAM</title>
+				<link>http://localhost:1313/post/cansat-unam/</link>
+				<pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
+				<guid>http://localhost:1313/post/cansat-unam/</guid>
+				<description>&lt;p&gt;This is the &amp;ldquo;CanSat&amp;rdquo; picosatellite presented by my ATL seedbed team, with which we obtained position #14 in the competition (close to 200 initial teams).&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-it-about&#34;&gt;What is it about?&lt;/h2&gt;&#xA;&lt;p&gt;The objective is the design of a picosatellite that meets the requirements set forth in the&#xA;Ibero-American competition of canned satellites of the UNAM. The idea is that this satellite is raised in a drone to 400 meters above ground level and then released. While in free fall, it has to send information from its sensors in real time to a ground station that graphs and stores this data.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>POA model rocket</title>
+				<link>http://localhost:1313/post/cohete-poa/</link>
+				<pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
+				<guid>http://localhost:1313/post/cohete-poa/</guid>
+				<description>&lt;p&gt;The &lt;strong&gt;Pillar of Autumn (POA)&lt;/strong&gt; model rocket is the first project developed by the research hotbed, and is still in development.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-the-project-about&#34;&gt;What is the project about?&lt;/h2&gt;&#xA;&lt;p&gt;Make a model rocket that flies 100 meters which allows us to test&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Electronics: Test electronic system for the transmission of information in real time&lt;/li&gt;&#xA;&lt;li&gt;Software: Received data display software&lt;/li&gt;&#xA;&lt;li&gt;Parachute: Test free fall detection system and activate parachute&lt;/li&gt;&#xA;&lt;li&gt;Engine: Test engine operation and validate it with respect to static tests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;overview-of-the-rocket&#34;&gt;Overview of the rocket&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/cohete-general.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;flight-computer&#34;&gt;Flight computer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/el-NASA/POA-OBC&#34;&gt;More information about the flight computer code can be found here&lt;/a&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/cohete-obc.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mushroom Growing Machine</title>
+				<link>http://localhost:1313/post/hongo-machine/</link>
+				<pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate>
+				<guid>http://localhost:1313/post/hongo-machine/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1bfTKUydreXjDzi1bduLuNBzCBml2ewMy/view?usp=sharing&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The &amp;ldquo;Small-scale compact mushroom cultivation system with built-in irrigation&amp;rdquo; (A.K.A: mushroom-machine) is a proposal with which we won the UN Robot 2020 innovation challenge. It consists of a semi-automatic mushroom cultivation machine designed for People living in war zones.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h2&gt;&#xA;&lt;p&gt;Malnutrition problems worldwide are one of the biggest problems of&#xA;humanity, many times caused by limitations that individuals have to&#xA;obtain nutritious and low-cost food in adverse conditions such as&#xA;armed conflict, climate, poverty, among other things. The latest estimates indicate that&#xA;in 2018 about 821 million people in the world suffered from malnutrition; or what is what&#xA;same, 1 in 10 human beings. In fact, hunger and malnutrition are the main risk&#xA;health worldwide, even greater than AIDS, malaria and tuberculosis combined.&#xA;This problem not only affects people&amp;rsquo;s health, but also their quality of life,&#xA;opportunities for progress, etc&amp;hellip; which is why it is one of the main challenges to solve in&#xA;our society.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>University Admission Predictor</title>
+				<link>http://localhost:1313/post/ingreso-ud/</link>
+				<pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate>
+				<guid>http://localhost:1313/post/ingreso-ud/</guid>
+				<description>&lt;h1 id=&#34;predict-admission-to-the-district-university&#34;&gt;Predict admission to the District University&lt;/h1&gt;&#xA;&lt;p&gt;This application has different machine learning models to predict the chances that a student has to enter the University&#xA;Dsitrital FJC based on your ICFES test result.&lt;/p&gt;&#xA;&lt;p&gt;The application is capable of predicting the probabilities for 5 engineering college majors, and it achieves this through machine learning that is trained from historical admissions data.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ingreso-universidad-distrital.herokuapp.com/&#34;&gt;Click here to go to the application&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The application has managed to have an excellent reception by the student community on social networks, achieving more than 1000 reactions&#xA;the idea publication post.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Slimy Fortune</title>
@@ -33,6 +61,13 @@
 				<pubDate>Mon, 01 Apr 2024 11:00:59 -0400</pubDate>
 				<guid>http://localhost:1313/post/rolling-the-coconut/</guid>
 				<description>&lt;p&gt;I played a role in creating a fun race video game using Unity, working as a game developer. My tasks included shaping how the player moves, setting up the camera to follow the action, and assisting with the character AI to navigate the race tracks smoothly. &lt;a href=&#34;https://alexro-1606.itch.io/rolling-the-coconut&#34;&gt;Give the game a try by clicking here!&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-it-about&#34;&gt;What is it about?&lt;/h2&gt;&#xA;&lt;p&gt;Our game transports you to the free and relaxed atmosphere of the sunny beaches, where our protagonist, the coconut Lowin Coconut, is born. With a friendly, charismatic appearance and happy expression. Lowin Coconut radiates an energetic personality. Although you might think that his personality was too relaxed and lazy due to the environment in which he grew up, Lowin is far from that. Our intrepid protagonist always dreamed of being the winner of The Fastest Fruit grand prize, which is held annually on three incredible but demanding tracks. Only the best racers participate, those who have demonstrated their incredible abilities of speed and skill.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Software Engineer - OFEX</title>
+				<link>http://localhost:1313/experience/idexud/</link>
+				<pubDate>Sat, 13 Apr 2024 11:00:59 -0400</pubDate>
+				<guid>http://localhost:1313/experience/idexud/</guid>
+				<description>&lt;p&gt;In my role, I handle both Software Engineering and DevOps duties. My main responsibility is leading the development of cutting-edge software solutions designed to automate processes for server infrastructure and personnel operations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I Enhanced the infrastructure with microservices based solutions, using Docker to manage multiple applications in Python, Javascript and PHP; Nginx as a reverse proxy, as a result we managed to reach more than 10000 users.&lt;/li&gt;&#xA;&lt;li&gt;I performed technical reviews of a nationally impactful software as part of a project valued at nearly $1 million dollars, aimed at making informed design decisions, identifying software flaws, and assessing potential cyber risk scenarios.&lt;/li&gt;&#xA;&lt;li&gt;I developed software using python for automating manual document analysis and management actions, increasing x10 the speed of the work team.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-ofex&#34;&gt;What is OFEX?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://idexud.udistrital.edu.co/&#34;&gt;OFEX (&lt;em&gt;&amp;ldquo;Oficina de Extensión&amp;rdquo;&lt;/em&gt;)&lt;/a&gt; is a project management entity between the District University and external organizations of the public sector.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>IT Contractor - National Institue of Health</title>
@@ -63,13 +98,6 @@
 				<description>&lt;p&gt;I was part of a team that develops API interfaces for smart cities sensors located in the city of Bogotá.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I Created PostgreSQL database models, architecture and use cases for 4 subsystems written in Python.&lt;/li&gt;&#xA;&lt;li&gt;I documented 3 information systems and APIs for smart city solutions, using Flask and PostgreSQL.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-skg&#34;&gt;What is SKG?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://skgtecnologia.com/&#34;&gt;SKG Technologies&lt;/a&gt; is a software company that develops software solutions fot smart cities using IoT devices.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Web-app prediction of admission to the University</title>
-				<link>http://localhost:1313/post/ingreso-ud/</link>
-				<pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate>
-				<guid>http://localhost:1313/post/ingreso-ud/</guid>
-				<description>&lt;h1 id=&#34;predict-admission-to-the-district-university&#34;&gt;Predict admission to the District University&lt;/h1&gt;&#xA;&lt;p&gt;This application has different machine learning models to predict the chances that a student has to enter the University&#xA;Dsitrital FJC based on your ICFES test result.&lt;/p&gt;&#xA;&lt;p&gt;The application is capable of predicting the probabilities for 5 engineering college majors, and it achieves this through machine learning that is trained from historical admissions data.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ingreso-universidad-distrital.herokuapp.com/&#34;&gt;Click here to go to the application&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The application has managed to have an excellent reception by the student community on social networks, achieving more than 1000 reactions&#xA;the idea publication post.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>YOUNG EMBDATA 2021</title>
 				<link>http://localhost:1313/talks/jovenesembdata2021/</link>
 				<pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate>
@@ -82,13 +110,6 @@
 				<pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate>
 				<guid>http://localhost:1313/talks/gludxvii2021/</guid>
 				<description>&lt;p&gt;I participated as a speaker with the presentation titled&#xA;&lt;em&gt;&amp;ldquo;Using satellites with software-defined radios&amp;rdquo;&lt;/em&gt;&#xA;in the &lt;em&gt;Linux Week UD XVIII&lt;/em&gt; of the GNU Linux group of the District University.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/U7M6yRIEcx8&#34;&gt;Click here to watch the conference.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/slud18-2021.jpeg&#34;&gt;&#xA;  &lt;/figure&gt;</description>
-			</item>
-			<item>
-				<title>POA model rocket</title>
-				<link>http://localhost:1313/post/cohete-poa/</link>
-				<pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate>
-				<guid>http://localhost:1313/post/cohete-poa/</guid>
-				<description>&lt;p&gt;The &lt;strong&gt;Pillar of Autumn (POA)&lt;/strong&gt; model rocket is the first project developed by the research hotbed, and is still in development.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-the-project-about&#34;&gt;What is the project about?&lt;/h2&gt;&#xA;&lt;p&gt;Make a model rocket that flies 100 meters which allows us to test&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Electronics: Test electronic system for the transmission of information in real time&lt;/li&gt;&#xA;&lt;li&gt;Software: Received data display software&lt;/li&gt;&#xA;&lt;li&gt;Parachute: Test free fall detection system and activate parachute&lt;/li&gt;&#xA;&lt;li&gt;Engine: Test engine operation and validate it with respect to static tests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;overview-of-the-rocket&#34;&gt;Overview of the rocket&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/cohete-general.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;flight-computer&#34;&gt;Flight computer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/el-NASA/POA-OBC&#34;&gt;More information about the flight computer code can be found here&lt;/a&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/cohete-obc.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>FLISOL Ecuador 2021</title>
@@ -112,13 +133,6 @@
 				<description>&lt;p&gt;I made the exhibition &lt;em&gt;&amp;ldquo;Characterization of rocket motors using Arduino and&#xA;Python&amp;rdquo;&lt;/em&gt; at &lt;em&gt;&amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/VfKvgGvEOdM&#34;&gt;Click here to see the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/SFDec2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
-				<title>Compact mushroom growing system with built-in irrigation on a small scale</title>
-				<link>http://localhost:1313/post/hongo-machine/</link>
-				<pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate>
-				<guid>http://localhost:1313/post/hongo-machine/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1bfTKUydreXjDzi1bduLuNBzCBml2ewMy/view?usp=sharing&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The &amp;ldquo;Small-scale compact mushroom cultivation system with built-in irrigation&amp;rdquo; (A.K.A: mushroom-machine) is a proposal with which we won the UN Robot 2020 innovation challenge. It consists of a semi-automatic mushroom cultivation machine designed for People living in war zones.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h2&gt;&#xA;&lt;p&gt;Malnutrition problems worldwide are one of the biggest problems of&#xA;humanity, many times caused by limitations that individuals have to&#xA;obtain nutritious and low-cost food in adverse conditions such as&#xA;armed conflict, climate, poverty, among other things. The latest estimates indicate that&#xA;in 2018 about 821 million people in the world suffered from malnutrition; or what is what&#xA;same, 1 in 10 human beings. In fact, hunger and malnutrition are the main risk&#xA;health worldwide, even greater than AIDS, malaria and tuberculosis combined.&#xA;This problem not only affects people&amp;rsquo;s health, but also their quality of life,&#xA;opportunities for progress, etc&amp;hellip; which is why it is one of the main challenges to solve in&#xA;our society.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>XVII Linux Week UD</title>
 				<link>http://localhost:1313/talks/gludxvii2020/</link>
 				<pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate>
@@ -133,25 +147,11 @@
 				<description>&lt;p&gt;A presentation was made virtually at the &lt;em&gt;V International Meeting of the Network&#xA;Latin American and Caribbean Space - ReLaCa ESPACIO&lt;/em&gt;, in which the&#xA;real-time data visualization software for picosatellites&#xA;CanSat type and model rockets.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/WQqk9afHDvA&#34;&gt;Click here to watch the conference&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/relaca2020.jpg&#34;&gt;&#xA; &lt;/figure&gt;</description>
 			</item>
 			<item>
-				<title>CanSat UNAM</title>
-				<link>http://localhost:1313/post/cansat-unam/</link>
-				<pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
-				<guid>http://localhost:1313/post/cansat-unam/</guid>
-				<description>&lt;p&gt;This is the &amp;ldquo;CanSat&amp;rdquo; picosatellite presented by my ATL seedbed team, with which we obtained position #14 in the competition (close to 200 initial teams).&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-it-about&#34;&gt;What is it about?&lt;/h2&gt;&#xA;&lt;p&gt;The objective is the design of a picosatellite that meets the requirements set forth in the&#xA;Ibero-American competition of canned satellites of the UNAM. The idea is that this satellite is raised in a drone to 400 meters above ground level and then released. While in free fall, it has to send information from its sensors in real time to a ground station that graphs and stores this data.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>IT Support Technician - RITA</title>
 				<link>http://localhost:1313/experience/rita/</link>
 				<pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate>
 				<guid>http://localhost:1313/experience/rita/</guid>
 				<description>&lt;p&gt;As a Support Technician, my primary duties involved resolving, monitoring, and maintaining computers, networks, and web pages according to assigned tickets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Provided technology consulting services and dissemination of results to more than 15 research projects.&lt;/li&gt;&#xA;&lt;li&gt;Resolved more than 50 technical support requests related to servers, monitoring with Zabbix, web and desktop applications, improving operational efficiency and business continuity.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-is-rita&#34;&gt;What is RITA?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rita.udistrital.edu.co/&#34;&gt;RITA (&lt;em&gt;Red de Investigaciones de Tecnología Avanzada&lt;/em&gt;)&lt;/a&gt; is a public entity that provides specialized services for the execution of projects and scientific innovation.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Graphical interface for viewing data sent in real time by picosatellite flight computers or model rockets.</title>
-				<link>http://localhost:1313/post/gui-cansat-rockets/</link>
-				<pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate>
-				<guid>http://localhost:1313/post/gui-cansat-rockets/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/el-NASA/CanSat-Ground-station&#34;&gt;Click here to see the repository&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;gui-ground-station-for-cansat-or-obcs&#34;&gt;GUI Ground station for CanSat or OBC&amp;rsquo;s&lt;/h1&gt;&#xA;&lt;p&gt;GUI code for a ground station for CanSats and/or OBCs where data from different sensors is displayed in real time. &lt;strong&gt;No sensors are needed to test it&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/zDY3DnY.gif&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#support&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#general-information&#34;&gt;General information&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#libraries&#34;&gt;Liberias&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#linux-configuration&#34;&gt;Linux Configuration&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#windows-settings&#34;&gt;Windows Settings&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#how-it-works&#34;&gt;How does it work?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#sources&#34;&gt;Sources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/post/gui-cansat-rockets/#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;support&#34;&gt;Support&lt;/h2&gt;&#xA;&lt;p&gt;If you used this project or learned something, please share it or give it a star on github to continue making open source projects.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Assitant Web Developer - Argos Garments</title>

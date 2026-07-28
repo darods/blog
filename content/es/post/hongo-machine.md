@@ -2,7 +2,8 @@
 date: 2020-09-23T11:00:59-04:00
 description: "Máquina semiautomática para el cultivo de hongos comestibles"
 featured_image: "/images/hongo-machine.png"
-title: "Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala"
+weight: 4
+title: "Máquina de Cultivo de Hongos"
 ---
 [Vídeo](https://drive.google.com/file/d/1bfTKUydreXjDzi1bduLuNBzCBml2ewMy/view?usp=sharing)
  

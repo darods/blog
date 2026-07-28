@@ -1,4 +1,5 @@
 ---
+weight: 2
 date: 2020-04-20T11:00:59-04:00
 description: "Cansat designed for the Ibero-American competition of canned satellites of the UNAM"
 featured_image: "/images/cansat-unam-1.png"

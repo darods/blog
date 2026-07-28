@@ -45,6 +45,6 @@ canonifyURLs = true
 
   [params.home]
     experience_count = 5
-    projects_count = 4
+    projects_count = 7
     talks_count = 6
 

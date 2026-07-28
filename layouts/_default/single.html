@@ -1,0 +1,38 @@
+{{ define "header" }}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="article-page">
+    <div class="article-page__inner">
+      {{ with .Params.featured_image }}
+        {{ $img := (trim . "/") | absURL }}
+        <div class="article-page__hero">
+          <img src="{{ $img }}" alt="{{ $.Title }}" loading="lazy" />
+          <div class="article-page__hero-overlay"></div>
+        </div>
+      {{ end }}
+
+      <div class="article-page__meta">
+        {{ with .CurrentSection.Title }}
+          <span class="article-page__section">{{ . | upper }}</span>
+        {{ end }}
+        <time class="article-page__date" datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "January 2, 2006" }}
+        </time>
+      </div>
+
+      <h1 class="article-page__title">{{ .Title }}</h1>
+
+      {{ with .Params.description }}
+        <p class="article-page__desc">{{ . }}</p>
+      {{ end }}
+
+      <div class="article-page__content">
+        {{- .Content -}}
+      </div>
+
+      {{ partial "tags.html" . }}
+    </div>
+  </article>
+{{ end }}

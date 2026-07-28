@@ -43,10 +43,21 @@ body.home-page main {
 
 body.home-page .site-header.cover,
 body.home-page header.cover {
-  min-height: 80vh;
+  min-height: 32vh;
   display: flex;
   flex-direction: column;
   background: var(--color-bg);
+}
+
+header.cover {
+  min-height: 32vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header .tc-l {
+  padding-top: 3rem;
+  padding-bottom: 1.5rem;
 }
 
 body.home-page .site-header.cover > div,
@@ -61,8 +72,8 @@ body.home-page header.cover .tc-l {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-top: 6rem;
-  padding-bottom: 4rem;
+  padding-top: 3rem;
+  padding-bottom: 1.5rem;
 }
 
 body.home-page header.cover h1 {

@@ -1,4 +1,5 @@
 ---
+weight: 3
 date: 2021-05-20T11:00:59-04:00
 description: "Misión de cohete modelo en la que se diseñó una computadora de vuelo que registra su trayectoria"
 featured_image: "/images/cohete-general.png"

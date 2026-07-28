@@ -1,4 +1,5 @@
 ---
+weight: 2
 date: 2020-04-20T11:00:59-04:00
 description: "Cansat diseñado para la competencia iberoamericana de satélites enlatados de la UNAM"
 featured_image: "/images/cansat-unam-1.png"

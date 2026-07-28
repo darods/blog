@@ -1,4 +1,5 @@
 ---
+weight: 6
 date: 2024-04-07T11:00:59-04:00
 description: "Gather all the coins scattered across the map to advance to the next level. Move swiftly, as time is running out!"
 featured_image: "/images/slimy-fortune1.png"

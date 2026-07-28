@@ -1,0 +1,29 @@
+{{ $featured_image := .Params.featured_image }}
+{{ if $featured_image }}
+  {{ $featured_image := (trim $featured_image "/") | absURL }}
+  <header class="page-cover" style="background-image: url('{{ $featured_image }}');">
+    <div class="page-cover__overlay">
+      {{ partial "site-navigation.html" . }}
+      <div class="page-cover__content">
+        {{ if not .Params.omit_header_text }}
+          <h1 class="page-cover__title">{{ .Title | default .Site.Title }}</h1>
+          {{ with .Params.description }}
+            <p class="page-cover__desc">{{ . }}</p>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </header>
+{{ else }}
+  <header>
+    <div class="page-header-dark">
+      {{ partial "site-navigation.html" . }}
+      <div class="page-header-dark__content">
+        <h1 class="page-cover__title">{{ .Title | default .Site.Title }}</h1>
+        {{ with .Params.description }}
+          <p class="page-cover__desc">{{ . }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </header>
+{{ end }}
