@@ -9,12 +9,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/"
+                href="http://localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/experience/</loc>
@@ -24,12 +24,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/experience/"
+                href="http://localhost:1313/blog/experience/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/experience/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/experience/idexud/</loc>
@@ -39,12 +39,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/experience/idexud/"
+                href="http://localhost:1313/blog/experience/idexud/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/experience/idexud/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/idexud/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/post/slimy-fortune/</loc>
@@ -54,12 +54,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/post/slimy-fortune/"
+                href="http://localhost:1313/blog/post/slimy-fortune/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/post/slimy-fortune/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/post/slimy-fortune/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/post/rolling-the-coconut/</loc>
@@ -69,12 +69,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/post/rolling-the-coconut/"
+                href="http://localhost:1313/blog/post/rolling-the-coconut/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/post/rolling-the-coconut/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/post/rolling-the-coconut/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/experience/ins-moodle/</loc>
@@ -84,12 +84,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/experience/ins-moodle/"
+                href="http://localhost:1313/blog/experience/ins-moodle/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/experience/ins-moodle/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/ins-moodle/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/forogobernanzainternet2023/</loc>
@@ -99,12 +99,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/forogobernanzainternet2023/"
+                href="http://localhost:1313/blog/talks/forogobernanzainternet2023/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/forogobernanzainternet2023/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/forogobernanzainternet2023/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/</loc>
@@ -114,12 +114,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/"
+                href="http://localhost:1313/blog/talks/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/uxtic2023/</loc>
@@ -129,12 +129,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/uxtic2023/"
+                href="http://localhost:1313/blog/talks/uxtic2023/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/uxtic2023/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/uxtic2023/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/experience/skg/</loc>
@@ -144,12 +144,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/experience/skg/"
+                href="http://localhost:1313/blog/experience/skg/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/experience/skg/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/skg/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/post/ingreso-ud/</loc>
@@ -159,12 +159,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/post/ingreso-ud/"
+                href="http://localhost:1313/blog/post/ingreso-ud/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/post/ingreso-ud/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/post/ingreso-ud/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/jovenesembdata2021/</loc>
@@ -174,12 +174,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/jovenesembdata2021/"
+                href="http://localhost:1313/blog/talks/jovenesembdata2021/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/jovenesembdata2021/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/jovenesembdata2021/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/gludxvii2021/</loc>
@@ -189,12 +189,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/gludxvii2021/"
+                href="http://localhost:1313/blog/talks/gludxvii2021/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/gludxvii2021/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/gludxvii2021/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/post/cohete-poa/</loc>
@@ -204,12 +204,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/post/cohete-poa/"
+                href="http://localhost:1313/blog/post/cohete-poa/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/post/cohete-poa/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/post/cohete-poa/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/flislolec2021/</loc>
@@ -219,12 +219,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/flislolec2021/"
+                href="http://localhost:1313/blog/talks/flislolec2021/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/flislolec2021/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/flislolec2021/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/encuentrofce2020/</loc>
@@ -234,12 +234,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/encuentrofce2020/"
+                href="http://localhost:1313/blog/talks/encuentrofce2020/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/encuentrofce2020/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/encuentrofce2020/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/softwarefreedomdayec2020/</loc>
@@ -249,12 +249,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/softwarefreedomdayec2020/"
+                href="http://localhost:1313/blog/talks/softwarefreedomdayec2020/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/softwarefreedomdayec2020/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/softwarefreedomdayec2020/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/post/hongo-machine/</loc>
@@ -264,12 +264,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/post/hongo-machine/"
+                href="http://localhost:1313/blog/post/hongo-machine/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/post/hongo-machine/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/post/hongo-machine/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/gludxvii2020/</loc>
@@ -279,12 +279,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/gludxvii2020/"
+                href="http://localhost:1313/blog/talks/gludxvii2020/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/gludxvii2020/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/gludxvii2020/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/relaca2020/</loc>
@@ -294,12 +294,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/relaca2020/"
+                href="http://localhost:1313/blog/talks/relaca2020/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/relaca2020/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/relaca2020/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/post/cansat-unam/</loc>
@@ -309,12 +309,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/post/cansat-unam/"
+                href="http://localhost:1313/blog/post/cansat-unam/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/post/cansat-unam/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/post/cansat-unam/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/experience/rita/</loc>
@@ -324,12 +324,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/experience/rita/"
+                href="http://localhost:1313/blog/experience/rita/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/experience/rita/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/rita/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/post/gui-cansat-rockets/</loc>
@@ -339,12 +339,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/post/gui-cansat-rockets/"
+                href="http://localhost:1313/blog/post/gui-cansat-rockets/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/post/gui-cansat-rockets/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/post/gui-cansat-rockets/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/experience/argos/</loc>
@@ -354,12 +354,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/experience/argos/"
+                href="http://localhost:1313/blog/experience/argos/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/experience/argos/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/experience/argos/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/talks/redcolsi2019/</loc>
@@ -369,12 +369,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/talks/redcolsi2019/"
+                href="http://localhost:1313/blog/talks/redcolsi2019/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/talks/redcolsi2019/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/talks/redcolsi2019/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/post/</loc>
@@ -384,12 +384,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/post/"
+                href="http://localhost:1313/blog/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/post/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/post/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/about/</loc>
@@ -398,12 +398,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/about/"
+                href="http://localhost:1313/blog/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/about/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/categories/</loc>
@@ -412,12 +412,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/categories/"
+                href="http://localhost:1313/blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/categories/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/contact/</loc>
@@ -426,12 +426,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/contact/"
+                href="http://localhost:1313/blog/contact/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/contact/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/contact/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/tags/</loc>
@@ -440,12 +440,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/tags/"
+                href="http://localhost:1313/blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/tags/"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/"
                 />
   </url>
 </urlset>

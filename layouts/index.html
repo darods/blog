@@ -1,0 +1,73 @@
+{{ define "main" }}
+  {{ $experienceCount := .Site.Params.home.experience_count | default 5 }}
+  {{ $projectsCount := .Site.Params.home.projects_count | default 4 }}
+  {{ $talksCount := .Site.Params.home.talks_count | default 6 }}
+
+  {{ $experience := where .Site.RegularPages "Section" "experience" | first $experienceCount }}
+  {{ $projects := where .Site.RegularPages "Section" "post" | first $projectsCount }}
+  {{ $talks := where .Site.RegularPages "Section" "talks" | first $talksCount }}
+
+  {{ $expPage := .Site.GetPage "section" "experience" }}
+  {{ $postPage := .Site.GetPage "section" "post" }}
+  {{ $talksPage := .Site.GetPage "section" "talks" }}
+
+  <div class="home-landing">
+    {{ with .Content }}
+      <section class="home-intro">
+        <div class="home-intro__inner">{{ . }}</div>
+      </section>
+    {{ end }}
+
+    <section class="home-stats" aria-label="Overview">
+      <div class="home-stats__inner">
+        <div class="home-stat home-reveal">
+          <span class="home-stat__value">{{ len (where .Site.RegularPages "Section" "experience") }}</span>
+          <span class="home-stat__label">{{ i18n "homeStatExperience" }}</span>
+        </div>
+        <div class="home-stat home-reveal">
+          <span class="home-stat__value">{{ len (where .Site.RegularPages "Section" "post") }}</span>
+          <span class="home-stat__label">{{ i18n "homeStatProjects" }}</span>
+        </div>
+        <div class="home-stat home-reveal">
+          <span class="home-stat__value">{{ len (where .Site.RegularPages "Section" "talks") }}</span>
+          <span class="home-stat__label">{{ i18n "homeStatTalks" }}</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="home-showcase">
+      <div class="home-showcase__grid">
+        <div class="home-showcase__primary home-reveal">
+          {{ partial "home-section-header.html" (dict "context" . "sectionPage" $expPage "index" "01" "label" (i18n "homeExperienceLabel")) }}
+          <div class="home-timeline">
+            {{ range $experience }}
+              {{ partial "home-card.html" (dict "page" . "variant" "experience") }}
+            {{ end }}
+          </div>
+        </div>
+
+        <div class="home-showcase__secondary">
+          <div class="home-panel home-panel--projects home-reveal">
+            {{ partial "home-section-header.html" (dict "context" . "sectionPage" $postPage "index" "02" "label" (i18n "homeProjectsLabel")) }}
+            <div class="home-cards-grid">
+              {{ range $projects }}
+                {{ partial "home-card.html" (dict "page" . "variant" "project") }}
+              {{ end }}
+            </div>
+          </div>
+
+          <div class="home-panel home-panel--talks home-reveal">
+            {{ partial "home-section-header.html" (dict "context" . "sectionPage" $talksPage "index" "03" "label" (i18n "homeTalksLabel")) }}
+            <div class="home-talks-list">
+              {{ range $talks }}
+                {{ partial "home-talk-item.html" . }}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="{{ relURL "js/home.js" }}"></script>
+{{ end }}

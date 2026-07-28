@@ -1,0 +1,13 @@
+<header class="home-section-header">
+  <div class="home-section-header__text">
+    <span class="home-section-header__index">{{ .index }}</span>
+    <span class="home-section-header__label">{{ .label }}</span>
+    <h2 class="home-section-header__title">{{ .sectionPage.Title }}</h2>
+  </div>
+  {{ with .sectionPage }}
+    <a href="{{ .Permalink }}" class="home-section-header__link">
+      {{ i18n "allTitle" . }}
+      <span class="home-section-header__arrow" aria-hidden="true">→</span>
+    </a>
+  {{ end }}
+</header>

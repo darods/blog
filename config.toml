@@ -41,5 +41,10 @@ canonifyURLs = true
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 10
   mainSections = ["experience","post"]
-  custom_css = ["css/custom.css"]
+  custom_css = ["css/custom.css", "css/home.css"]
+
+  [params.home]
+    experience_count = 5
+    projects_count = 4
+    talks_count = 6
 

@@ -1,0 +1,15 @@
+<a href="{{ .Permalink }}" class="home-talk">
+  {{ with .Date }}
+    <time class="home-talk__date" datetime="{{ .Format "2006-01-02" }}">
+      <span class="home-talk__month">{{ .Format "Jan" }}</span>
+      <span class="home-talk__year">{{ .Format "2006" }}</span>
+    </time>
+  {{ end }}
+  <div class="home-talk__content">
+    <h3 class="home-talk__title">{{ .Title }}</h3>
+    {{ with .Summary }}
+      <p class="home-talk__desc">{{ . | plainify | truncate 90 }}</p>
+    {{ end }}
+  </div>
+  <span class="home-talk__arrow" aria-hidden="true">→</span>
+</a>

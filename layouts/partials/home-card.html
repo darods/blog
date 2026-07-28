@@ -1,0 +1,34 @@
+{{ $page := .page }}
+{{ $variant := .variant }}
+{{ $image := $page.Params.featured_image }}
+{{ if $image }}
+  {{ $image = (trim $image "/") | absURL }}
+{{ end }}
+
+<a href="{{ $page.Permalink }}" class="home-card home-card--{{ $variant }}{{ if not $image }} home-card--no-image{{ end }}">
+  {{ if $image }}
+    <div class="home-card__media">
+      <img src="{{ $image }}" alt="" loading="lazy" />
+      <div class="home-card__overlay"></div>
+    </div>
+  {{ else }}
+    <div class="home-card__media home-card__media--placeholder">
+      <div class="home-card__overlay"></div>
+    </div>
+  {{ end }}
+
+  <div class="home-card__body">
+    {{ with $page.Date }}
+      <time class="home-card__date" datetime="{{ .Format "2006-01-02" }}">{{ .Format "Jan 2006" }}</time>
+    {{ end }}
+    <h3 class="home-card__title">{{ $page.Title }}</h3>
+    {{ with $page.Params.description }}
+      <p class="home-card__desc">{{ . }}</p>
+    {{ else }}
+      {{ with $page.Summary }}
+        <p class="home-card__desc">{{ . | plainify | truncate 120 }}</p>
+      {{ end }}
+    {{ end }}
+    <span class="home-card__cta">{{ i18n "readMore" }} →</span>
+  </div>
+</a>
