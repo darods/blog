@@ -46,6 +46,15 @@
               {{ partial "home-card.html" (dict "page" . "variant" "experience") }}
             {{ end }}
           </div>
+
+          <div class="home-panel home-panel--talks home-reveal" style="margin-top: 2.5rem;">
+            {{ partial "home-section-header.html" (dict "context" . "sectionPage" $talksPage "index" "03" "label" (cond $isES "Charlas" "Speaking")) }}
+            <div class="home-talks-list">
+              {{ range $talks }}
+                {{ partial "home-talk-item.html" . }}
+              {{ end }}
+            </div>
+          </div>
         </div>
 
         <div class="home-showcase__secondary">
@@ -54,15 +63,6 @@
             <div class="home-cards-grid">
               {{ range $projects }}
                 {{ partial "home-card.html" (dict "page" . "variant" "project") }}
-              {{ end }}
-            </div>
-          </div>
-
-          <div class="home-panel home-panel--talks home-reveal">
-            {{ partial "home-section-header.html" (dict "context" . "sectionPage" $talksPage "index" "03" "label" (cond $isES "Charlas" "Speaking")) }}
-            <div class="home-talks-list">
-              {{ range $talks }}
-                {{ partial "home-talk-item.html" . }}
               {{ end }}
             </div>
           </div>
