@@ -11,6 +11,8 @@
   {{ $postPage := .Site.GetPage "section" "post" }}
   {{ $talksPage := .Site.GetPage "section" "talks" }}
 
+  {{ $isES := eq .Language.Lang "es" }}
+
   <div class="home-landing">
     {{ with .Content }}
       <section class="home-intro">
@@ -22,15 +24,15 @@
       <div class="home-stats__inner">
         <div class="home-stat home-reveal">
           <span class="home-stat__value">{{ len (where .Site.RegularPages "Section" "experience") }}</span>
-          <span class="home-stat__label">{{ i18n "homeStatExperience" }}</span>
+          <span class="home-stat__label">Roles</span>
         </div>
         <div class="home-stat home-reveal">
           <span class="home-stat__value">{{ len (where .Site.RegularPages "Section" "post") }}</span>
-          <span class="home-stat__label">{{ i18n "homeStatProjects" }}</span>
+          <span class="home-stat__label">{{ if $isES }}Proyectos{{ else }}Projects{{ end }}</span>
         </div>
         <div class="home-stat home-reveal">
           <span class="home-stat__value">{{ len (where .Site.RegularPages "Section" "talks") }}</span>
-          <span class="home-stat__label">{{ i18n "homeStatTalks" }}</span>
+          <span class="home-stat__label">{{ if $isES }}Charlas{{ else }}Talks{{ end }}</span>
         </div>
       </div>
     </section>
@@ -38,7 +40,7 @@
     <section class="home-showcase">
       <div class="home-showcase__grid">
         <div class="home-showcase__primary home-reveal">
-          {{ partial "home-section-header.html" (dict "context" . "sectionPage" $expPage "index" "01" "label" (i18n "homeExperienceLabel")) }}
+          {{ partial "home-section-header.html" (dict "context" . "sectionPage" $expPage "index" "01" "label" (cond $isES "Trayectoria" "Career")) }}
           <div class="home-timeline">
             {{ range $experience }}
               {{ partial "home-card.html" (dict "page" . "variant" "experience") }}
@@ -48,7 +50,7 @@
 
         <div class="home-showcase__secondary">
           <div class="home-panel home-panel--projects home-reveal">
-            {{ partial "home-section-header.html" (dict "context" . "sectionPage" $postPage "index" "02" "label" (i18n "homeProjectsLabel")) }}
+            {{ partial "home-section-header.html" (dict "context" . "sectionPage" $postPage "index" "02" "label" (cond $isES "Trabajo destacado" "Selected work")) }}
             <div class="home-cards-grid">
               {{ range $projects }}
                 {{ partial "home-card.html" (dict "page" . "variant" "project") }}
@@ -57,7 +59,7 @@
           </div>
 
           <div class="home-panel home-panel--talks home-reveal">
-            {{ partial "home-section-header.html" (dict "context" . "sectionPage" $talksPage "index" "03" "label" (i18n "homeTalksLabel")) }}
+            {{ partial "home-section-header.html" (dict "context" . "sectionPage" $talksPage "index" "03" "label" (cond $isES "Charlas" "Speaking")) }}
             <div class="home-talks-list">
               {{ range $talks }}
                 {{ partial "home-talk-item.html" . }}

@@ -6,7 +6,11 @@
   </div>
   {{ with .sectionPage }}
     <a href="{{ .Permalink }}" class="home-section-header__link">
-      {{ i18n "allTitle" . }}
+      {{ if eq $.context.Language.Lang "es" }}
+        Todas las {{ .Title }}
+      {{ else }}
+        All {{ .Title }}
+      {{ end }}
       <span class="home-section-header__arrow" aria-hidden="true">→</span>
     </a>
   {{ end }}

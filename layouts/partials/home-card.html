@@ -29,6 +29,6 @@
         <p class="home-card__desc">{{ . | plainify | truncate 120 }}</p>
       {{ end }}
     {{ end }}
-    <span class="home-card__cta">{{ i18n "readMore" }} →</span>
+    <span class="home-card__cta">{{ if eq $page.Language.Lang "es" }}Leer más{{ else }}read more{{ end }} →</span>
   </div>
 </a>
