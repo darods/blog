@@ -22,12 +22,13 @@ jobs:
           path: built-site
 
       - name: Setup Hugo
-        run: |
-          curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.147.0/hugo_extended_0.147.0_linux-amd64.tar.gz'
-          tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.128.0'
+          extended: true
 
       - name: Build
-        run: ${RUNNER_TEMP}/hugo --minify
+        run: hugo --minify
 
       - name: Deploy
         if: github.ref == 'refs/heads/main'
