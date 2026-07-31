@@ -1,8 +1,10 @@
 ---
-date: 2024-03-30T11:00:59-04:00
-description: "IT Contractor - National Institue of Health"
+date: 2024-03-01T12:00:00-05:00
+start: "2023-10-01"
+end: "2024-03-01"
+description: "SysOps Engineer - National Institute of Health"
 featured_image: "/images/evigiaula-logo.png"
-title: "IT Contractor - National Institue of Health"
+title: "SysOps Engineer - National Institute of Health"
 ---
 This position bore similarities to that of a Site Reliability Engineer, where my responsibilities encompassed the deployment and management of both Linux and Windows servers throughout the platform migration process.
 This was part of deployment and migration of an e-learning platform known as [_evigiaula_](https://evigiaula.ins.gov.co/).

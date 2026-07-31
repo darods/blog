@@ -18,8 +18,16 @@
   {{ end }}
 
   <div class="home-card__body">
-    {{ with $page.Date }}
-      <time class="home-card__date" datetime="{{ .Format "2006-01-02" }}">{{ .Format "Jan 2006" }}</time>
+    {{ $start := "" }}
+    {{ $end := "" }}
+    {{ with $page.Params.start }}{{ $start = (time .).Format "Jan 2006" }}{{ end }}
+    {{ with $page.Params.end }}{{ $end = (time .).Format "Jan 2006" }}{{ end }}
+    {{ if $start }}
+      <time class="home-card__date" datetime="{{ (time $page.Params.start).Format "2006-01-02" }}">{{ $start }}{{ if $end }} – {{ $end }}{{ else }} – {{ if eq $page.Language.Lang "es" }}Actualidad{{ else }}Present{{ end }}{{ end }}</time>
+    {{ else }}
+      {{ with $page.Date }}
+        <time class="home-card__date" datetime="{{ .Format "2006-01-02" }}">{{ .Format "Jan 2006" }}</time>
+      {{ end }}
     {{ end }}
     <h3 class="home-card__title">{{ $page.Title }}</h3>
     {{ with $page.Params.description }}

@@ -1,5 +1,7 @@
 ---
-date: 2022-07-20T11:00:59-04:00
+date: 2022-06-01T12:00:00-05:00
+start: "2021-12-01"
+end: "2022-06-01"
 description: "Contratista de TI - SKG Tecnología"
 featured_image: "/images/skg-logo.png"
 title: "Contratista de TI - SKG Tecnología"

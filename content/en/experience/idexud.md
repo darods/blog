@@ -1,5 +1,7 @@
 ---
-date: 2024-04-13T11:00:59-04:00
+date: 2024-04-01T12:00:00-05:00
+start: "2022-08-01"
+end: "2024-04-01"
 description: "Software Engineer - OFEX"
 featured_image: "/images/idexud-banner.png"
 title: "Software Engineer - OFEX"

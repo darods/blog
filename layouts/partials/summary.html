@@ -14,8 +14,12 @@
   <div class="summary-card__body">
     <div class="summary-card__meta">
       <span class="summary-card__section">{{ .Section | humanize }}</span>
-      <time class="summary-card__date" datetime="{{ .Date.Format "2006-01-02" }}">
-        {{ .Date.Format "Jan 2006" }}
+      {{ $start := "" }}
+      {{ $end := "" }}
+      {{ with .Params.start }}{{ $start = (time .).Format "Jan 2006" }}{{ end }}
+      {{ with .Params.end }}{{ $end = (time .).Format "Jan 2006" }}{{ end }}
+      <time class="summary-card__date" datetime="{{ if $start }}{{ (time .Params.start).Format "2006-01-02" }}{{ else }}{{ .Date.Format "2006-01-02" }}{{ end }}">
+        {{ if $start }}{{ $start }}{{ if $end }} – {{ $end }}{{ else }} – {{ if eq .Language.Lang "es" }}Actualidad{{ else }}Present{{ end }}{{ end }}{{ else }}{{ .Date.Format "Jan 2006" }}{{ end }}
       </time>
     </div>
     <h2 class="summary-card__title">{{ .Title }}</h2>

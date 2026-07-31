@@ -45,7 +45,7 @@ canonifyURLs = true
   custom_css = ["css/custom.css", "css/home.css"]
 
   [params.home]
-    experience_count = 5
+    experience_count = 8
     projects_count = 7
     talks_count = 6
 

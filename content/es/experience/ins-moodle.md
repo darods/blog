@@ -1,8 +1,10 @@
 ---
-date: 2024-03-30T11:00:59-04:00
-description: "Contratista de TI - Instituto Nacional de Salud"
+date: 2024-03-01T12:00:00-05:00
+start: "2023-10-01"
+end: "2024-03-01"
+description: "Ingeniero SysOps - Instituto Nacional de Salud"
 featured_image: "/images/evigiaula-logo.png"
-title: "Contratista de TI - Instituto Nacional de Salud"
+title: "Ingeniero SysOps - Instituto Nacional de Salud"
 ---
 Este puesto tenía similitudes con el de ingeniero de confiabilidad del sitio, donde mis responsabilidades abarcaban la implementación y administración de servidores Linux y Windows durante todo el proceso de migración de la plataforma.
 Esto fue parte del despliegue y migración de una plataforma de aprendizaje electrónico conocida como [_evigiaula_](https://evigiaula.ins.gov.co/).

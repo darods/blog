@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <article class="article-page">
+    <div class="article-page__inner">
+      <div class="article-page__meta">
+        {{ with .Params.issuer }}
+          <span class="article-page__section">{{ . | upper }}</span>
+        {{ end }}
+        <time class="article-page__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time>
+      </div>
+
+      <h1 class="article-page__title">{{ .Title }}</h1>
+
+      {{ with .Params.credential_id }}
+        <p class="article-page__desc">{{ if eq $.Language.Lang "es" }}ID de credencial:{{ else }}Credential ID:{{ end }} {{ . }}</p>
+      {{ end }}
+
+      <div class="article-page__content">
+        {{- .Content -}}
+      </div>
+    </div>
+  </article>
+{{ end }}
