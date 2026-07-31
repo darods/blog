@@ -1,6 +1,6 @@
 ---
 date: 2026-07-01T12:00:00-05:00
-start: "2026-03-01"
+start: "2026-04-01"
 description: "Senior Site Reliability Engineer - Amadeus"
 featured_image: "/images/amadeus.png"
 title: "Senior Site Reliability Engineer - Amadeus"

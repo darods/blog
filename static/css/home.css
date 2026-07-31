@@ -126,13 +126,17 @@ body.home-page header.cover h2 {
   margin: 0 auto;
   padding: 1rem 2rem;
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 1rem;
 }
 
 @media (max-width: 768px) {
   .home-stats__inner {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .home-stat:nth-child(2n)::after {
+    display: none;
   }
 }
 
@@ -153,7 +157,8 @@ body.home-page header.cover h2 {
   background: var(--color-border);
 }
 
-.home-stat:last-child::after {
+.home-stat:last-child::after,
+.home-stat:nth-child(4n)::after {
   display: none;
 }
 
