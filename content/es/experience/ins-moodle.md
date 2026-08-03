@@ -2,7 +2,7 @@
 date: 2024-03-01T12:00:00-05:00
 start: "2023-10-01"
 end: "2024-03-01"
-description: "Ingeniero SysOps - Instituto Nacional de Salud"
+description: "Administración de servidores Linux y Windows durante todo el proceso de migración de una plataforma e-learning."
 featured_image: "/images/evigiaula-logo.png"
 title: "Ingeniero SysOps - Instituto Nacional de Salud"
 ---

@@ -2,7 +2,7 @@
 date: 2024-03-01T12:00:00-05:00
 start: "2023-10-01"
 end: "2024-03-01"
-description: "SysOps Engineer - National Institute of Health"
+description: "SysOps Engineer in charge of deployment and management of both Linux and Windows servers throughout a platform migration process."
 featured_image: "/images/evigiaula-logo.png"
 title: "SysOps Engineer - National Institute of Health"
 ---

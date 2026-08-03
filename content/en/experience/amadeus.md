@@ -1,9 +1,11 @@
 ---
 date: 2026-07-01T12:00:00-05:00
 start: "2026-04-01"
-description: "Senior Site Reliability Engineer - Amadeus"
+description: "
+I ensure the availability and resilience of mission-critical travel technology platforms with Azure, Kubernetes,
+OpenTelemetry and more."
 featured_image: "/images/amadeus.png"
-title: "Senior Site Reliability Engineer - Amadeus"
+title: "Senior Service Reliability Engineer - Amadeus"
 ---
 
 I ensure the availability and resilience of mission-critical travel technology platforms, collaborating with globally distributed engineering teams across multiple continents.

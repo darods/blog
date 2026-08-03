@@ -2,7 +2,7 @@
 date: 2025-09-01T12:00:00-05:00
 start: "2024-05-01"
 end: "2025-09-01"
-description: "Consultor - Ingeniero SysOps - Excelia"
+description: "Administré más de 100 servidores Linux embebidos en aeronaves comerciales de múltiples aerolíneas."
 featured_image: "/images/excelia.jpg"
 title: "Consultor - Ingeniero SysOps - Excelia"
 ---

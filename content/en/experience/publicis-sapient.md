@@ -2,7 +2,7 @@
 date: 2026-03-01T12:00:00-05:00
 start: "2025-09-01"
 end: "2026-03-01"
-description: "DevOps Engineer - Publicis Sapient"
+description: "Design and deployment of cloud infrastructure with IaC (Terraform) on AWS for a large-scale legacy database migration."
 featured_image: "/images/publicis.jpg"
 title: "DevOps Engineer - Publicis Sapient"
 ---

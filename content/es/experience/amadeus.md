@@ -1,7 +1,7 @@
 ---
 date: 2026-07-01T12:00:00-05:00
 start: "2026-04-01"
-description: "Ingeniero SRE Senior - Amadeus"
+description: "Garantizo la disponibilidad y resiliencia de plataformas tecnológicas de viaje críticas con Azure, Kubernetes, OpenTelemtry y más!"
 featured_image: "/images/amadeus.png"
 title: "Ingeniero SRE Senior - Amadeus"
 ---

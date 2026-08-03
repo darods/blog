@@ -2,7 +2,7 @@
 date: 2026-03-01T12:00:00-05:00
 start: "2025-09-01"
 end: "2026-03-01"
-description: "Ingeniero DevOps - Publicis Sapient"
+description: "Diseño e implementación de infraestructura como código (IaC - Terraform) en AWS para una migración de base de datos a gran escala."
 featured_image: "/images/publicis.jpg"
 title: "Ingeniero DevOps - Publicis Sapient"
 ---

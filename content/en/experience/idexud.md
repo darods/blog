@@ -2,7 +2,7 @@
 date: 2024-04-01T12:00:00-05:00
 start: "2022-08-01"
 end: "2024-04-01"
-description: "Software Engineer - OFEX"
+description: "I handle both Software Engineering and DevOps duties, leading the development for server infrastructure and operations."
 featured_image: "/images/idexud-banner.png"
 title: "Software Engineer - OFEX"
 ---

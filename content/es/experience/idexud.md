@@ -2,7 +2,7 @@
 date: 2024-04-01T12:00:00-05:00
 start: "2022-08-01"
 end: "2024-04-01"
-description: "Ingeniero de software - OFEX"
+description: "liderar el desarrollo de software para automatizar procesos de infraestructura de servidores y operaciones de personal."
 featured_image: "/images/idexud-banner.png"
 title: "Ingeniero de software - OFEX"
 ---

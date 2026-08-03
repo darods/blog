@@ -2,7 +2,7 @@
 date: 2022-06-01T12:00:00-05:00
 start: "2021-12-01"
 end: "2022-06-01"
-description: "Contratista de TI - SKG Tecnología"
+description: "Formé parte de un equipo que desarrolla interfaces API para sensores de ciudades inteligentes ubicadas en la ciudad de Bogotá."
 featured_image: "/images/skg-logo.png"
 title: "Contratista de TI - SKG Tecnología"
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2020-01-30T11:00:59-04:00
-description: "Asistente de desarrollador web - Confecciones Argos"
+description: "Desarrollo de una página de comercio electrónico en la que la empresa pudiera vender sus productos en línea."
 featured_image: "/images/santibebe-logo.png"
 title: "Asistente de desarrollador web - Confecciones Argos"
 ---
