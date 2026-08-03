@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Proyectos on Daniel Rodríguez</title><link>https://darods.github.io/blog/es/post/</link><description>Recent content in Proyectos on Daniel Rodríguez</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sun, 07 Apr 2024 11:00:59 -0400</lastBuildDate><atom:link href="https://darods.github.io/blog/es/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Visor de Datos Satelitales</title><link>https://darods.github.io/blog/es/post/gui-cansat-rockets/</link><pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate><guid>https://darods.github.io/blog/es/post/gui-cansat-rockets/</guid><description>&lt;p&gt;&lt;a href="https://github.com/el-NASA/CanSat-Ground-station"&gt;Haz clic aquí para ver el repositorio&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="gui-estación-terrestre-para-cansat-u-obcs"&gt;GUI Estación terrestre para CanSat u OBC&amp;rsquo;s&lt;/h1&gt;
+&lt;p&gt;Código de una GUI para una estación terrestre para CanSats y/o OBCs donde se muestran los datos de diferentes sensores en tiempo real. &lt;strong&gt;No se necesitan sensores para probarlo&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.imgur.com/zDY3DnY.gif" alt="imagen"&gt;&lt;/p&gt;
+&lt;h2 id="tabla-de-contenidos"&gt;Tabla de contenidos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#apoyo"&gt;Apoyo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#informacion-general"&gt;Información general&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#librerias"&gt;Liberias&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#configuracion-linux"&gt;Configuración Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#configuracion-windows"&gt;Configuración Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#como-funciona"&gt;¿Cómo funciona?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#fuentes"&gt;Fuentes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#licencia"&gt;Licencia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="apoyo"&gt;Apoyo&lt;/h2&gt;
+&lt;p&gt;Si usaste este proyecto o aprendiste algo, por favor compartelo o dale una estrella en github para seguir haciendo proyectos de código abierto.&lt;/p&gt;</description></item><item><title>CanSat UNAM</title><link>https://darods.github.io/blog/es/post/cansat-unam/</link><pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/cansat-unam/</guid><description>&lt;p&gt;Este es el picosatélite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (cerca de 200 equipos iniciales).&lt;/p&gt;
+&lt;h2 id="de-que-trata"&gt;¿De que trata?&lt;/h2&gt;
+&lt;p&gt;El objetivo es el diseño de un picosatélite que cumpla con los requerimientos planteados en la
+competencia iberoamericana de satélites enlatados de la UNAM. La idea es que este satélite se eleve en un dron a 400 metros sobre el nivel del suelo para luego ser liberado. Mientras está en caída libre tiene que enviar información de sus sensores en tiempo real a una estación terrena que grafica y almacena estos datos.&lt;/p&gt;</description></item><item><title>Cohete modelo POA</title><link>https://darods.github.io/blog/es/post/cohete-poa/</link><pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/cohete-poa/</guid><description>&lt;p&gt;El cohete modelo &lt;strong&gt;Pillar of Autumn (POA)&lt;/strong&gt; es el primer proyecto desarrollado por el semillero de investigación, y aún sigue en desarrollo.&lt;/p&gt;
+&lt;h2 id="de-qué-va-el-proyecto"&gt;¿De qué va el proyecto?&lt;/h2&gt;
+&lt;p&gt;Realizar un cohete modelo que vuele 100 metros el cual nos permita probar&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Electrónica: Probar sistema electrónico para la transmisión de información en tiempo real&lt;/li&gt;
+&lt;li&gt;Software: Software de visualización de datos recibidos&lt;/li&gt;
+&lt;li&gt;Paracaídas: Probar sistema de detección de caída libre y accionar paracaídas&lt;/li&gt;
+&lt;li&gt;Motor: Probar funcionamiento de motor y validarlo respecto a pruebas estáticas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="vista-general-del-cohete"&gt;Vista general del cohete&lt;/h2&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/cohete-general.png"&gt;
+&lt;/figure&gt;
+
+&lt;h2 id="computadora-de-vuelo"&gt;Computadora de vuelo&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/el-NASA/POA-OBC"&gt;Aquí podrá encontrar más información sobre el código de la computadora de vuelo&lt;/a&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/cohete-obc.png"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description></item><item><title>Máquina de Cultivo de Hongos</title><link>https://darods.github.io/blog/es/post/hongo-machine/</link><pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/hongo-machine/</guid><description>&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1bfTKUydreXjDzi1bduLuNBzCBml2ewMy/view?usp=sharing"&gt;Vídeo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;El &amp;ldquo;Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala&amp;rdquo; (A.K.A: hongo-machine) es una propuesta con la que ganamos el reto de innovación del UN Robot 2020. Consiste en una máquina semiautomática para el cultivo de hongos pensada para personas que viven en zonas de guerra.&lt;/p&gt;
+&lt;h2 id="planteamiento-del-problema"&gt;Planteamiento del problema&lt;/h2&gt;
+&lt;p&gt;Los problemas de desnutrición a nivel mundial son una de las mayores problemáticas de
+la humanidad, muchas veces causada por limitaciones que tienen los individuos para
+obtener alimentos que les sean nutritivos y de bajo costo en condiciones adversas como
+conflicto armado, clima, pobreza, entre otras cosas. “Las últimas estimaciones indican que
+en 2018 cerca de 821 millones de personas en el mundo sufrían malnutrición; o lo que es lo
+mismo, 1 de cada 10 seres humanos. De hecho, el hambre y la malnutrición son el principal riesgo
+de salud a nivel mundial, incluso mayor que el sida, la malaria y la tuberculosis juntos”.
+Este problema no solo afecta la salud de las personas, sino también su calidad de vida,
+oportunidades de progreso, etc&amp;hellip; por lo que es uno de los principales retos a solucionar en
+nuestra sociedad.&lt;/p&gt;</description></item><item><title>Predictor de Admisión Universitaria</title><link>https://darods.github.io/blog/es/post/ingreso-ud/</link><pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate><guid>https://darods.github.io/blog/es/post/ingreso-ud/</guid><description>&lt;h1 id="predecir-ingreso-a-la-universidad-distrital"&gt;Predecir ingreso a la Universidad Distrital&lt;/h1&gt;
+&lt;p&gt;Esta aplicación cuenta con diferentes modelos de machine learning para predecir los chances que tiene un estudiante para entrar a la Universidad
+Dsitrital FJC basado en su resultado de las pruebas ICFES.&lt;/p&gt;
+&lt;p&gt;La aplicación es capaz de predecir las probabilidades para 5 carreras de la facultad de ingeniería, y lo logra por medio de la machine learning que es entrenada a partir de los datos historicos de admisión.&lt;/p&gt;</description></item><item><title>Slimy Fortune</title><link>https://darods.github.io/blog/es/post/slimy-fortune/</link><pubDate>Sun, 07 Apr 2024 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/slimy-fortune/</guid><description>&lt;p&gt;Me uní a un equipo que trabajaba en un videojuego basado en web en Unity, enfocándome principalmente en el arte ambiental y el desarrollo de juegos. Mis responsabilidades se centraban en crear el terreno y generar objetos dentro de él, además de mejorar las interacciones del personaje con el entorno. &lt;a href="https://jacobogl.itch.io/slimy-fortune"&gt;¡Sumérgete en el juego y experimentalo por ti mismo!&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="de-qué-se-trata"&gt;¿De qué se trata?&lt;/h2&gt;
+&lt;p&gt;En &amp;ldquo;Slimy Fortune&amp;rdquo; te sumergirás en una apasionante aventura de evolución junto a nuestro protagonista, Slimy. Este intrépido personaje emprenderá un viaje por el bosque, donde cada paso es crucial para su desarrollo. Tu misión será guiar a Slimy mientras recolectas monedas para impulsar su evolución, evitando hábiles obstáculos que entorpezcan tu camino hacia la transformación.&lt;/p&gt;</description></item><item><title>Rolling the Coconut</title><link>https://darods.github.io/blog/es/post/rolling-the-coconut/</link><pubDate>Mon, 01 Apr 2024 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/rolling-the-coconut/</guid><description>&lt;p&gt;Desempeñé un papel en la creación de un divertido videojuego de carreras usando Unity, trabajando como desarrollador de juegos. Mis tareas incluían dar forma a cómo se mueve el jugador, configurar la cámara para seguir la acción y ayudar con la IA del personaje a navegar por las pistas de carreras sin problemas. &lt;a href="https://alexro-1606.itch.io/rolling-the-coconut"&gt;¡Prueba el juego haciendo clic aquí!&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="de-qué-se-trata"&gt;¿De qué se trata?&lt;/h2&gt;
+&lt;p&gt;Nuestro juego te transporta al ambiente libre y relajado de las soleadas playas, donde nace nuestro protagonista, el coco Lowin Coconut. De apariencia amable, carismática y expresión alegre. Lowin Coconut irradia una personalidad enérgica. Aunque se podría pensar que su personalidad era demasiado relajada y perezosa debido al entorno en el que creció, Lowin está lejos de eso. Nuestro intrépido protagonista siempre soñó con ser el ganador del gran premio The Fastest Fruit, que se celebra anualmente en tres pistas increíbles pero exigentes. Sólo participan los mejores corredores, aquellos que han demostrado sus increíbles habilidades de velocidad y destreza.&lt;/p&gt;</description></item></channel></rss>

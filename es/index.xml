@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniel Rodríguez</title><link>https://darods.github.io/blog/es/</link><description>Recent content on Daniel Rodríguez</description><generator>Hugo</generator><language>es</language><lastBuildDate>Wed, 01 Jul 2026 12:00:00 -0500</lastBuildDate><atom:link href="https://darods.github.io/blog/es/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS Certified Solutions Architect – Associate</title><link>https://darods.github.io/blog/es/certifications/aws-solutions-architect-associate/</link><pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate><guid>https://darods.github.io/blog/es/certifications/aws-solutions-architect-associate/</guid><description>&lt;p&gt;Valida la capacidad para diseñar sistemas distribuidos y soluciones en AWS, cubriendo arquitectura, seguridad, optimización de costos y excelencia operativa.&lt;/p&gt;</description></item><item><title>Visor de Datos Satelitales</title><link>https://darods.github.io/blog/es/post/gui-cansat-rockets/</link><pubDate>Sun, 08 Mar 2020 10:58:08 -0400</pubDate><guid>https://darods.github.io/blog/es/post/gui-cansat-rockets/</guid><description>&lt;p&gt;&lt;a href="https://github.com/el-NASA/CanSat-Ground-station"&gt;Haz clic aquí para ver el repositorio&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="gui-estación-terrestre-para-cansat-u-obcs"&gt;GUI Estación terrestre para CanSat u OBC&amp;rsquo;s&lt;/h1&gt;
+&lt;p&gt;Código de una GUI para una estación terrestre para CanSats y/o OBCs donde se muestran los datos de diferentes sensores en tiempo real. &lt;strong&gt;No se necesitan sensores para probarlo&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.imgur.com/zDY3DnY.gif" alt="imagen"&gt;&lt;/p&gt;
+&lt;h2 id="tabla-de-contenidos"&gt;Tabla de contenidos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#apoyo"&gt;Apoyo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#informacion-general"&gt;Información general&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#librerias"&gt;Liberias&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#configuracion-linux"&gt;Configuración Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#configuracion-windows"&gt;Configuración Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#como-funciona"&gt;¿Cómo funciona?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#fuentes"&gt;Fuentes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darods.github.io/blog/es/post/gui-cansat-rockets/#licencia"&gt;Licencia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="apoyo"&gt;Apoyo&lt;/h2&gt;
+&lt;p&gt;Si usaste este proyecto o aprendiste algo, por favor compartelo o dale una estrella en github para seguir haciendo proyectos de código abierto.&lt;/p&gt;</description></item><item><title>HashiCorp Certified: Terraform Associate</title><link>https://darods.github.io/blog/es/certifications/terraform-associate/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://darods.github.io/blog/es/certifications/terraform-associate/</guid><description>&lt;p&gt;Valida el conocimiento fundamental de Terraform: escribir, planificar y aplicar infraestructura como código, gestionar el estado y trabajar con providers y módulos.&lt;/p&gt;</description></item><item><title>CanSat UNAM</title><link>https://darods.github.io/blog/es/post/cansat-unam/</link><pubDate>Mon, 20 Apr 2020 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/cansat-unam/</guid><description>&lt;p&gt;Este es el picosatélite &amp;ldquo;CanSat&amp;rdquo; que presentó mi equipo del semillero ATL, con el cual obtuvimos el puesto #14 de la competencia (cerca de 200 equipos iniciales).&lt;/p&gt;
+&lt;h2 id="de-que-trata"&gt;¿De que trata?&lt;/h2&gt;
+&lt;p&gt;El objetivo es el diseño de un picosatélite que cumpla con los requerimientos planteados en la
+competencia iberoamericana de satélites enlatados de la UNAM. La idea es que este satélite se eleve en un dron a 400 metros sobre el nivel del suelo para luego ser liberado. Mientras está en caída libre tiene que enviar información de sus sensores en tiempo real a una estación terrena que grafica y almacena estos datos.&lt;/p&gt;</description></item><item><title>Microsoft Certified: Azure Fundamentals</title><link>https://darods.github.io/blog/es/certifications/azure-fundamentals/</link><pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate><guid>https://darods.github.io/blog/es/certifications/azure-fundamentals/</guid><description>&lt;p&gt;Valida el conocimiento fundamental de los conceptos de la nube, los servicios de Azure, la gobernanza y los precios.&lt;/p&gt;</description></item><item><title>Cohete modelo POA</title><link>https://darods.github.io/blog/es/post/cohete-poa/</link><pubDate>Thu, 20 May 2021 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/cohete-poa/</guid><description>&lt;p&gt;El cohete modelo &lt;strong&gt;Pillar of Autumn (POA)&lt;/strong&gt; es el primer proyecto desarrollado por el semillero de investigación, y aún sigue en desarrollo.&lt;/p&gt;
+&lt;h2 id="de-qué-va-el-proyecto"&gt;¿De qué va el proyecto?&lt;/h2&gt;
+&lt;p&gt;Realizar un cohete modelo que vuele 100 metros el cual nos permita probar&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Electrónica: Probar sistema electrónico para la transmisión de información en tiempo real&lt;/li&gt;
+&lt;li&gt;Software: Software de visualización de datos recibidos&lt;/li&gt;
+&lt;li&gt;Paracaídas: Probar sistema de detección de caída libre y accionar paracaídas&lt;/li&gt;
+&lt;li&gt;Motor: Probar funcionamiento de motor y validarlo respecto a pruebas estáticas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="vista-general-del-cohete"&gt;Vista general del cohete&lt;/h2&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/cohete-general.png"&gt;
+&lt;/figure&gt;
+
+&lt;h2 id="computadora-de-vuelo"&gt;Computadora de vuelo&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/el-NASA/POA-OBC"&gt;Aquí podrá encontrar más información sobre el código de la computadora de vuelo&lt;/a&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/cohete-obc.png"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description></item><item><title>AWS Certified Cloud Practitioner</title><link>https://darods.github.io/blog/es/certifications/cloud-practitioner/</link><pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate><guid>https://darods.github.io/blog/es/certifications/cloud-practitioner/</guid><description>&lt;p&gt;Valida la comprensión fundamental de los conceptos, servicios, precios y soporte de la nube de AWS.&lt;/p&gt;</description></item><item><title>Máquina de Cultivo de Hongos</title><link>https://darods.github.io/blog/es/post/hongo-machine/</link><pubDate>Wed, 23 Sep 2020 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/hongo-machine/</guid><description>&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1bfTKUydreXjDzi1bduLuNBzCBml2ewMy/view?usp=sharing"&gt;Vídeo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;El &amp;ldquo;Sistema de cultivo compacto de hongos con riego incorporado a pequeña escala&amp;rdquo; (A.K.A: hongo-machine) es una propuesta con la que ganamos el reto de innovación del UN Robot 2020. Consiste en una máquina semiautomática para el cultivo de hongos pensada para personas que viven en zonas de guerra.&lt;/p&gt;
+&lt;h2 id="planteamiento-del-problema"&gt;Planteamiento del problema&lt;/h2&gt;
+&lt;p&gt;Los problemas de desnutrición a nivel mundial son una de las mayores problemáticas de
+la humanidad, muchas veces causada por limitaciones que tienen los individuos para
+obtener alimentos que les sean nutritivos y de bajo costo en condiciones adversas como
+conflicto armado, clima, pobreza, entre otras cosas. “Las últimas estimaciones indican que
+en 2018 cerca de 821 millones de personas en el mundo sufrían malnutrición; o lo que es lo
+mismo, 1 de cada 10 seres humanos. De hecho, el hambre y la malnutrición son el principal riesgo
+de salud a nivel mundial, incluso mayor que el sida, la malaria y la tuberculosis juntos”.
+Este problema no solo afecta la salud de las personas, sino también su calidad de vida,
+oportunidades de progreso, etc&amp;hellip; por lo que es uno de los principales retos a solucionar en
+nuestra sociedad.&lt;/p&gt;</description></item><item><title>Predictor de Admisión Universitaria</title><link>https://darods.github.io/blog/es/post/ingreso-ud/</link><pubDate>Fri, 03 Jun 2022 11:10:00 -0400</pubDate><guid>https://darods.github.io/blog/es/post/ingreso-ud/</guid><description>&lt;h1 id="predecir-ingreso-a-la-universidad-distrital"&gt;Predecir ingreso a la Universidad Distrital&lt;/h1&gt;
+&lt;p&gt;Esta aplicación cuenta con diferentes modelos de machine learning para predecir los chances que tiene un estudiante para entrar a la Universidad
+Dsitrital FJC basado en su resultado de las pruebas ICFES.&lt;/p&gt;
+&lt;p&gt;La aplicación es capaz de predecir las probabilidades para 5 carreras de la facultad de ingeniería, y lo logra por medio de la machine learning que es entrenada a partir de los datos historicos de admisión.&lt;/p&gt;</description></item><item><title>Slimy Fortune</title><link>https://darods.github.io/blog/es/post/slimy-fortune/</link><pubDate>Sun, 07 Apr 2024 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/slimy-fortune/</guid><description>&lt;p&gt;Me uní a un equipo que trabajaba en un videojuego basado en web en Unity, enfocándome principalmente en el arte ambiental y el desarrollo de juegos. Mis responsabilidades se centraban en crear el terreno y generar objetos dentro de él, además de mejorar las interacciones del personaje con el entorno. &lt;a href="https://jacobogl.itch.io/slimy-fortune"&gt;¡Sumérgete en el juego y experimentalo por ti mismo!&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="de-qué-se-trata"&gt;¿De qué se trata?&lt;/h2&gt;
+&lt;p&gt;En &amp;ldquo;Slimy Fortune&amp;rdquo; te sumergirás en una apasionante aventura de evolución junto a nuestro protagonista, Slimy. Este intrépido personaje emprenderá un viaje por el bosque, donde cada paso es crucial para su desarrollo. Tu misión será guiar a Slimy mientras recolectas monedas para impulsar su evolución, evitando hábiles obstáculos que entorpezcan tu camino hacia la transformación.&lt;/p&gt;</description></item><item><title>Rolling the Coconut</title><link>https://darods.github.io/blog/es/post/rolling-the-coconut/</link><pubDate>Mon, 01 Apr 2024 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/post/rolling-the-coconut/</guid><description>&lt;p&gt;Desempeñé un papel en la creación de un divertido videojuego de carreras usando Unity, trabajando como desarrollador de juegos. Mis tareas incluían dar forma a cómo se mueve el jugador, configurar la cámara para seguir la acción y ayudar con la IA del personaje a navegar por las pistas de carreras sin problemas. &lt;a href="https://alexro-1606.itch.io/rolling-the-coconut"&gt;¡Prueba el juego haciendo clic aquí!&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="de-qué-se-trata"&gt;¿De qué se trata?&lt;/h2&gt;
+&lt;p&gt;Nuestro juego te transporta al ambiente libre y relajado de las soleadas playas, donde nace nuestro protagonista, el coco Lowin Coconut. De apariencia amable, carismática y expresión alegre. Lowin Coconut irradia una personalidad enérgica. Aunque se podría pensar que su personalidad era demasiado relajada y perezosa debido al entorno en el que creció, Lowin está lejos de eso. Nuestro intrépido protagonista siempre soñó con ser el ganador del gran premio The Fastest Fruit, que se celebra anualmente en tres pistas increíbles pero exigentes. Sólo participan los mejores corredores, aquellos que han demostrado sus increíbles habilidades de velocidad y destreza.&lt;/p&gt;</description></item><item><title>Ingeniero SRE Senior - Amadeus</title><link>https://darods.github.io/blog/es/experience/amadeus/</link><pubDate>Wed, 01 Jul 2026 12:00:00 -0500</pubDate><guid>https://darods.github.io/blog/es/experience/amadeus/</guid><description>&lt;p&gt;Garantizo la disponibilidad y resiliencia de plataformas tecnológicas de viaje críticas, colaborando con equipos de ingeniería distribuidos globalmente a través de múltiples continentes.&lt;/p&gt;
+&lt;p&gt;Trabajando con Azure y Kubernetes, contribuyo a mantener y mejorar la confiabilidad de la plataforma a escala empresarial, impulsando la observabilidad con Grafana, Splunk y OpenTelemetry, y apoyando la definición de SLO/SLI y los flujos de respuesta a incidentes.&lt;/p&gt;
+&lt;h2 id="logros"&gt;Logros&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Garanticé la disponibilidad y resiliencia de plataformas tecnológicas de viaje críticas a escala empresarial, trabajando con Azure y Kubernetes junto a equipos de ingeniería distribuidos globalmente.&lt;/li&gt;
+&lt;li&gt;Impulsé la observabilidad con Grafana, Splunk y OpenTelemetry, apoyando la definición de SLO/SLI y los flujos de respuesta a incidentes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="qué-es-amadeus"&gt;¿Qué es Amadeus?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://amadeus.com/"&gt;Amadeus&lt;/a&gt; es una empresa tecnológica líder que impulsa la industria global de viajes con soluciones para aerolíneas, hoteles, ferrocarriles y más.&lt;/p&gt;</description></item><item><title>Ingeniero DevOps - Publicis Sapient</title><link>https://darods.github.io/blog/es/experience/publicis-sapient/</link><pubDate>Sun, 01 Mar 2026 12:00:00 -0500</pubDate><guid>https://darods.github.io/blog/es/experience/publicis-sapient/</guid><description>&lt;p&gt;Trabajé como Ingeniero DevOps diseñando e implementando infraestructura en la nube AWS para una migración de base de datos heredada a gran escala.&lt;/p&gt;
+&lt;h2 id="logros"&gt;Logros&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Diseñé una arquitectura AWS multi-AZ para una migración de base de datos heredada a gran escala, garantizando alta disponibilidad y resiliencia con RDS PostgreSQL, ElastiCache, KMS, Secrets Manager, Lambda y EventBridge, cumpliendo con los estándares HIPAA.&lt;/li&gt;
+&lt;li&gt;Implementé toda la infraestructura como código con Terraform, desplegando en múltiples entornos mediante pipelines de CI/CD con GitHub Actions.&lt;/li&gt;
+&lt;li&gt;Validé políticas IAM extensas para habilitar el aprovisionamiento seguro de recursos en Glue, SQS, SNS, EC2 y otros servicios de AWS.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="qué-es-publicis-sapient"&gt;¿Qué es Publicis Sapient?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.publicissapient.com/"&gt;Publicis Sapient&lt;/a&gt; es una consultora de transformación digital que ayuda a las organizaciones a prosperar en la economía digital.&lt;/p&gt;</description></item><item><title>Consultor - Ingeniero SysOps - Excelia</title><link>https://darods.github.io/blog/es/experience/excelia/</link><pubDate>Mon, 01 Sep 2025 12:00:00 -0500</pubDate><guid>https://darods.github.io/blog/es/experience/excelia/</guid><description>&lt;p&gt;Como consultor SysOps, administré más de 100 servidores Linux embebidos en aeronaves comerciales de múltiples aerolíneas, habilitando la detección proactiva de incidentes y garantizando observabilidad en tiempo real y alta disponibilidad en entornos críticos aislados de red (air-gapped).&lt;/p&gt;
+&lt;h2 id="logros"&gt;Logros&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Administré más de 100 servidores Linux embebidos en aeronaves comerciales de múltiples aerolíneas, habilitando la detección proactiva de incidentes con Grafana y Kibana.&lt;/li&gt;
+&lt;li&gt;Garanticé observabilidad en tiempo real y alta disponibilidad en entornos críticos air-gapped.&lt;/li&gt;
+&lt;li&gt;Automaticé operaciones a nivel de flota y orquesté cargas de trabajo containerizadas con Kubernetes, Docker y Ansible, reduciendo la intervención manual en general.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="qué-es-excelia"&gt;¿Qué es Excelia?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://excelia.com/"&gt;Excelia&lt;/a&gt; es una firma global de servicios profesionales, tecnología y externalización de procesos de negocio (BPO), fundada en 1999 y con sede en Madrid, España. Ayuda a las organizaciones a mejorar sus operaciones mediante la transformación digital, aplicaciones empresariales y consultoría estratégica.&lt;/p&gt;</description></item><item><title>Ingeniero de software - OFEX</title><link>https://darods.github.io/blog/es/experience/idexud/</link><pubDate>Mon, 01 Apr 2024 12:00:00 -0500</pubDate><guid>https://darods.github.io/blog/es/experience/idexud/</guid><description>&lt;p&gt;En mi puesto, me encargo de tareas de ingeniería de software y DevOps. Mi principal responsabilidad es liderar el desarrollo de soluciones de software de vanguardia diseñadas para automatizar procesos de infraestructura de servidores y operaciones de personal.&lt;/p&gt;
+&lt;h2 id="logros"&gt;Logros&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Mejoré la infraestructura con una soluciones basada en microservicios, utilizando Docker para administrar múltiples aplicaciones en Python, Javascript y PHP; Nginx como proxy inverso, impactando la operación de más de 10.000 usuarios.&lt;/li&gt;
+&lt;li&gt;Realicé revisiones técnicas de un software de impacto a nivel nacional como parte de un proyecto valorado en casi $1 millón de dólares, destinado a tomar decisiones de diseño informadas, identificar fallas de software y evaluar posibles escenarios de riesgo cibernético.&lt;/li&gt;
+&lt;li&gt;Desarrollé software utilizando python para la automatización de acciones manuales de análisis y manejo de documentos, impulsando en un 300% la agilidad del equipo de trabajo.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="qué-es-ofex"&gt;¿Qué es OFEX?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://idexud.udistrital.edu.co/"&gt;OFEX (&lt;em&gt;&amp;ldquo;Oficina de Extensión&amp;rdquo;&lt;/em&gt;)&lt;/a&gt; es una entidad de gestión de proyectos entre la Universidad Distrital y organismos externos del sector público.&lt;/p&gt;</description></item><item><title>Ingeniero SysOps - Instituto Nacional de Salud</title><link>https://darods.github.io/blog/es/experience/ins-moodle/</link><pubDate>Fri, 01 Mar 2024 12:00:00 -0500</pubDate><guid>https://darods.github.io/blog/es/experience/ins-moodle/</guid><description>&lt;p&gt;Este puesto tenía similitudes con el de ingeniero de confiabilidad del sitio, donde mis responsabilidades abarcaban la implementación y administración de servidores Linux y Windows durante todo el proceso de migración de la plataforma.
+Esto fue parte del despliegue y migración de una plataforma de aprendizaje electrónico conocida como &lt;a href="https://evigiaula.ins.gov.co/"&gt;&lt;em&gt;evigiaula&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="logros"&gt;Logros&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Gestioné el despliegue de una solución tecnológica en un servidor Windows Server con IIS, MariaDB y PHP para soportar más de 1000 usuarios concurrentes, garantizando su fiabilidad por medio de pruebas de estrés con JMeter.&lt;/li&gt;
+&lt;li&gt;Implementé una plataforma en un servidor Linux con Docker, administrando contenedores de MySQL, MariaDB y Apache para el desarrollo y pruebas de un equipo de más de 10 personas.&lt;/li&gt;
+&lt;li&gt;Contribuí al análisis de seguridad de la infraestructura virtual mediante NMAP y análisis físicos en el sitio para minimizar la superficie de ataque cibernético.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="qué-es-el-ins"&gt;¿Qué es el INS?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.ins.gov.co/"&gt;INS (&lt;em&gt;Instituto Nacional de Salud&lt;/em&gt;)&lt;/a&gt; es una institución pública cuya tarea principal es la investigación de los problemas de salud prioritarios que afectan a la comunidad colombiana, además de realizar desarrollo y transferencia de tecnología.&lt;/p&gt;</description></item><item><title>Blockchain and information privacy</title><link>https://darods.github.io/blog/es/talks/forogobernanzainternet2023/</link><pubDate>Fri, 10 Nov 2023 19:42:02 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/forogobernanzainternet2023/</guid><description>&lt;p&gt;Participé como ponente en el &lt;em&gt;10 Foro de Gobernanza de Internet&lt;/em&gt; impartiendo un taller en el que pretendo proporcionar una visión general sobre cómo el uso de las redes blockchain puede revelar información detallada sobre los movimientos, plataformas y hábitos financieros de las personas. Además, se explorarán estrategias para convertir transacciones que son pseudoanónimas en completamente anónimas. Por último, se analizará la relevancia de las políticas actualmente implantadas y las pendientes de implantación en relación con la gobernanza de estos activos y la prevención de su utilización en actividades delictivas y las consecuencias de estas.&lt;/p&gt;</description></item><item><title>UxTIC 2023</title><link>https://darods.github.io/blog/es/talks/uxtic2023/</link><pubDate>Thu, 08 Jun 2023 18:00:00 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/uxtic2023/</guid><description>&lt;p&gt;Participé en el debate &lt;em&gt;&amp;ldquo;Criptoactivos, criptomonedas anónimas y finanzas digitales&amp;rdquo;&lt;/em&gt;
+dentro del curso Blockchain y Criptoactivos 2023s1 organizado por CoinEx y UxTIC en colaboración con la Universidad Distrital Francisco José de Caldas, la Universidad Tres Culturas, la Corporación Universitaria Minuto de Dios y la Universidad Javeriana de Cali.
+&lt;a href="https://www.youtube.com/live/zXBpqjk5v58?feature=share"&gt;Haga clic aquí para ver el video&lt;/a&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/uxtic2023.png"&gt;
+ &lt;/figure&gt;
+&lt;/p&gt;</description></item><item><title>Contratista de TI - SKG Tecnología</title><link>https://darods.github.io/blog/es/experience/skg/</link><pubDate>Wed, 01 Jun 2022 12:00:00 -0500</pubDate><guid>https://darods.github.io/blog/es/experience/skg/</guid><description>&lt;p&gt;Formé parte de un equipo que desarrolla interfaces API para sensores de ciudades inteligentes ubicadas en la ciudad de Bogotá.&lt;/p&gt;
+&lt;h2 id="logros"&gt;Logros&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Documenté 3 sistemas de información y APIs para soluciones de ciudades inteligentes, usando Flask y PostgreSQL.&lt;/li&gt;
+&lt;li&gt;Creé modelos de bases de datos para PostgreSQL, arquitectura y casos de uso para 4 subsistemas escritos en Python.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="qué-es-skg"&gt;¿Qué es SKG?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://skgtecnologia.com/"&gt;SKG Technologies&lt;/a&gt; es una empresa de software que desarrolla soluciones de software para ciudades inteligentes utilizando dispositivos IoT.&lt;/p&gt;</description></item><item><title>JOVEN EMBDATA 2021</title><link>https://darods.github.io/blog/es/talks/jovenesembdata2021/</link><pubDate>Fri, 03 Dec 2021 19:42:02 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/jovenesembdata2021/</guid><description>&lt;p&gt;Tuve el honor de ser invitado para realizar una conferencia en
+el &lt;a href="https://encuentromundialbigdata.com/2021/jovenes-embdata-ti/"&gt;&lt;em&gt;JOVEN EMBDATA 2021&lt;/em&gt;&lt;/a&gt;, el la cual realicé la charla *&amp;ldquo;Avances en tecnología aeroespacial del grupo LIDER&amp;rdquo;.
+El evento EMB Data es uno de los mas importantes en la región.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/hQH7Yzj5QsE"&gt;Mira aquí el vídeo promocional&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/jovenesEMBData-daniel-arod-anuncio.png"&gt;
+&lt;/figure&gt;</description></item><item><title>Semana Linux UD XVII</title><link>https://darods.github.io/blog/es/talks/gludxvii2021/</link><pubDate>Wed, 25 Aug 2021 19:42:02 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/gludxvii2021/</guid><description>&lt;p&gt;Participé como ponente con la presentación titulada
+&lt;em&gt;&amp;ldquo;Uso de satélites con radios definidas por software&amp;rdquo;&lt;/em&gt;
+en la &lt;em&gt;Semana Linux UD XVIII&lt;/em&gt; del grupo GNU Linux de la Universidad Distrital.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/U7M6yRIEcx8"&gt;Haz clic aquí para ver la conferencia.&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/slud18-2021.jpeg"&gt;
+ &lt;/figure&gt;</description></item><item><title>FLISOL Ecuador 2021</title><link>https://darods.github.io/blog/es/talks/flislolec2021/</link><pubDate>Sat, 15 May 2021 19:42:02 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/flislolec2021/</guid><description>&lt;p&gt;Realicé la exposición &lt;em&gt;&amp;ldquo;Radios Definidas por Software: Historia y demostración de su
+uso&amp;rdquo;&lt;/em&gt; en el &lt;em&gt;17° Festival Latinoamericano De Instalación De Software Libre&lt;/em&gt;, el cual
+se puede ver en el siguiente enlace.&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/flisolec17-2020.png"&gt;
+ &lt;/figure&gt;</description></item><item><title>Técnico de soporte informático - RITA</title><link>https://darods.github.io/blog/es/experience/rita/</link><pubDate>Tue, 01 Dec 2020 12:00:00 -0500</pubDate><guid>https://darods.github.io/blog/es/experience/rita/</guid><description>&lt;p&gt;Como Técnico de Soporte, mis funciones principales involucraban la resolución, monitoreo y mantenimiento de computadoras, redes y páginas web según tickets asignados.&lt;/p&gt;
+&lt;h2 id="logros"&gt;Logros&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Resolví más de 50 solicitudes de soporte técnico relacionadas con servidores, monitorización con Zabbix, aplicaciones web y de escritorio, mejorando la eficiencia operativa y la continuidad del negocio.&lt;/li&gt;
+&lt;li&gt;Prestación de servicios de consultoría tecnológica y difusión de resultados a más de 15 proyectos de investigación.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="qué-es-rita"&gt;¿Qué es RITA?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://rita.udistrital.edu.co/"&gt;RITA (&lt;em&gt;Red de Investigaciones de Tecnología Avanzada&lt;/em&gt;)&lt;/a&gt; es una entidad pública que brinda servicios especializados para la ejecución de proyectos e innovación científica.&lt;/p&gt;</description></item><item><title>VIII Encuentro de Investigación - UDistrital</title><link>https://darods.github.io/blog/es/talks/encuentrofce2020/</link><pubDate>Tue, 27 Oct 2020 19:42:02 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/encuentrofce2020/</guid><description>&lt;p&gt;Presenté la ponencia &lt;em&gt;&amp;ldquo;Desarrollo de picosatélites tipo CanSat para la eseñanza
+dy aplicación de fundamentos de física&amp;rdquo;&lt;/em&gt; en el &lt;em&gt;VII Encuentro de Investigación&lt;/em&gt; de
+la Facultad de Ciencias y Educación de la Universidad Distrital Francisco José de
+Caldas.&lt;/p&gt;
+&lt;p&gt;Se espera que el artículo envíado aparezca publicado en el libro de mememorias
+del evento.&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/encuentro-inv-fce2020.png"&gt;
+ &lt;/figure&gt;</description></item><item><title>Software Freedom Day Ecuador 2020</title><link>https://darods.github.io/blog/es/talks/softwarefreedomdayec2020/</link><pubDate>Tue, 29 Sep 2020 19:42:02 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/softwarefreedomdayec2020/</guid><description>&lt;p&gt;Realicé la exposición &lt;em&gt;&amp;ldquo;Caracterización de motores de cohete usando Arduino y
+Python&amp;rdquo;&lt;/em&gt; en el &lt;em&gt;&amp;ldquo;Software Freedom Day 2020 Ecuador&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/VfKvgGvEOdM"&gt;Haz clic aquí para ver la coferencia&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/SFDec2020.jpg"&gt;
+ &lt;/figure&gt;</description></item><item><title>Semana Linux UD XVIII</title><link>https://darods.github.io/blog/es/talks/gludxvii2020/</link><pubDate>Sat, 29 Aug 2020 19:42:02 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/gludxvii2020/</guid><description>&lt;p&gt;Participé como ponente con dos presentaciones, la primera titulada
+&lt;em&gt;&amp;ldquo;Interfaz de monitoreo en tiempo real para picosatelites y cohetes modelo&amp;rdquo;&lt;/em&gt;
+y la segunda &lt;em&gt;&amp;ldquo;Caracterización de motores de cohete usando Arduino y Python&amp;rdquo;&lt;/em&gt;
+en la &lt;em&gt;Semana Linux UD XVII&lt;/em&gt; del grupo GNU Linux de la Universidad Distrital.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/sTREDIjP0is"&gt;Haz clic aquí para ver la conferencia&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/SLUD172020-cohetes.jpg"&gt;
+ &lt;/figure&gt;</description></item><item><title>V Encuentro Internacional ReLaCa ESPACIO</title><link>https://darods.github.io/blog/es/talks/relaca2020/</link><pubDate>Fri, 22 May 2020 19:00:49 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/relaca2020/</guid><description>&lt;p&gt;Se realizó una ponencia de forma virtual en el &lt;em&gt;V Encuentro Internacional de la Red
+Latinoamericana y del Caribe del Espacio - ReLaCa ESPACIO&lt;/em&gt;, en la que se explicó el
+software de visualización de datos en tiempo real para picosatelites
+tipo CanSat y cohetes modelo.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/WQqk9afHDvA"&gt;Haz clic aquí para ver la conferencia&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/relaca2020.jpg"&gt;
+ &lt;/figure&gt;</description></item><item><title>Asistente de desarrollador web - Confecciones Argos</title><link>https://darods.github.io/blog/es/experience/argos/</link><pubDate>Thu, 30 Jan 2020 11:00:59 -0400</pubDate><guid>https://darods.github.io/blog/es/experience/argos/</guid><description>&lt;p&gt;Estuve a cargo del desarrollo de una página de comercio electrónico en la que la empresa pudiera vender sus productos y la estrategia de marketing realizando anuncios en redes sociales.&lt;/p&gt;
+&lt;h2 id="logros"&gt;Logros&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Desarrollé un &lt;a href="https://santibebe.com/"&gt;sitio web de comercio electrónico&lt;/a&gt; que le permitió a la empresa comercializar y vender sus productos en línea de manera efectiva.&lt;/li&gt;
+&lt;li&gt;Creé anuncios y estrategias de marketing en plataformas de redes sociales, aprovechando el Administrador de anuncios de Facebook para administrar múltiples cuentas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="qué-es-confecciones-argos"&gt;¿Qué es Confecciones Argos?&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://santibebe.com/"&gt;Confecciones Argos&lt;/a&gt; Es una empresa de propiedad privada que fabrica ropa para bebés desde hace casi 20 años, estableciendo una fuerte presencia en el mercado.&lt;/p&gt;</description></item><item><title>Red Colsi Nodo Bogotá 2019</title><link>https://darods.github.io/blog/es/talks/redcolsi2019/</link><pubDate>Thu, 09 May 2019 19:00:49 -0500</pubDate><guid>https://darods.github.io/blog/es/talks/redcolsi2019/</guid><description>&lt;h3 id="original-name"&gt;Original name&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Aplicación Práctica de Ingeniería Aeroespacial a Través de la construcción de
+un prototipo CanSat y Cohetes Modelo para la medición de factores armosféricos&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;This was the first talk i&amp;rsquo;ve done to general public, i presented the first
+version of the model rocket &lt;strong&gt;POA&lt;/strong&gt; at the &lt;em&gt;Autonomous University of
+Colombia&lt;/em&gt; (Universidad Autonoma de Colombia).
+I presented this poster&lt;/p&gt;
+&lt;p&gt;(La imagen tarda un poco en cargar)&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://darods.github.io/blog/images/redcolsi2019.jpg"&gt;
+ &lt;/figure&gt;</description></item><item><title>Contacto</title><link>https://darods.github.io/blog/es/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://darods.github.io/blog/es/contact/</guid><description>&lt;form class="black-80 sans-serif" accept-charset="UTF-8" action="https://formspree.io/f/xqkneejb" method="POST" role="form"&gt;
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="name"&gt;Tu nombre&lt;/label&gt;
+ &lt;input type="text" id="name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="name"/&gt;
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="email"&gt;Dirección de correo electrónico&lt;/label&gt;
+ &lt;input type="email" id="email" name="email" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="email"/&gt;
+ &lt;div class="requirements f6 gray glow i ph3 overflow-hidden"&gt;
+ Se requiere una dirección de correo electrónico.
+ &lt;/div&gt;
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="message"&gt;Mensaje&lt;/label&gt;
+ &lt;textarea id="message" name="message" class="w-100 f5 pv3 ph3 bg-light-gray bn h4" aria-labelledby="message"&gt;&lt;/textarea&gt;
+
+ &lt;input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="Enviar" /&gt;
+
+&lt;/form&gt;</description></item></channel></rss>
