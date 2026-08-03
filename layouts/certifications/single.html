@@ -1,6 +1,14 @@
 {{ define "main" }}
   <article class="article-page">
     <div class="article-page__inner">
+      {{ with .Params.image }}
+        {{ $img := (trim . "/") | absURL }}
+        <div class="article-page__hero">
+          <img src="{{ $img }}" alt="{{ $.Title }}" loading="lazy" />
+          <div class="article-page__hero-overlay"></div>
+        </div>
+      {{ end }}
+
       <div class="article-page__meta">
         {{ with .Params.issuer }}
           <span class="article-page__section">{{ . | upper }}</span>

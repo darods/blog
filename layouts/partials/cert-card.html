@@ -1,7 +1,15 @@
 <a href="{{ .Permalink }}" class="summary-card">
-  <div class="summary-card__media summary-card__media--placeholder">
-    <div class="summary-card__overlay"></div>
-  </div>
+  {{ with .Params.image }}
+    {{ $img := (trim . "/") | absURL }}
+    <div class="summary-card__media">
+      <img src="{{ $img }}" alt="{{ $.Title }}" loading="lazy" />
+      <div class="summary-card__overlay"></div>
+    </div>
+  {{ else }}
+    <div class="summary-card__media summary-card__media--placeholder">
+      <div class="summary-card__overlay"></div>
+    </div>
+  {{ end }}
   <div class="summary-card__body">
     <div class="summary-card__meta">
       <span class="summary-card__section">{{ .Params.issuer }}</span>

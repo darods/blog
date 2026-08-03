@@ -1,6 +1,7 @@
 ---
 title: "AWS Certified Solutions Architect – Associate"
 description: "Amazon Web Services · SAA-C03"
+image: /images/aws-saa-c03.png
 issuer: "Amazon Web Services"
 date: 2025-12-20
 credential_id: "SAA-C03"

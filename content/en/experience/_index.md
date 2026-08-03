@@ -1,7 +1,7 @@
 ---
 title: "Experience"
 date: 2024-04-13T12:00:00-05:00
-featured_image: '/images/background.jpg'
+featured_image: '/images/cyberpunk_futuristic.png'
 ---
 
 

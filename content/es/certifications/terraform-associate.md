@@ -1,6 +1,7 @@
 ---
 title: "HashiCorp Certified: Terraform Associate"
 description: "HashiCorp · HCTA0-004"
+image: /images/hcta0-004.png
 issuer: "HashiCorp"
 date: 2026-03-28
 credential_id: "HCTA0-004"
