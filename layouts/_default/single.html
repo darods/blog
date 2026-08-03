@@ -17,8 +17,12 @@
         {{ with .CurrentSection.Title }}
           <span class="article-page__section">{{ . | upper }}</span>
         {{ end }}
-        <time class="article-page__date" datetime="{{ .Date.Format "2006-01-02" }}">
-          {{ .Date.Format "January 2, 2006" }}
+        {{ $start := "" }}
+        {{ $end := "" }}
+        {{ with .Params.start }}{{ $start = (time .).Format "January 2006" }}{{ end }}
+        {{ with .Params.end }}{{ $end = (time .).Format "January 2006" }}{{ end }}
+        <time class="article-page__date" datetime="{{ if $start }}{{ (time .Params.start).Format "2006-01-02" }}{{ else }}{{ .Date.Format "2006-01-02" }}{{ end }}">
+          {{ if $start }}{{ $start }}{{ if $end }} – {{ $end }}{{ else }} – {{ if eq .Language.Lang "es" }}Actualidad{{ else }}Present{{ end }}{{ end }}{{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }}
         </time>
       </div>
 

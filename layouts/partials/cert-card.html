@@ -1,0 +1,24 @@
+<a href="{{ .Permalink }}" class="summary-card">
+  {{ with .Params.image }}
+    {{ $img := (trim . "/") | absURL }}
+    <div class="summary-card__media">
+      <img src="{{ $img }}" alt="{{ $.Title }}" loading="lazy" />
+      <div class="summary-card__overlay"></div>
+    </div>
+  {{ else }}
+    <div class="summary-card__media summary-card__media--placeholder">
+      <div class="summary-card__overlay"></div>
+    </div>
+  {{ end }}
+  <div class="summary-card__body">
+    <div class="summary-card__meta">
+      <span class="summary-card__section">{{ .Params.issuer }}</span>
+      <time class="summary-card__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2006" }}</time>
+    </div>
+    <h2 class="summary-card__title">{{ .Title }}</h2>
+    {{ with .Params.credential_id }}
+      <p class="summary-card__desc">{{ . }}</p>
+    {{ end }}
+    <span class="summary-card__cta">{{ if eq .Language.Lang "es" }}Leer más{{ else }}read more{{ end }} &rarr;</span>
+  </div>
+</a>

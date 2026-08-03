@@ -1,6 +1,8 @@
 ---
-date: 2022-07-20T11:00:59-04:00
-description: "IT Contractor - SKG Technologies"
+date: 2022-06-01T12:00:00-05:00
+start: "2021-12-01"
+end: "2022-06-01"
+description: "I was part of a team that develops API interfaces for smart cities sensors located in the city of Bogotá."
 featured_image: "/images/skg-logo.png"
 title: "IT Contractor - SKG Technologies"
 ---

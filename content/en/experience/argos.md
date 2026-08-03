@@ -1,6 +1,6 @@
 ---
 date: 2020-01-30T11:00:59-04:00
-description: "Assitant Web Developer - Argos Garments"
+description: "Development of an e-commerce page in which the company could sell their products and the marketing strategy making ads in social media."
 featured_image: "/images/santibebe-logo.png"
 title: "Assitant Web Developer - Argos Garments"
 ---

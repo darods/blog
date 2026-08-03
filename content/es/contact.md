@@ -1,6 +1,6 @@
 ---
 title: Contacto
-featured_image: "images/background.jpg"
+featured_image: "images/halo.jpg"
 omit_header_text: true
 description: Encantado de responder a sus inquetudes
 type: page

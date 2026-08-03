@@ -39,13 +39,13 @@ canonifyURLs = true
   stackoverflow = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/cyberpunk-vr-girl-scifi-lp.jpg"
   recent_posts_number = 10
   mainSections = ["experience","post"]
   custom_css = ["css/custom.css", "css/home.css"]
 
   [params.home]
-    experience_count = 5
+    experience_count = 8
     projects_count = 7
     talks_count = 6
 

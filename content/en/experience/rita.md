@@ -1,6 +1,8 @@
 ---
-date: 2020-04-20T11:00:59-04:00
-description: "IT Support Technician"
+date: 2020-12-01T12:00:00-05:00
+start: "2020-09-01"
+end: "2020-12-01"
+description: "Troubleshooting, monitoring, and maintaining computers, networks, and web pages according to assigned tickets."
 featured_image: "/images/rita-banner.png"
 title: "IT Support Technician - RITA"
 ---
